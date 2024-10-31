@@ -1,0 +1,3344 @@
+author_type,floor,floors_count,rooms_count,total_meters,underground,availability_underground,price_per_meter
+real_estate_agent,11,12,1,33.5,Улица Академика Янгеля,True,238806
+real_estate_agent,4,7,1,31.1,Академическая,True,192926
+real_estate_agent,4,20,2,64.29,Тульская,True,375900
+real_estate_agent,1,8,2,48.3,Проспект Ветеранов,True,179089
+real_estate_agent,3,12,2,37.0,Селигерская,True,256757
+realtor,17,25,1,36.8,Чертановская,True,269022
+homeowner,3,24,2,53.2,Верхние котлы,True,367857
+developer,2,16,1,37.9,not available,False,140000
+real_estate_agent,4,4,1,42.7,Проспект Ветеранов,True,130913
+developer,3,8,2,76.9,not available,False,299090
+real_estate_agent,10,14,2,56.7,Филёвский парк,True,392104
+realtor,8,22,1,40.0,Люблино,True,332250
+developer,2,18,2,49.5,Площадь 1905 года,True,156162
+real_estate_agent,9,20,2,59.0,Тульская,True,430000
+realtor,4,17,2,74.0,Пионерская,True,233784
+developer,19,25,2,38.54,not available,False,133368
+realtor,5,17,2,60.0,Марьино,True,309167
+developer,2,8,1,70.3,not available,False,227596
+real_estate_agent,14,16,2,50.5,Отрадное,True,277228
+realtor,7,12,2,55.0,not available,False,243636
+real_estate_agent,2,7,2,55.0,not available,False,161800
+developer,3,18,1,34.1,Площадь 1905 года,True,173050
+developer,14,24,2,53.3,not available,False,171857
+developer,6,23,2,52.3,Машиностроителей,True,131778
+developer,15,19,2,42.1,not available,False,193112
+homeowner,10,10,1,38.5,Лермонтовский проспект,True,292987
+homeowner,2,9,2,37.4,Коломенская,True,387433
+developer,3,21,2,72.09,Козья слобода,True,274705
+developer,21,25,2,33.84,Уральская,True,175086
+realtor,10,17,1,45.0,Пионерская,True,308889
+developer,18,23,1,32.7,Машиностроителей,True,146911
+real_estate_agent,6,10,1,31.7,not available,False,229653
+real_estate_agent,11,14,1,35.0,Кутузовская,True,397143
+developer,2,9,2,40.15,not available,False,130262
+real_estate_agent,3,14,1,39.0,Новопеределкино,True,238462
+developer,4,13,1,47.1,not available,False,177902
+realtor,7,17,2,60.3,Некрасовка,True,217247
+real_estate_agent,3,14,1,43.5,Марьино,True,275862
+developer,17,25,2,40.82,not available,False,156051
+realtor,2,9,1,31.8,Молодёжная,True,383333
+real_estate_agent,5,9,2,45.0,Новаторская,True,355333
+developer,18,24,2,58.8,Геологическая,True,275850
+developer,3,16,2,78.1,Динамо,True,394264
+realtor,5,13,2,59.8,Марьино,True,273411
+realtor,9,9,1,36.9,Братиславская,True,239837
+developer,4,9,1,32.44,Рыбацкое,True,157910
+real_estate_agent,7,8,2,70.0,not available,False,385714
+developer,13,19,2,51.8,Машиностроителей,True,146602
+real_estate_agent,19,23,1,36.4,Беговая,True,241758
+developer,10,24,1,45.8,Козья слобода,True,345195
+real_estate_agent,11,15,1,36.3,Комендантский проспект,True,225895
+real_estate_agent,2,3,2,50.0,not available,False,224000
+developer,6,9,1,40.6,not available,False,130788
+realtor,9,9,2,50.0,Сходненская,True,350000
+developer,21,25,1,37.39,not available,False,148859
+real_estate_agent,4,14,2,57.7,Приморская,True,265000
+developer,11,16,2,47.1,Ботаническая,True,139686
+developer,2,10,2,69.56,not available,False,320000
+representative_developer,2,14,2,65.8,not available,False,142000
+developer,4,24,1,40.4,Геологическая,True,253639
+homeowner,3,17,1,38.0,Свиблово,True,360526
+developer,2,16,1,55.9,Динамо,True,383936
+real_estate_agent,3,5,2,67.2,Спортивная,True,424107
+homeowner,3,9,2,44.0,Отрадное,True,352273
+real_estate_agent,5,13,1,36.62,Приморская,True,251229
+developer,2,25,1,30.4,Машиностроителей,True,206842
+developer,3,6,2,45.4,not available,False,130000
+homeowner,12,12,1,39.1,Сходненская,True,322251
+real_estate_agent,3,9,2,37.0,Бабушкинская,True,356730
+developer,2,9,2,73.9,Динамо,True,349648
+developer,3,16,1,35.8,Ботаническая,True,157397
+real_estate_agent,3,11,2,53.0,not available,False,420755
+developer,14,25,2,70.6,Геологическая,True,166190
+real_estate_agent,8,22,2,87.2,Поклонная,True,435780
+real_estate_agent,10,10,2,45.5,not available,False,269231
+developer,3,6,1,33.4,not available,False,137000
+realtor,2,15,1,31.9,ЦСКА,True,368598
+developer,21,22,1,34.4,not available,False,148417
+developer,16,19,2,50.3,Горки,True,183600
+real_estate_agent,2,9,2,74.0,Аминьевская,True,405405
+real_estate_agent,8,13,2,57.9,Приморская,True,280000
+homeowner,8,12,1,38.8,Домодедовская,True,350000
+real_estate_agent,10,12,2,44.0,Грачёвская,True,245455
+developer,15,17,1,36.43,not available,False,135603
+developer,2,8,1,42.64,Проспект Космонавтов,True,182070
+developer,4,12,2,55.2,not available,False,146800
+developer,4,19,1,31.8,Горки,True,278000
+homeowner,9,9,2,60.0,Химки,True,300000
+representative_developer,2,7,1,39.4,not available,False,160000
+real_estate_agent,5,6,1,35.0,not available,False,288571
+real_estate_agent,2,4,1,31.0,not available,False,383871
+developer,3,22,2,69.09,not available,False,210300
+real_estate_agent,4,4,2,40.0,not available,False,287500
+real_estate_agent,9,14,1,38.5,Зеленоград — Крюково,True,187013
+real_estate_agent,5,6,1,40.0,not available,False,300000
+developer,2,17,1,35.8,Горки,True,245000
+developer,5,9,2,83.43,Суконная слобода,True,348100
+real_estate_agent,3,8,2,55.5,Университет,True,432432
+real_estate_agent,15,22,1,30.6,Стрешнево,True,444444
+developer,2,16,1,26.7,not available,False,136712
+real_estate_agent,13,17,2,67.7,Автозаводская,True,409158
+developer,2,5,2,61.01,Кремлёвская,True,328700
+real_estate_agent,15,20,2,79.4,Нагатинская,True,376196
+homeowner,6,9,2,47.0,Приморская,True,282979
+homeowner,9,10,1,44.0,not available,False,193182
+developer,10,22,1,37.8,not available,False,267937
+real_estate_agent,6,17,1,43.4,Технопарк,True,440092
+real_estate_agent,12,22,2,52.0,Стрешнево,True,382692
+real_estate_agent,12,14,1,31.0,not available,False,351613
+real_estate_agent,9,20,1,39.74,Тульская,True,422800
+developer,3,21,2,59.6,Павелецкая,True,389385
+developer,4,5,1,40.17,Кремлёвская,True,360000
+realtor,5,10,2,56.0,not available,False,271429
+representative_developer,2,4,2,77.0,not available,False,248312
+real_estate_agent,2,10,1,46.7,Удельная,True,310000
+real_estate_agent,7,9,2,78.0,not available,False,253846
+real_estate_agent,1,25,1,30.4,Комендантский проспект,True,256579
+developer,5,8,2,44.6,Площадь 1905 года,True,174058
+real_estate_agent,4,11,1,52.4,Обводный канал,True,379771
+developer,2,10,2,43.53,not available,False,213400
+real_estate_agent,10,12,2,65.0,not available,False,264615
+real_estate_agent,1,9,2,48.0,Нахимовский проспект,True,310417
+real_estate_agent,3,6,1,52.0,not available,False,391538
+developer,3,9,1,55.0,Динамо,True,341609
+real_estate_agent,3,6,1,47.3,not available,False,383087
+real_estate_agent,17,20,2,65.0,not available,False,258462
+developer,4,20,1,27.3,Аметьево,True,314775
+representative_developer,2,4,1,29.45,not available,False,358574
+real_estate_agent,15,21,2,76.0,not available,False,263158
+real_estate_agent,1,12,2,54.8,Перово,True,259124
+developer,10,19,1,31.0,Площадь 1905 года,True,169287
+developer,19,25,2,57.7,Авиамоторная,True,431800
+developer,13,27,2,61.78,Геологическая,True,195678
+real_estate_agent,4,10,2,64.3,Удельная,True,325000
+real_estate_agent,4,14,2,53.0,not available,False,216038
+real_estate_agent,9,12,1,39.0,Тропарёво,True,346154
+developer,2,25,2,39.4,not available,False,156600
+real_estate_agent,14,17,1,39.0,not available,False,410256
+real_estate_agent,1,16,2,54.0,Ясенево,True,255556
+real_estate_agent,2,6,2,58.0,Тушинская,True,318966
+real_estate_agent,8,8,2,50.0,not available,False,130000
+real_estate_agent,21,22,1,39.0,Алма-Атинская,True,289744
+developer,2,22,1,49.7,not available,False,197700
+developer,4,20,2,36.0,Коптево,True,396123
+developer,3,4,1,36.32,not available,False,373950
+real_estate_agent,8,17,1,28.0,not available,False,319643
+representative_developer,2,4,2,70.03,not available,False,178495
+real_estate_agent,13,25,1,38.8,Бульвар Генерала Карбышева,True,381443
+real_estate_agent,15,18,1,38.5,Стрешнево,True,428571
+real_estate_agent,17,22,1,43.5,Стрешнево,True,441379
+realtor,2,12,2,57.0,Молодёжная,True,426316
+real_estate_agent,15,25,2,73.0,Аминьевская,True,349315
+developer,9,25,2,85.3,Заельцовская,True,173039
+real_estate_agent,4,9,2,45.0,Войковская,True,388667
+real_estate_agent,4,5,2,53.9,Университет,True,367161
+real_estate_agent,13,17,2,52.2,Тропарёво,True,382184
+real_estate_agent,7,25,2,62.9,Тушинская,True,325914
+real_estate_agent,18,27,2,60.0,Авиамоторная,True,383333
+realtor,19,24,2,60.0,Бульвар Рокоссовского,True,386667
+realtor,11,24,2,61.4,Отрадное,True,407003
+real_estate_agent,3,8,2,57.7,Вавиловская,True,441924
+real_estate_agent,6,7,2,70.0,not available,False,264286
+realtor,5,15,2,37.3,not available,False,155496
+representative_developer,2,3,2,67.78,not available,False,140000
+real_estate_agent,15,25,1,48.0,Аметьево,True,206250
+homeowner,3,14,2,52.0,Зеленоград — Крюково,True,197096
+real_estate_agent,2,16,2,54.0,Ясенево,True,287037
+real_estate_agent,7,10,2,48.25,not available,False,352332
+realtor,5,6,2,70.0,Площадь Александра Невского,True,260714
+real_estate_agent,18,22,1,43.2,Стрешнево,True,444444
+real_estate_agent,1,5,2,58.8,Марксистская,True,414966
+representative_developer,4,23,2,51.9,not available,False,135000
+real_estate_agent,5,7,2,36.0,not available,False,216667
+real_estate_agent,4,10,1,48.0,Горки,True,191667
+real_estate_agent,20,26,2,51.0,Аметьево,True,194098
+real_estate_agent,5,7,2,54.3,not available,False,232044
+real_estate_agent,5,9,2,54.5,not available,False,256881
+real_estate_agent,7,7,2,55.0,not available,False,263636
+real_estate_agent,2,4,2,60.4,not available,False,333361
+real_estate_agent,5,5,1,54.7,Гостиный двор,True,402194
+real_estate_agent,5,18,2,65.0,not available,False,350000
+developer,2,12,1,37.4,not available,False,135000
+real_estate_agent,3,14,1,38.8,not available,False,152062
+developer,12,15,2,46.5,not available,False,150000
+real_estate_agent,1,12,2,54.5,not available,False,135780
+unknown,2,3,2,35.5,not available,False,264789
+developer,12,21,1,38.59,Калитники,True,319992
+real_estate_agent,8,22,2,70.5,Угрешская,True,392199
+representative_developer,2,24,1,30.3,not available,False,175652
+realtor,15,20,1,43.12,not available,False,135668
+real_estate_agent,4,5,1,31.3,not available,False,210863
+real_estate_agent,14,16,1,36.0,Проспект Большевиков,True,191667
+real_estate_agent,19,19,1,24.0,not available,False,345833
+real_estate_agent,1,5,1,40.9,Купчино,True,222494
+real_estate_agent,4,5,2,58.0,Елизаровская,True,181034
+homeowner,8,8,2,44.0,not available,False,268182
+real_estate_agent,12,18,2,69.72,Проспект Большевиков,True,261761
+developer,2,13,2,85.9,not available,False,220000
+real_estate_agent,5,16,2,56.1,Октябрьская,True,156684
+developer,1,10,2,61.06,not available,False,149897
+real_estate_agent,11,12,1,34.8,Щёлковская,True,268678
+developer,3,8,2,76.5,not available,False,164000
+realtor,8,27,2,74.3,ЗИЛ,True,376851
+developer,2,9,2,66.53,not available,False,438900
+real_estate_agent,4,20,1,76.13,Тульская,True,422500
+real_estate_agent,21,26,1,35.3,Улица Дыбенко,True,240793
+realtor,3,5,2,52.8,Купчино,True,186553
+homeowner,9,15,2,70.0,not available,False,150000
+real_estate_agent,8,9,1,50.0,not available,False,305000
+real_estate_agent,15,20,2,60.0,not available,False,325000
+homeowner,8,9,2,44.0,Золотая Нива,True,170455
+developer,10,16,1,46.7,not available,False,170000
+developer,5,9,2,56.8,not available,False,184859
+developer,3,8,2,77.4,not available,False,149225
+real_estate_agent,1,8,2,49.3,not available,False,283976
+unknown,4,5,1,33.0,not available,False,136364
+representative_developer,2,21,1,33.66,not available,False,140000
+real_estate_agent,15,15,1,35.0,not available,False,142857
+representative_developer,4,12,1,33.7,not available,False,165000
+representative_developer,12,16,1,56.07,not available,False,144997
+real_estate_agent,7,18,2,45.0,not available,False,184611
+real_estate_agent,7,9,1,31.8,Щёлковская,True,283019
+real_estate_agent,3,22,1,39.0,not available,False,273077
+representative_developer,13,15,2,49.8,not available,False,230000
+realtor,6,9,2,40.0,Сходненская,True,349750
+real_estate_agent,2,19,2,78.2,Горьковская,True,189130
+developer,8,9,1,35.84,Балтийская,True,412388
+unknown,16,18,2,48.97,Приморская,True,351235
+real_estate_agent,10,13,2,42.4,ЗИЛ,True,436321
+developer,2,9,1,67.3,Суконная слобода,True,330200
+real_estate_agent,9,19,2,71.2,ЗИЛ,True,379213
+real_estate_agent,3,21,2,70.0,Технопарк,True,414143
+developer,2,9,2,78.65,Балтийская,True,379911
+unknown,3,10,1,38.3,not available,False,221932
+real_estate_agent,10,16,1,32.6,not available,False,147239
+real_estate_agent,1,5,1,32.0,not available,False,187188
+representative_developer,2,21,2,49.01,not available,False,130000
+representative_developer,8,24,2,43.4,not available,False,156600
+real_estate_agent,6,11,1,35.0,Приморская,True,199714
+real_estate_agent,2,7,1,33.8,Стрелка,True,221598
+representative_developer,8,9,2,54.9,not available,False,159500
+representative_developer,1,21,2,57.9,not available,False,152144
+homeowner,5,9,2,50.0,Яшьлек,True,206000
+homeowner,4,5,2,60.0,Московские ворота,True,206667
+developer,16,25,1,63.68,Горьковская,True,240000
+realtor,2,5,2,47.7,Парк Победы,True,334382
+representative_developer,4,15,2,64.9,not available,False,287458
+homeowner,6,9,1,33.3,not available,False,148649
+real_estate_agent,1,4,1,36.3,not available,False,150138
+real_estate_agent,10,10,1,40.7,not available,False,135135
+homeowner,14,17,1,42.0,not available,False,166429
+homeowner,14,14,1,61.6,not available,False,134740
+real_estate_agent,1,3,2,60.0,not available,False,141667
+real_estate_agent,14,17,2,49.0,not available,False,182653
+real_estate_agent,5,7,1,34.6,Щёлковская,True,260116
+real_estate_agent,1,6,2,40.0,Перово,True,250000
+real_estate_agent,11,12,1,35.0,Рязанский проспект,True,291429
+real_estate_agent,11,17,2,51.0,not available,False,203922
+realtor,2,12,1,41.0,Семёновская,True,285366
+real_estate_agent,13,25,2,45.6,Трикотажная,True,282675
+real_estate_agent,8,9,1,32.3,Севастопольская,True,398142
+real_estate_agent,4,15,1,32.4,ЦСКА,True,432099
+realtor,8,9,2,40.0,Беломорская,True,355000
+real_estate_agent,17,17,2,52.9,Новогиреево,True,283554
+real_estate_agent,15,21,2,37.26,Зорге,True,424047
+real_estate_agent,8,17,2,54.1,Тульская,True,345656
+real_estate_agent,11,16,2,68.0,Матвеевская,True,291176
+real_estate_agent,7,8,2,60.0,Проспект Вернадского,True,355000
+representative_developer,10,21,2,49.8,Давыдково,True,444700
+real_estate_agent,4,5,2,57.5,Полежаевская,True,408696
+real_estate_agent,1,6,2,76.4,Заельцовская,True,310209
+real_estate_agent,7,20,2,74.32,Тульская,True,385578
+real_estate_agent,10,21,2,76.3,Народное Ополчение,True,386632
+representative_developer,7,19,1,43.2,not available,False,131500
+representative_developer,2,9,2,48.2,not available,False,152015
+real_estate_agent,7,9,2,54.0,Горки,True,139815
+real_estate_agent,5,8,1,30.0,not available,False,256667
+developer,5,17,2,50.8,not available,False,156000
+developer,7,13,1,49.83,not available,False,166000
+real_estate_agent,6,6,1,29.0,not available,False,293103
+developer,12,17,2,52.27,not available,False,166400
+developer,2,25,1,35.85,Горки,True,257000
+developer,2,14,2,48.6,Проспект Победы,True,190370
+real_estate_agent,1,8,1,35.0,not available,False,271429
+developer,15,17,2,61.49,not available,False,160160
+real_estate_agent,16,22,1,35.4,Ладожская,True,281073
+real_estate_agent,17,24,1,58.0,not available,False,172414
+representative_developer,5,16,2,71.22,not available,False,139989
+representative_developer,2,10,1,35.79,not available,False,315000
+real_estate_agent,8,19,2,48.75,not available,False,235692
+representative_developer,5,16,2,65.3,not available,False,175957
+representative_developer,2,20,1,36.05,not available,False,360000
+developer,4,7,1,48.8,Кремлёвская,True,315988
+developer,3,5,1,42.97,Кремлёвская,True,355000
+developer,18,25,2,89.1,Заельцовская,True,174923
+developer,2,8,2,61.61,Козья слобода,True,266661
+representative_developer,4,25,2,62.03,not available,False,300000
+real_estate_agent,17,26,1,50.0,not available,False,380000
+representative_developer,2,20,2,53.92,not available,False,360000
+representative_developer,2,10,2,69.56,not available,False,315000
+real_estate_agent,12,24,2,66.7,Козья слобода,True,359670
+realtor,6,7,1,55.7,Площадь Тукая,True,430000
+real_estate_agent,2,5,1,31.0,not available,False,170935
+real_estate_agent,1,6,2,58.8,not available,False,132653
+real_estate_agent,15,27,2,41.4,Гагаринская,True,207971
+realtor,8,9,2,44.0,Савёловская,True,352273
+real_estate_agent,11,14,2,56.0,Семёновская,True,348214
+real_estate_agent,5,9,2,88.67,not available,False,250000
+homeowner,3,4,1,28.1,not available,False,135231
+real_estate_agent,3,9,1,29.5,Кремлёвская,True,132169
+real_estate_agent,4,5,1,31.6,Северный Вокзал,True,148418
+real_estate_agent,9,9,1,34.4,Дубравная,True,136628
+real_estate_agent,1,5,1,30.5,Яшьлек,True,163934
+real_estate_agent,8,9,1,29.5,not available,False,172881
+representative_developer,2,24,1,36.96,not available,False,151417
+real_estate_agent,4,5,2,42.9,Яшьлек,True,132844
+developer,5,25,1,33.4,not available,False,169900
+representative_developer,4,16,2,36.0,not available,False,158333
+developer,10,25,1,37.54,not available,False,152904
+developer,15,21,1,35.8,not available,False,161000
+unknown,5,13,1,34.1,Проспект Ветеранов,True,175953
+real_estate_agent,5,5,1,32.1,Суконная слобода,True,196231
+real_estate_agent,1,10,1,36.1,Дубравная,True,177008
+real_estate_agent,9,10,1,42.0,Авиастроительная,True,157143
+real_estate_agent,7,19,1,32.0,Дубравная,True,207812
+real_estate_agent,4,5,2,43.2,Суконная слобода,True,157176
+real_estate_agent,10,10,1,36.5,Горки,True,189041
+real_estate_agent,6,18,1,38.7,Авиастроительная,True,180620
+real_estate_agent,6,8,2,38.0,Авиастроительная,True,188132
+real_estate_agent,5,16,1,47.5,Горки,True,150316
+real_estate_agent,6,9,2,51.8,Горки,True,142664
+real_estate_agent,5,9,2,53.8,Проспект Победы,True,137361
+real_estate_agent,15,19,1,30.5,Горки,True,248852
+real_estate_agent,5,9,1,34.7,Яшьлек,True,221614
+real_estate_agent,5,6,1,38.6,Дубравная,True,204663
+real_estate_agent,10,12,2,44.0,not available,False,181818
+real_estate_agent,2,5,1,54.6,Проспект Победы,True,148352
+real_estate_agent,8,20,1,36.1,Суконная слобода,True,226870
+real_estate_agent,4,9,2,54.2,Проспект Победы,True,152214
+real_estate_agent,3,10,1,36.7,Авиастроительная,True,231608
+real_estate_agent,4,5,1,34.0,Яшьлек,True,252941
+real_estate_agent,4,5,2,47.1,Площадь Тукая,True,182569
+real_estate_agent,14,19,1,39.41,Горки,True,220731
+homeowner,2,24,1,40.0,Ладожская,True,223750
+real_estate_agent,6,19,2,62.2,Ленинский проспект,True,152733
+real_estate_agent,9,16,2,71.0,Горки,True,136620
+real_estate_agent,16,19,2,50.0,Горки,True,195980
+representative_developer,7,24,2,62.77,not available,False,156444
+real_estate_agent,2,5,2,43.2,Новочеркасская,True,236111
+real_estate_agent,5,7,2,32.0,not available,False,323125
+real_estate_agent,12,13,1,38.89,Комендантский проспект,True,264850
+real_estate_agent,6,19,1,40.7,Горки,True,260442
+real_estate_agent,4,10,2,60.0,Северный Вокзал,True,176667
+real_estate_agent,11,17,2,54.3,Проспект Большевиков,True,195212
+real_estate_agent,5,7,2,37.0,not available,False,291892
+real_estate_agent,4,8,1,37.6,Выборгская,True,305851
+real_estate_agent,9,10,2,67.3,Проспект Победы,True,184250
+real_estate_agent,10,19,2,66.2,Горки,True,196224
+real_estate_agent,6,7,1,38.0,not available,False,349211
+real_estate_agent,2,3,1,37.0,not available,False,370270
+real_estate_agent,8,9,2,42.0,Суконная слобода,True,330952
+real_estate_agent,8,9,2,51.5,Дубравная,True,271845
+developer,2,12,1,37.7,Приморская,True,372651
+developer,3,9,1,34.37,Василеостровская,True,420214
+real_estate_agent,7,12,1,40.0,not available,False,387500
+real_estate_agent,7,10,2,52.0,not available,False,307692
+real_estate_agent,3,4,2,48.0,not available,False,345833
+real_estate_agent,14,25,1,61.3,Козья слобода,True,331142
+representative_developer,7,10,2,62.0,Удельная,True,333000
+real_estate_agent,1,5,2,75.0,not available,False,300533
+developer,6,7,2,63.39,Кремлёвская,True,380000
+real_estate_agent,2,9,2,88.3,Василеостровская,True,290000
+real_estate_agent,3,7,2,68.1,Суконная слобода,True,389134
+real_estate_agent,2,5,2,65.5,not available,False,442748
+real_estate_agent,5,5,1,31.4,Студенческая,True,136911
+developer,9,16,2,68.5,not available,False,147000
+real_estate_agent,4,8,2,64.68,not available,False,170068
+developer,6,9,1,32.0,not available,False,143600
+real_estate_agent,9,22,1,33.4,not available,False,140719
+real_estate_agent,7,9,1,30.2,Ленинский проспект,True,172185
+realtor,5,16,1,33.4,Ботаническая,True,161677
+developer,6,9,1,36.72,Рыбацкое,True,151736
+developer,7,23,1,40.6,not available,False,140000
+real_estate_agent,9,17,1,40.4,not available,False,141089
+homeowner,5,5,1,35.7,Ломоносовская,True,161064
+real_estate_agent,2,3,1,36.0,not available,False,161111
+real_estate_agent,15,23,1,34.1,Рыбацкое,True,172727
+real_estate_agent,1,17,1,32.0,not available,False,184375
+homeowner,7,7,2,43.3,not available,False,136259
+real_estate_agent,7,7,2,40.1,not available,False,152120
+real_estate_agent,11,26,1,46.0,Купчино,True,135870
+real_estate_agent,1,5,2,44.8,Пионерская,True,140625
+developer,3,16,1,48.7,not available,False,130000
+developer,16,25,2,40.82,not available,False,156051
+real_estate_agent,5,5,2,41.9,Московская,True,152745
+real_estate_agent,1,5,1,31.8,Московская,True,201258
+realtor,9,9,1,39.0,not available,False,164103
+developer,13,16,2,49.76,not available,False,131500
+real_estate_agent,3,5,2,46.0,Выборгская,True,146739
+real_estate_agent,3,25,1,38.4,Купчино,True,181771
+realtor,12,17,2,48.8,not available,False,142828
+real_estate_agent,12,21,2,53.92,not available,False,131677
+real_estate_agent,10,24,1,31.0,Комендантский проспект,True,232226
+real_estate_agent,4,11,1,33.2,Гражданский проспект,True,216867
+real_estate_agent,5,17,2,48.0,not available,False,151875
+real_estate_agent,3,4,1,31.3,Проспект Ветеранов,True,236422
+homeowner,5,5,1,31.4,Новочеркасская,True,234076
+real_estate_agent,5,9,2,45.6,Политехническая,True,163377
+unknown,4,4,1,29.0,Пионерская,True,262241
+real_estate_agent,5,5,2,44.01,Площадь Ленина,True,179277
+real_estate_agent,1,4,1,36.2,Елизаровская,True,218232
+homeowner,4,18,2,56.6,not available,False,145760
+real_estate_agent,6,22,2,56.2,not available,False,149466
+real_estate_agent,3,3,2,55.9,not available,False,152039
+real_estate_agent,3,5,2,48.4,not available,False,185950
+real_estate_agent,2,6,1,60.8,Технологический институт,True,152961
+real_estate_agent,4,9,2,45.9,Гражданский проспект,True,217647
+real_estate_agent,7,11,2,43.2,Московская,True,238194
+real_estate_agent,7,9,2,65.9,not available,False,159332
+representative_developer,1,10,1,50.7,not available,False,225000
+real_estate_agent,2,5,2,57.1,Ладожская,True,201313
+representative_developer,5,12,1,28.18,not available,False,415590
+realtor,3,9,1,48.8,not available,False,250000
+real_estate_agent,7,12,1,39.1,Пионерская,True,319693
+real_estate_agent,5,8,2,53.0,not available,False,239623
+real_estate_agent,16,25,2,47.0,Трикотажная,True,274255
+representative_developer,1,6,2,65.27,not available,False,197000
+developer,2,11,1,37.6,Фрунзенская,True,343700
+real_estate_agent,1,3,2,65.0,not available,False,200000
+real_estate_agent,7,8,1,37.8,Московские ворота,True,343915
+real_estate_agent,3,17,1,38.7,Медведково,True,346253
+realtor,9,9,2,51.0,Южная,True,269608
+real_estate_agent,4,19,1,36.8,Фрунзенская,True,375000
+real_estate_agent,11,14,1,47.7,Московские ворота,True,289308
+real_estate_agent,8,13,2,51.56,Комендантский проспект,True,271528
+real_estate_agent,8,13,2,51.56,Комендантский проспект,True,271528
+real_estate_agent,7,9,1,32.0,Дмитровская,True,435938
+real_estate_agent,10,17,2,69.1,Комендантский проспект,True,209797
+realtor,4,9,2,50.3,not available,False,290000
+real_estate_agent,7,23,1,38.5,Лесопарковая,True,389610
+real_estate_agent,13,14,2,51.12,Черная речка,True,296362
+representative_developer,1,12,2,47.95,not available,False,359000
+representative_developer,7,10,2,80.5,not available,False,215000
+developer,4,12,1,47.7,not available,False,381895
+unknown,9,12,2,65.0,Озерки,True,282308
+realtor,12,12,2,43.9,Динамо,True,432779
+real_estate_agent,4,4,2,71.6,Ленинский проспект,True,282123
+real_estate_agent,12,25,2,61.0,Бульвар Генерала Карбышева,True,377049
+real_estate_agent,1,9,2,66.0,not available,False,386364
+homeowner,9,14,2,67.0,Новочеркасская,True,414478
+developer,2,21,1,25.08,not available,False,135638
+developer,7,23,1,43.3,not available,False,133000
+developer,10,15,2,39.2,not available,False,151000
+developer,2,25,2,44.72,not available,False,139450
+developer,2,19,1,48.44,not available,False,134865
+real_estate_agent,18,20,2,52.3,not available,False,137667
+real_estate_agent,2,8,2,47.4,not available,False,158228
+homeowner,11,12,2,52.4,not available,False,143130
+developer,6,15,2,44.9,not available,False,185000
+real_estate_agent,8,13,2,62.2,not available,False,144695
+developer,2,5,2,64.22,not available,False,149486
+developer,8,19,2,62.59,not available,False,163100
+real_estate_agent,16,17,1,46.3,not available,False,235421
+real_estate_agent,3,4,1,29.9,Купчино,True,143813
+real_estate_agent,9,11,1,32.0,not available,False,137500
+developer,3,16,1,25.93,not available,False,175000
+homeowner,2,5,1,30.0,not available,False,176667
+realtor,8,22,1,41.26,not available,False,133301
+real_estate_agent,10,13,1,35.24,not available,False,158910
+developer,1,12,1,38.08,not available,False,151000
+developer,9,16,1,37.4,not available,False,159000
+developer,18,26,1,41.61,not available,False,149000
+developer,1,16,1,38.27,not available,False,180800
+real_estate_agent,2,17,1,40.0,not available,False,187500
+developer,9,16,2,47.28,not available,False,160000
+representative_developer,7,16,1,45.3,not available,False,169205
+real_estate_agent,5,5,1,30.0,not available,False,261667
+developer,5,9,2,53.11,Рыбацкое,True,153916
+developer,12,14,1,34.1,Площадь Тукая,True,242880
+real_estate_agent,4,9,2,51.6,Проспект Славы,True,164535
+real_estate_agent,16,19,2,51.0,not available,False,166667
+developer,1,10,1,41.54,not available,False,210000
+homeowner,2,4,1,42.5,not available,False,211529
+representative_developer,1,15,1,40.2,not available,False,230000
+real_estate_agent,12,12,2,51.0,Старая Деревня,True,184314
+real_estate_agent,3,10,2,54.4,not available,False,174632
+homeowner,10,14,1,52.0,Алабинская,True,201923
+developer,14,15,2,51.74,not available,False,209509
+developer,2,25,2,61.4,Горки,True,207000
+real_estate_agent,17,17,2,70.5,Горьковская,True,187092
+real_estate_agent,6,7,2,68.0,not available,False,198529
+real_estate_agent,6,9,1,37.42,Елизаровская,True,370000
+real_estate_agent,9,19,2,45.0,not available,False,322222
+real_estate_agent,7,8,1,42.19,Елизаровская,True,370000
+real_estate_agent,8,18,2,56.0,not available,False,305357
+real_estate_agent,8,9,1,43.7,Крестовский остров,True,415000
+developer,5,12,2,46.0,not available,False,403261
+developer,4,23,2,62.03,not available,False,300000
+real_estate_agent,8,12,2,57.1,Василеостровская,True,327496
+real_estate_agent,7,11,2,60.2,Фрунзенская,True,360000
+real_estate_agent,7,12,2,75.0,not available,False,293333
+real_estate_agent,9,11,2,60.4,Фрунзенская,True,370000
+representative_developer,1,8,2,71.4,Крестовский остров,True,370000
+developer,1,16,1,26.7,not available,False,136712
+real_estate_agent,1,5,1,30.8,not available,False,129870
+developer,16,17,1,25.5,not available,False,168933
+developer,7,15,1,29.4,not available,False,158000
+developer,3,8,1,38.0,not available,False,136800
+homeowner,1,5,1,37.2,not available,False,155376
+real_estate_agent,4,5,2,43.8,not available,False,133562
+developer,9,17,1,40.9,not available,False,146406
+real_estate_agent,1,5,2,42.0,not available,False,151190
+real_estate_agent,12,16,1,41.7,not available,False,163070
+real_estate_agent,7,16,1,32.3,not available,False,220124
+real_estate_agent,10,16,1,42.6,not available,False,169014
+real_estate_agent,4,4,2,51.3,not available,False,141326
+real_estate_agent,1,15,1,36.0,not available,False,205278
+real_estate_agent,5,10,1,37.0,not available,False,200000
+real_estate_agent,4,9,2,49.1,not available,False,156823
+unknown,3,9,1,44.1,not available,False,175000
+unknown,18,19,2,51.1,not available,False,164384
+unknown,5,9,2,57.4,not available,False,155000
+unknown,4,9,2,58.8,not available,False,155000
+homeowner,14,18,2,73.5,not available,False,133333
+realtor,8,10,2,56.1,not available,False,187166
+real_estate_agent,7,10,2,71.9,Площадь Маркса,True,152990
+homeowner,1,4,1,37.7,not available,False,374005
+real_estate_agent,17,17,2,51.2,Медведково,True,284180
+real_estate_agent,2,23,1,55.0,Новогиреево,True,281818
+real_estate_agent,9,14,1,38.5,Зеленоград — Крюково,True,181818
+real_estate_agent,1,5,1,31.3,Перово,True,268371
+realtor,2,9,1,31.8,Молодёжная,True,377044
+real_estate_agent,4,12,1,42.7,Технопарк,True,433255
+realtor,5,12,1,33.5,Динамо,True,432836
+developer,21,23,1,41.3,Владыкино,True,270722
+real_estate_agent,3,3,1,31.3,Физтех,True,376997
+developer,19,23,1,25.8,Владыкино,True,393460
+real_estate_agent,16,16,1,40.0,Ховрино,True,307500
+real_estate_agent,8,16,1,48.4,Молодёжная,True,309917
+real_estate_agent,3,23,1,38.0,Ломоносовский проспект,True,443421
+developer,2,12,1,40.7,Щёлковская,True,342805
+real_estate_agent,5,5,1,29.5,Люблино,True,332203
+real_estate_agent,8,9,1,31.2,Красносельская,True,421474
+real_estate_agent,3,8,1,33.0,Преображенская площадь,True,348485
+real_estate_agent,19,21,1,30.5,Медведково,True,318033
+real_estate_agent,12,17,1,31.1,Ботанический сад,True,262701
+real_estate_agent,5,6,1,30.0,Красный Балтиец,True,266667
+real_estate_agent,3,14,1,37.8,Ботанический сад,True,359788
+realtor,4,5,1,33.0,Первомайская,True,290909
+developer,6,14,1,38.94,Зеленоград — Крюково,True,297660
+real_estate_agent,15,18,1,24.0,Ботанический сад,True,389583
+real_estate_agent,9,16,1,42.4,ЗИЛ,True,436321
+real_estate_agent,5,17,1,33.7,Каспийская,True,252226
+real_estate_agent,14,17,1,37.7,Печатники,True,331565
+real_estate_agent,15,23,1,36.8,Спартак,True,394022
+real_estate_agent,6,17,1,37.5,Люблино,True,298667
+real_estate_agent,15,17,1,41.7,Тушинская,True,366906
+real_estate_agent,11,27,1,41.4,Серп и Молот,True,398309
+real_estate_agent,3,25,1,40.1,Медведково,True,371571
+real_estate_agent,6,9,1,31.1,Сокольники,True,395498
+real_estate_agent,4,17,1,36.5,Медведково,True,328767
+real_estate_agent,1,8,1,30.0,Сокол,True,413333
+real_estate_agent,9,17,1,39.7,Люберцы,True,211587
+real_estate_agent,9,23,1,36.8,Солнцево,True,332880
+real_estate_agent,13,21,1,42.0,Зюзино,True,390476
+developer,11,26,1,35.0,Лесопарковая,True,370000
+real_estate_agent,4,17,1,35.6,Новопеределкино,True,337079
+real_estate_agent,1,9,1,36.2,Отрадное,True,267956
+real_estate_agent,17,17,1,39.0,Беговая,True,358974
+real_estate_agent,15,16,1,36.5,Новоподрезково,True,246301
+real_estate_agent,6,9,1,31.6,Окская,True,284810
+real_estate_agent,2,9,1,32.9,Преображенская площадь,True,270517
+real_estate_agent,7,14,1,39.6,Зеленоград — Крюково,True,227273
+realtor,9,9,1,35.9,Братиславская,True,252716
+realtor,9,9,1,36.5,Братиславская,True,252466
+realtor,7,9,1,36.3,Братиславская,True,253857
+realtor,7,9,1,36.9,Братиславская,True,249729
+real_estate_agent,3,12,1,34.7,Гольяново,True,268012
+real_estate_agent,2,9,1,32.4,Яхромская,True,287037
+real_estate_agent,3,22,1,38.5,Трикотажная,True,240260
+real_estate_agent,9,9,1,32.0,Перово,True,290625
+real_estate_agent,3,9,1,32.6,Отрадное,True,291411
+real_estate_agent,3,9,1,32.6,Отрадное,True,291411
+real_estate_agent,2,18,1,32.5,Бутово,True,292308
+real_estate_agent,8,9,1,34.0,Люблино,True,279382
+official_representative,12,12,1,39.0,Щёлковская,True,246154
+real_estate_agent,12,12,1,36.5,Зеленоград — Крюково,True,264384
+real_estate_agent,4,16,1,38.2,Новоподрезково,True,253927
+real_estate_agent,4,5,1,30.9,Сходненская,True,320388
+real_estate_agent,1,14,1,37.2,Сокол,True,266129
+real_estate_agent,8,14,1,38.6,Бунинская аллея,True,256451
+real_estate_agent,4,9,1,31.8,Кантемировская,True,311006
+real_estate_agent,3,4,1,31.8,Народное Ополчение,True,311321
+real_estate_agent,3,9,1,32.6,Крымская,True,306748
+real_estate_agent,6,12,1,32.6,Строгино,True,306748
+real_estate_agent,7,9,1,39.0,Бунинская аллея,True,256410
+real_estate_agent,1,14,1,54.7,Тушинская,True,181901
+real_estate_agent,10,16,1,37.8,Лианозово,True,264550
+real_estate_agent,6,16,1,36.2,Медведково,True,275967
+real_estate_agent,3,8,1,25.9,Красный Балтиец,True,385714
+real_estate_agent,16,25,1,32.2,Свиблово,True,310559
+real_estate_agent,14,22,1,35.0,Некрасовка,True,285714
+real_estate_agent,9,18,1,38.8,Каспийская,True,260309
+real_estate_agent,1,9,1,34.2,Медведково,True,295322
+real_estate_agent,5,9,1,31.9,Варшавская,True,316614
+real_estate_agent,5,8,1,38.5,Измайлово,True,261039
+real_estate_agent,2,25,1,33.5,Депо,True,304478
+real_estate_agent,10,12,1,38.7,Люблино,True,263566
+real_estate_agent,1,12,1,35.4,Тимирязевская,True,290960
+real_estate_agent,17,17,1,37.9,Медведково,True,274406
+real_estate_agent,7,17,1,37.9,Борисово,True,274406
+realtor,7,24,1,40.0,Лухмановская,True,262500
+real_estate_agent,7,9,1,31.8,Окружная,True,330189
+real_estate_agent,2,12,1,36.1,Калужская,True,290859
+real_estate_agent,5,12,1,36.0,Первомайская,True,291667
+real_estate_agent,1,21,1,28.0,Калужская,True,378571
+real_estate_agent,3,12,1,35.0,Свиблово,True,314000
+real_estate_agent,3,17,1,38.6,Коптево,True,282383
+real_estate_agent,2,14,1,38.7,Марьино,True,284238
+real_estate_agent,6,9,1,31.8,Профсоюзная,True,345912
+real_estate_agent,3,5,1,31.7,Дмитровская,True,347003
+real_estate_agent,6,9,1,31.8,Профсоюзная,True,345912
+realtor,6,9,1,33.0,Университет Дружбы Народов,True,333333
+realtor,5,13,1,40.7,Сетунь,True,278870
+real_estate_agent,12,12,1,34.3,Беляево,True,329446
+real_estate_agent,8,12,1,44.0,Люблино,True,259091
+real_estate_agent,17,17,1,40.0,Щёлковская,True,282500
+real_estate_agent,2,5,1,37.8,Перово,True,298942
+real_estate_agent,5,5,1,36.6,Телецентр,True,312842
+real_estate_agent,7,22,1,38.6,Бульвар Дмитрия Донского,True,299223
+real_estate_agent,9,24,1,32.0,Курьяново,True,364062
+real_estate_agent,7,17,1,37.9,Марьино,True,308707
+real_estate_agent,2,9,1,31.8,Народное Ополчение,True,372642
+real_estate_agent,10,14,1,42.2,Сокол,True,284123
+homeowner,14,14,1,42.0,Улица Дмитриевского,True,284524
+real_estate_agent,4,8,1,32.8,Щёлковская,True,365854
+real_estate_agent,2,9,1,33.0,Пролетарская,True,378788
+real_estate_agent,7,12,1,31.9,Университет Дружбы Народов,True,394984
+homeowner,10,22,1,38.2,Солнцево,True,329843
+real_estate_agent,9,9,1,32.6,Строгино,True,389571
+real_estate_agent,3,5,1,53.0,Рабочий посёлок,True,243396
+real_estate_agent,9,10,1,32.3,Коптево,True,402477
+real_estate_agent,10,19,1,47.0,Зеленоград — Крюково,True,276596
+real_estate_agent,6,18,1,42.0,Пражская,True,309524
+realtor,19,24,1,37.8,Пятницкое шоссе,True,354233
+realtor,6,8,1,30.0,ВДНХ,True,445000
+homeowner,6,14,1,38.6,Варшавская,True,349741
+real_estate_agent,2,14,1,38.8,Молодёжная,True,358247
+real_estate_agent,2,23,1,46.0,Улица Скобелевская,True,304326
+real_estate_agent,1,16,1,37.5,Мичуринский проспект,True,346667
+homeowner,3,17,1,38.0,Свиблово,True,365789
+realtor,17,25,1,36.8,Чертановская,True,263587
+realtor,2,12,1,38.7,Минская,True,387597
+homeowner,3,12,1,39.0,Каширская,True,358974
+real_estate_agent,20,20,1,38.1,Коптево,True,393438
+real_estate_agent,4,8,1,43.1,Ломоносовский проспект,True,348028
+real_estate_agent,3,6,1,34.7,Аэропорт,True,438040
+real_estate_agent,7,7,1,43.0,Калитники,True,360465
+real_estate_agent,13,22,1,40.0,Молодёжная,True,412500
+real_estate_agent,12,17,1,39.9,Технопарк,True,415789
+real_estate_agent,20,26,1,38.5,Авиамоторная,True,438961
+real_estate_agent,5,7,1,52.7,Бауманская,True,322581
+real_estate_agent,12,17,1,40.0,Технопарк,True,437500
+real_estate_agent,2,24,1,52.3,Технопарк,True,343977
+real_estate_agent,7,24,1,49.0,Народное Ополчение,True,367347
+real_estate_agent,10,13,1,42.4,ЗИЛ,True,436321
+real_estate_agent,12,13,1,47.0,Профсоюзная,True,404255
+real_estate_agent,13,19,1,50.0,Чертановская,True,382000
+real_estate_agent,17,25,1,50.0,Бульвар Генерала Карбышева,True,390000
+real_estate_agent,5,10,1,46.3,Технопарк,True,421166
+real_estate_agent,7,21,1,47.5,Рижская,True,421032
+real_estate_agent,2,18,1,51.1,Достоевская,True,442270
+official_representative,4,8,1,60.1,Петровский Парк,True,420000
+developer,3,3,1,35.8,not available,False,149000
+realtor,6,6,1,29.5,Первомайская,True,210169
+developer,1,3,1,35.3,not available,False,181000
+developer,2,3,1,35.1,not available,False,183000
+developer,3,3,1,35.6,not available,False,181000
+developer,2,7,1,32.9,Нахабино,True,199100
+developer,2,3,1,35.6,not available,False,184000
+developer,2,3,1,36.5,not available,False,183000
+developer,8,16,1,23.27,Орехово,True,295211
+real_estate_agent,1,7,1,24.5,Кожуховская,True,281633
+developer,13,13,1,34.97,Новоподрезково,True,200729
+developer,2,7,1,36.6,Нахабино,True,193600
+developer,3,3,1,40.7,not available,False,173000
+developer,3,7,1,36.2,Нахабино,True,196900
+developer,2,11,1,32.3,Щербинка,True,221061
+developer,2,3,1,40.5,not available,False,176000
+developer,8,16,1,35.84,Новоподрезково,True,200384
+developer,14,14,1,35.83,Новоподрезково,True,201960
+developer,5,11,1,31.0,Щербинка,True,233337
+developer,1,3,1,40.9,not available,False,176000
+developer,8,13,1,32.88,Новоподрезково,True,221548
+developer,2,11,1,32.5,Щербинка,True,224316
+developer,12,16,1,32.37,Новоподрезково,True,226493
+developer,2,11,1,34.2,Щербинка,True,213528
+developer,2,11,1,34.5,Щербинка,True,215388
+realtor,14,14,1,40.0,Щербинка,True,184500
+developer,2,3,1,45.5,not available,False,162000
+developer,3,3,1,45.9,not available,False,162000
+real_estate_agent,1,7,1,25.7,Кожуховская,True,290000
+real_estate_agent,13,17,1,38.8,Щербинка,True,195876
+developer,3,11,1,36.5,Щербинка,True,208878
+official_representative,1,9,1,37.7,Черкизовская,True,204244
+developer,1,16,1,34.54,Новоподрезково,True,221898
+developer,12,13,1,32.71,Новоподрезково,True,234692
+developer,13,16,1,22.17,Орехово,True,348733
+developer,4,23,1,25.9,Химки,True,298228
+real_estate_agent,1,12,1,38.9,Пролетарская,True,326221
+developer,2,9,1,27.4,Коптево,True,398580
+developer,2,11,1,32.6,Зеленоград — Крюково,True,236220
+developer,4,17,1,36.2,Щербинка,True,213621
+real_estate_agent,3,14,1,42.3,Щербинка,True,184397
+developer,7,7,1,35.84,Новоподрезково,True,216983
+developer,6,23,1,22.4,Владыкино,True,349857
+developer,5,23,1,22.7,Владыкино,True,344374
+developer,2,13,1,40.76,Новоподрезково,True,193370
+developer,9,13,1,33.04,Новоподрезково,True,240973
+developer,1,16,1,42.11,Новоподрезково,True,189023
+developer,12,23,1,23.5,Владыкино,True,337289
+developer,1,13,1,40.33,Новоподрезково,True,198681
+developer,2,11,1,33.8,Зеленоград — Крюково,True,237150
+developer,1,13,1,40.3,Новоподрезково,True,199713
+real_estate_agent,1,9,1,32.5,Медведково,True,249231
+developer,13,13,1,40.78,Новоподрезково,True,197849
+developer,8,15,1,34.61,Новоподрезково,True,234771
+developer,5,8,1,35.6,Алтуфьево,True,228300
+realtor,2,9,1,32.2,Южная,True,251553
+developer,11,23,1,25.3,Химки,True,320120
+developer,10,11,1,36.1,Зеленоград — Крюково,True,228129
+developer,8,8,1,35.2,Алтуфьево,True,231600
+developer,1,5,1,42.29,Новоподрезково,True,195065
+developer,1,5,1,40.62,Новоподрезково,True,203914
+developer,1,15,1,49.29,Новоподрезково,True,168299
+developer,11,13,1,34.08,Новоподрезково,True,243872
+developer,1,13,1,42.27,Новоподрезково,True,197690
+developer,1,8,1,34.2,Алтуфьево,True,245000
+developer,2,23,1,29.4,Химки,True,284825
+developer,9,23,1,25.1,Владыкино,True,333428
+developer,10,11,1,32.1,Зеленоград — Крюково,True,261330
+developer,2,11,1,36.7,Зеленоград — Крюково,True,226548
+developer,2,13,1,34.08,Новоподрезково,True,244447
+developer,2,8,1,37.9,Алтуфьево,True,220600
+developer,6,13,1,43.63,Новоподрезково,True,194503
+developer,2,23,1,29.5,Химки,True,287375
+developer,13,24,1,32.7,Окружная,True,257355
+real_estate_agent,10,16,1,35.4,Медведково,True,240113
+realtor,15,16,1,38.3,Щербинка,True,221932
+developer,6,14,1,34.8,Окружная,True,244530
+developer,8,23,1,25.9,Владыкино,True,329887
+developer,11,11,1,33.8,Зеленоград — Крюково,True,252588
+developer,3,14,1,32.7,Окружная,True,261155
+real_estate_agent,4,9,1,32.2,Бибирево,True,267081
+developer,9,16,1,26.27,Орехово,True,328939
+developer,3,24,1,34.1,Окружная,True,251560
+developer,3,11,1,40.9,Щербинка,True,211389
+real_estate_agent,14,17,1,37.9,Москворечье,True,229551
+real_estate_agent,2,19,1,36.9,Свиблово,True,235772
+developer,4,8,1,37.3,Алтуфьево,True,232300
+developer,21,25,1,35.5,Зеленоград — Крюково,True,247752
+developer,4,23,1,33.6,Владыкино,True,260764
+real_estate_agent,6,9,1,32.7,Медведково,True,269113
+real_estate_agent,7,12,1,35.0,Юго-Восточная,True,237143
+developer,20,25,1,32.3,Зеленоград — Крюково,True,274350
+developer,8,16,1,32.36,Новоподрезково,True,272694
+developer,4,25,1,35.6,Зеленоград — Крюково,True,247845
+developer,3,11,1,32.8,Зеленоград — Крюково,True,269142
+real_estate_agent,5,9,1,31.8,Кузьминки,True,279874
+real_estate_agent,1,5,1,35.0,Окружная,True,254286
+developer,1,16,1,44.19,Новоподрезково,True,201696
+developer,15,15,1,38.35,Новоподрезково,True,233836
+developer,1,13,1,34.49,Новоподрезково,True,259210
+developer,5,11,1,40.2,Щербинка,True,222921
+developer,21,25,1,38.2,Зеленоград — Крюково,True,235383
+developer,2,11,1,43.1,Щербинка,True,206739
+real_estate_agent,10,17,1,39.0,Кавказский бульвар,True,232821
+developer,5,24,1,34.9,Окружная,True,258495
+developer,5,21,1,30.09,Калитники,True,300829
+real_estate_agent,14,17,1,38.3,Зеленоград — Крюково,True,238903
+real_estate_agent,3,9,1,33.0,Ясенево,True,275758
+real_estate_agent,4,9,1,34.5,Рязанский проспект,True,263768
+developer,2,25,1,41.7,Зеленоград — Крюково,True,220410
+developer,2,23,1,28.1,Владыкино,True,327331
+developer,7,23,1,30.6,Химки,True,299717
+developer,15,16,1,44.43,Новоподрезково,True,205574
+developer,4,15,1,28.7,Зеленоград — Крюково,True,318711
+realtor,6,9,1,36.0,Домодедовская,True,255556
+realtor,9,9,1,32.5,Планерная,True,283077
+homeowner,10,16,1,34.4,Медведково,True,267442
+developer,4,16,1,27.54,Орехово,True,334994
+realtor,4,24,1,48.73,Царицыно,True,188795
+developer,4,16,1,33.66,Орехово,True,277029
+homeowner,8,9,1,32.8,Выхино,True,283537
+developer,2,23,1,40.3,Владыкино,True,231722
+developer,13,23,1,29.6,Владыкино,True,314633
+developer,3,23,1,36.6,Владыкино,True,254179
+developer,4,23,1,29.3,Владыкино,True,317599
+developer,2,25,1,38.9,Зеленоград — Крюково,True,239754
+real_estate_agent,14,14,1,38.7,Зеленоград — Крюково,True,241602
+real_estate_agent,3,17,1,39.0,Курьяново,True,239744
+developer,3,23,1,32.0,Речной вокзал,True,293973
+developer,4,23,1,35.5,Владыкино,True,265279
+developer,2,23,1,39.3,Владыкино,True,239852
+real_estate_agent,7,9,1,32.9,Юго-Восточная,True,288754
+realtor,2,11,1,24.6,Крымская,True,386179
+real_estate_agent,2,12,1,38.7,Алтуфьево,True,245478
+homeowner,8,9,1,32.6,Медведково,True,289877
+developer,3,23,1,32.8,Химки,True,289741
+real_estate_agent,9,16,1,34.7,Люблино,True,276657
+developer,5,23,1,34.7,Владыкино,True,277417
+developer,5,23,1,32.3,Речной вокзал,True,296112
+real_estate_agent,4,17,1,40.0,Говорово,True,242500
+developer,8,17,1,32.6,Братиславская,True,298450
+developer,2,23,1,41.7,Владыкино,True,232110
+developer,16,16,1,32.9,Новоподрезково,True,294397
+developer,7,16,1,34.8,Новоподрезково,True,278086
+developer,2,14,1,29.7,Зеленоград — Крюково,True,325418
+developer,2,25,1,44.2,Зеленоград — Крюково,True,219759
+developer,9,20,1,32.05,Речной вокзал,True,301878
+unknown,9,10,1,38.3,Бунинская аллея,True,253264
+real_estate_agent,8,17,1,37.2,Некрасовка,True,262097
+real_estate_agent,6,9,1,33.0,Тёплый Стан,True,295455
+developer,14,17,1,34.2,Орехово,True,287623
+developer,13,16,1,37.89,Орехово,True,259064
+developer,3,24,1,32.6,Стахановская,True,301176
+real_estate_agent,8,14,1,37.4,Люблино,True,262701
+developer,4,24,1,33.7,Речной вокзал,True,290904
+developer,2,24,1,32.3,Стахановская,True,303620
+developer,12,23,1,32.8,Речной вокзал,True,300297
+developer,2,23,1,38.3,Владыкино,True,254827
+developer,19,25,1,42.4,Зеленоград — Крюково,True,231942
+developer,12,16,1,32.8,Новоподрезково,True,298050
+developer,4,14,1,38.3,Окружная,True,256595
+developer,7,16,1,34.6,Новоподрезково,True,283804
+realtor,16,16,1,38.5,Генерала Тюленева,True,254545
+real_estate_agent,12,12,1,38.9,Бибирево,True,254242
+developer,15,17,1,38.97,Новоподрезково,True,254159
+developer,2,23,1,41.3,Владыкино,True,238999
+real_estate_agent,10,10,1,39.0,Зеленоград — Крюково,True,203846
+real_estate_agent,14,17,1,37.9,Молодёжная,True,387863
+real_estate_agent,5,5,1,32.1,Перово,True,280343
+real_estate_agent,3,5,1,29.7,Соколиная гора,True,311448
+real_estate_agent,5,14,1,38.5,Озёрная,True,311688
+real_estate_agent,2,10,1,30.8,Кутузовская,True,352273
+real_estate_agent,6,7,1,40.8,Солнцево,True,281863
+developer,3,20,1,36.75,Преображенская площадь,True,350000
+developer,3,13,1,35.3,Аминьевская,True,419235
+developer,2,24,1,43.5,Озёрная,True,408474
+real_estate_agent,14,14,1,42.5,Щербинка,True,178824
+real_estate_agent,6,22,1,43.3,Борисово,True,311778
+real_estate_agent,2,17,1,38.0,Боровское шоссе,True,269737
+developer,1,14,1,50.4,Тёплый Стан,True,243050
+realtor,4,9,1,36.0,Братиславская,True,241667
+developer,5,26,1,37.6,Соколиная гора,True,386787
+developer,17,27,1,49.6,Сокол,True,442000
+developer,6,15,1,36.4,Тушинская,True,403086
+real_estate_agent,6,17,1,35.6,Молодёжная,True,365169
+real_estate_agent,14,16,1,34.6,Беговая,True,416185
+realtor,1,5,1,30.5,Филёвский парк,True,440984
+real_estate_agent,12,19,1,42.1,Тульская,True,403800
+real_estate_agent,3,17,1,37.6,Свиблово,True,359043
+real_estate_agent,2,23,1,55.0,Новогиреево,True,281818
+developer,2,27,1,40.1,Трикотажная,True,336360
+real_estate_agent,1,9,1,32.9,Выхино,True,252280
+real_estate_agent,5,12,1,35.1,Рабочий посёлок,True,337607
+real_estate_agent,8,17,1,38.5,Некрасовка,True,246753
+real_estate_agent,3,22,1,34.4,Зеленоград — Крюково,True,255814
+real_estate_agent,5,5,1,25.7,Электрозаводская,True,292441
+real_estate_agent,4,14,1,39.1,Зеленоград — Крюково,True,199233
+real_estate_agent,5,9,1,32.7,Юго-Восточная,True,241590
+developer,5,24,1,37.5,Окружная,True,264385
+developer,20,25,1,43.3,Зеленоград — Крюково,True,229524
+developer,15,20,1,33.9,Речной вокзал,True,293322
+developer,14,17,1,32.7,Братиславская,True,303808
+realtor,9,14,1,41.5,Люблино,True,237349
+real_estate_agent,4,9,1,32.6,Отрадное,True,305215
+real_estate_agent,2,17,1,36.2,Домодедовская,True,274862
+real_estate_agent,2,12,1,40.0,Медведково,True,249975
+real_estate_agent,3,12,1,38.7,Бибирево,True,258398
+real_estate_agent,8,14,1,38.6,Алма-Атинская,True,259067
+real_estate_agent,15,16,1,35.0,Калитники,True,285714
+real_estate_agent,7,9,1,34.0,Южная,True,292647
+real_estate_agent,3,12,1,39.0,Преображенская площадь,True,256385
+developer,15,24,1,34.4,Речной вокзал,True,290997
+developer,2,23,1,42.7,Владыкино,True,234343
+developer,18,19,1,32.2,Пятницкое шоссе,True,311178
+developer,7,12,1,36.3,Новоподрезково,True,275721
+homeowner,6,17,1,39.0,Некрасовка,True,256410
+homeowner,3,5,1,30.7,Сходненская,True,324756
+developer,5,12,1,34.0,Новоподрезково,True,295575
+developer,18,19,1,32.2,Пятницкое шоссе,True,309039
+real_estate_agent,15,16,1,35.7,Отрадное,True,282633
+developer,2,24,1,34.1,Стахановская,True,297040
+developer,15,24,1,36.4,Речной вокзал,True,278628
+developer,2,24,1,33.4,Речной вокзал,True,301878
+developer,6,24,1,35.2,Речной вокзал,True,288021
+developer,3,23,1,32.1,Владыкино,True,313928
+realtor,1,9,1,32.0,Чертановская,True,315625
+real_estate_agent,2,17,1,37.3,Грачёвская,True,273458
+developer,15,24,1,36.6,Речной вокзал,True,279651
+developer,2,20,1,35.43,Речной вокзал,True,288765
+developer,10,16,1,28.86,Орехово,True,354011
+developer,19,19,1,34.2,Пятницкое шоссе,True,299181
+real_estate_agent,4,14,1,35.0,Медведково,True,294286
+real_estate_agent,2,17,1,37.8,Боровское шоссе,True,271164
+developer,1,16,1,38.0,Новоподрезково,True,271339
+real_estate_agent,6,14,1,39.4,Зеленоград — Крюково,True,222081
+developer,6,9,1,37.04,Реутов,True,291577
+real_estate_agent,12,14,1,46.6,Битца,True,192060
+real_estate_agent,5,21,1,48.4,Щукинская,True,439050
+homeowner,8,14,1,40.3,Новопеределкино,True,347146
+realtor,17,21,1,42.0,Бабушкинская,True,309286
+real_estate_agent,2,17,1,36.6,Некрасовка,True,234973
+developer,4,22,2,67.1,Фили,True,426610
+homeowner,3,24,2,53.2,Верхние котлы,True,364098
+developer,2,23,2,49.8,Владыкино,True,245605
+realtor,3,9,2,40.1,Преображенская площадь,True,336658
+real_estate_agent,7,27,2,73.0,Полежаевская,True,431507
+developer,3,20,2,34.8,Новодачная,True,274000
+developer,2,20,2,35.32,Преображенская площадь,True,350000
+developer,3,27,2,55.3,Аминьевская,True,351168
+realtor,7,8,2,44.9,Автозаводская,True,434298
+real_estate_agent,9,12,2,70.1,Белокаменная,True,376605
+developer,21,26,2,57.8,Зорге,True,441262
+real_estate_agent,8,9,2,43.1,Говорово,True,285383
+developer,2,27,2,39.52,Трикотажная,True,349750
+real_estate_agent,11,16,2,50.0,Пражская,True,297000
+developer,2,8,2,64.0,Аннино,True,306993
+developer,7,13,2,57.4,Аминьевская,True,374205
+developer,6,19,2,52.5,Тушинская,True,372743
+developer,14,20,2,52.1,Коптево,True,374738
+real_estate_agent,3,20,2,70.7,Крестьянская застава,True,410184
+developer,11,14,2,69.2,Тёплый Стан,True,296100
+real_estate_agent,10,14,2,46.1,Тульская,True,407809
+real_estate_agent,6,25,2,45.7,Трикотажная,True,282057
+real_estate_agent,3,6,2,77.3,Бульвар Генерала Карбышева,True,420440
+real_estate_agent,4,9,2,44.2,Южная,True,334842
+real_estate_agent,1,12,2,52.3,Варшавская,True,290631
+real_estate_agent,9,9,2,44.5,Пражская,True,341573
+real_estate_agent,8,9,2,36.9,Пролетарская,True,409214
+real_estate_agent,13,17,2,58.0,Чертановская,True,267241
+real_estate_agent,5,18,2,51.09,Ботанический сад,True,342533
+real_estate_agent,2,14,2,52.2,Новопеределкино,True,228927
+real_estate_agent,2,14,2,39.9,Озёрная,True,338346
+real_estate_agent,2,17,2,58.0,Новопеределкино,True,239655
+real_estate_agent,2,14,2,56.0,Сетунь,True,256250
+real_estate_agent,9,16,2,53.7,Рабочий посёлок,True,271881
+real_estate_agent,17,17,2,58.9,Говорово,True,263158
+real_estate_agent,1,17,2,50.4,Рабочий посёлок,True,323413
+real_estate_agent,1,9,2,50.4,Минская,True,337103
+real_estate_agent,8,16,2,50.2,Багратионовская,True,364542
+real_estate_agent,5,16,2,51.8,Тульская,True,357143
+real_estate_agent,3,12,2,61.1,Рабочий посёлок,True,310966
+real_estate_agent,16,17,2,60.0,Молодёжная,True,325000
+real_estate_agent,14,25,2,62.0,Серп и Молот,True,329032
+real_estate_agent,17,20,2,54.0,Рабочий посёлок,True,377778
+real_estate_agent,13,17,2,51.1,Новые Черёмушки,True,401174
+real_estate_agent,2,5,2,66.8,Молодёжная,True,306886
+real_estate_agent,2,8,2,49.0,Новаторская,True,438776
+real_estate_agent,4,8,2,58.6,Вавиловская,True,426621
+real_estate_agent,4,9,2,44.3,Перерва,True,207675
+real_estate_agent,1,12,2,47.3,Гольяново,True,207188
+real_estate_agent,4,5,2,45.0,Белокаменная,True,228889
+real_estate_agent,2,5,2,44.0,Соколиная гора,True,234091
+real_estate_agent,6,9,2,41.2,Гольяново,True,254854
+real_estate_agent,1,9,2,43.4,Гольяново,True,246544
+real_estate_agent,4,12,2,38.0,Перово,True,286842
+real_estate_agent,9,9,2,37.5,Кузьминки,True,290667
+real_estate_agent,1,9,2,38.4,Перово,True,291667
+real_estate_agent,7,17,2,56.3,Некрасовка,True,200693
+real_estate_agent,1,9,2,38.4,Перово,True,291667
+real_estate_agent,2,9,2,37.12,Лихоборы,True,308432
+real_estate_agent,8,9,2,48.9,Домодедовская,True,233129
+realtor,3,14,2,38.0,Моссельмаш,True,297368
+real_estate_agent,4,9,2,45.8,Черкизовская,True,251092
+real_estate_agent,2,9,2,37.3,Балтийская,True,308311
+real_estate_agent,12,12,2,46.2,Домодедовская,True,251082
+real_estate_agent,12,17,2,51.1,Пражская,True,230920
+real_estate_agent,6,9,2,44.3,Красногвардейская,True,266366
+real_estate_agent,7,9,2,45.0,Новогиреево,True,262222
+real_estate_agent,1,5,2,59.0,Стахановская,True,201695
+real_estate_agent,13,17,2,53.2,Солнцево,True,225564
+real_estate_agent,11,12,2,44.4,Сходненская,True,270270
+real_estate_agent,1,5,2,43.0,Серебряный Бор,True,279070
+real_estate_agent,3,12,2,49.6,Водный стадион,True,273185
+real_estate_agent,3,5,2,43.1,Динамо,True,320162
+real_estate_agent,20,24,2,70.5,Лухмановская,True,194326
+real_estate_agent,7,9,2,44.5,Бирюлёво,True,307865
+real_estate_agent,2,9,2,45.2,Улица Академика Янгеля,True,303097
+real_estate_agent,8,9,2,47.9,Кожуховская,True,288100
+real_estate_agent,7,9,2,44.5,Профсоюзная,True,310112
+real_estate_agent,2,16,2,33.9,Пролетарская,True,407080
+real_estate_agent,10,14,2,39.0,Ростокино,True,358974
+real_estate_agent,1,16,2,52.0,Сортировочная,True,269212
+real_estate_agent,13,23,2,34.0,Спартак,True,410294
+real_estate_agent,1,5,2,45.0,Планерная,True,311111
+realtor,8,9,2,40.0,Кантемировская,True,349750
+realtor,5,9,2,42.0,Сходненская,True,338095
+real_estate_agent,1,9,2,46.1,Бескудниково,True,305857
+real_estate_agent,3,3,2,49.4,Свиблово,True,285425
+real_estate_agent,2,9,2,44.0,Алтуфьево,True,322727
+real_estate_agent,6,9,2,46.0,Алтуфьево,True,315217
+real_estate_agent,13,16,2,54.5,Новоясеневская,True,265872
+real_estate_agent,9,9,2,46.0,Зюзино,True,315217
+real_estate_agent,9,14,2,51.4,Щёлковская,True,281518
+real_estate_agent,2,5,2,41.3,Петровский Парк,True,358354
+real_estate_agent,13,13,2,37.9,Ленинский проспект,True,395778
+real_estate_agent,2,12,2,44.6,Нагорная,True,335874
+real_estate_agent,8,14,2,47.5,Тёплый Стан,True,314737
+real_estate_agent,7,9,2,45.0,Зюзино,True,332222
+real_estate_agent,2,9,2,45.1,Бульвар Рокоссовского,True,334812
+real_estate_agent,3,9,2,44.2,Печатники,True,346154
+real_estate_agent,18,25,2,57.0,Юго-Восточная,True,270175
+real_estate_agent,11,16,2,61.7,Бескудниково,True,247974
+real_estate_agent,6,8,2,42.4,Физтех,True,365566
+real_estate_agent,2,12,2,51.1,Улица Дмитриевского,True,303131
+real_estate_agent,3,8,2,51.0,Петровско-Разумовская,True,308824
+real_estate_agent,1,19,2,47.3,Беговая,True,338266
+real_estate_agent,7,24,2,41.0,Новохохловская,True,393415
+real_estate_agent,2,17,2,50.7,Щёлковская,True,319527
+real_estate_agent,1,5,2,45.5,Кузьминки,True,356044
+real_estate_agent,2,17,2,50.7,Щёлковская,True,319527
+real_estate_agent,5,16,2,58.0,Молжаниново,True,282414
+real_estate_agent,2,12,2,51.9,Нахимовский проспект,True,317919
+real_estate_agent,4,18,2,54.0,Некрасовка,True,307407
+real_estate_agent,3,26,2,62.2,Верхние Лихоборы,True,269293
+real_estate_agent,3,14,2,44.5,Физтех,True,375281
+real_estate_agent,13,16,2,54.2,Ясенево,True,313653
+real_estate_agent,10,14,2,59.5,Кусково,True,284034
+real_estate_agent,2,17,2,56.3,Грачёвская,True,301954
+realtor,2,9,2,45.0,Давыдково,True,377556
+real_estate_agent,7,14,2,45.0,Первомайская,True,384444
+real_estate_agent,4,15,2,45.0,Новоподрезково,True,388889
+real_estate_agent,2,10,2,65.0,Грачёвская,True,269215
+real_estate_agent,2,18,2,42.5,Ботанический сад,True,409412
+real_estate_agent,17,18,2,51.4,Ботанический сад,True,344358
+real_estate_agent,6,16,2,54.0,Тёплый Стан,True,333333
+real_estate_agent,11,24,2,40.8,Новохохловская,True,441176
+real_estate_agent,9,9,2,43.0,Аэропорт,True,418605
+real_estate_agent,4,25,2,61.6,Коптево,True,298539
+real_estate_agent,12,25,2,55.2,Нижегородская,True,333152
+real_estate_agent,2,12,2,58.6,Багратионовская,True,320819
+real_estate_agent,15,22,2,58.0,Беляево,True,325862
+real_estate_agent,4,9,2,46.4,Вавиловская,True,409483
+real_estate_agent,4,4,2,53.7,Сокольники,True,363128
+real_estate_agent,5,5,2,56.4,Нагорная,True,345745
+real_estate_agent,15,16,2,51.0,Белорусская,True,392157
+real_estate_agent,8,8,2,55.2,Дмитровская,True,362319
+real_estate_agent,7,11,2,54.0,Алексеевская,True,375926
+real_estate_agent,18,22,2,58.2,Соколиная гора,True,352234
+real_estate_agent,19,25,2,59.8,Бульвар Рокоссовского,True,351003
+real_estate_agent,15,17,2,64.9,Бабушкинская,True,326656
+real_estate_agent,11,26,2,54.5,Авиамоторная,True,438532
+real_estate_agent,21,26,2,87.0,ЦСКА,True,436782
+real_estate_agent,1,9,2,44.9,Новогиреево,True,204900
+real_estate_agent,4,9,2,36.6,Верхние Лихоборы,True,273224
+real_estate_agent,3,9,2,44.4,Медведково,True,225225
+real_estate_agent,2,9,2,46.0,Текстильщики,True,217391
+real_estate_agent,7,12,2,45.8,Бирюлёво,True,224891
+real_estate_agent,1,12,2,49.2,Домодедовская,True,209350
+real_estate_agent,8,14,2,38.7,Дегунино,True,265116
+real_estate_agent,2,9,2,44.0,Депо,True,234091
+real_estate_agent,9,12,2,38.3,Братиславская,True,274151
+real_estate_agent,2,5,2,44.0,Соколиная гора,True,238636
+real_estate_agent,1,12,2,38.2,Зюзино,True,280105
+real_estate_agent,1,12,2,44.5,Тёплый Стан,True,241573
+real_estate_agent,3,5,2,40.5,Люблино,True,266667
+real_estate_agent,3,12,2,37.8,Зюзино,True,289683
+real_estate_agent,5,12,2,39.0,Грачёвская,True,281795
+real_estate_agent,4,5,2,42.7,Первомайская,True,257377
+real_estate_agent,2,9,2,47.5,Юго-Восточная,True,231368
+real_estate_agent,11,12,2,50.6,Люблино,True,217391
+real_estate_agent,6,9,2,42.2,Бульвар Рокоссовского,True,266588
+real_estate_agent,6,9,2,43.8,Бибирево,True,257991
+real_estate_agent,5,5,2,44.8,Бульвар Рокоссовского,True,254464
+real_estate_agent,3,9,2,42.2,Коптево,True,267773
+real_estate_agent,7,9,2,44.6,Преображенская площадь,True,257848
+real_estate_agent,1,5,2,44.3,Тимирязевская,True,259594
+real_estate_agent,2,9,2,45.0,Выхино,True,255556
+real_estate_agent,5,9,2,30.3,Молодёжная,True,382838
+real_estate_agent,4,5,2,44.0,Бульвар Генерала Карбышева,True,265909
+real_estate_agent,5,9,2,47.0,Кантемировская,True,255319
+real_estate_agent,9,9,2,55.0,Лухмановская,True,218182
+real_estate_agent,4,12,2,53.7,Лухмановская,True,227188
+real_estate_agent,5,16,2,51.7,Лианозово,True,236944
+realtor,12,17,2,52.0,Щёлковская,True,240365
+realtor,11,14,2,52.3,Бульвар Дмитрия Донского,True,238050
+real_estate_agent,7,12,2,38.1,Щёлковская,True,330709
+real_estate_agent,3,14,2,56.0,Улица Скобелевская,True,228571
+real_estate_agent,2,9,2,37.0,Кантемировская,True,351081
+real_estate_agent,9,9,2,42.0,Чухлинка,True,309500
+real_estate_agent,5,5,2,43.0,Бабушкинская,True,300000
+real_estate_agent,17,20,2,32.7,Солнцево,True,400612
+real_estate_agent,3,12,2,52.0,Свиблово,True,250000
+real_estate_agent,12,12,2,52.0,Отрадное,True,250000
+real_estate_agent,5,17,2,50.5,Москворечье,True,257426
+real_estate_agent,2,9,2,45.0,Люблино,True,288889
+real_estate_agent,3,5,2,56.0,Давыдково,True,232143
+real_estate_agent,2,18,2,59.0,Ботанический сад,True,222881
+realtor,2,16,2,39.8,Матвеевская,True,331633
+real_estate_agent,1,5,2,44.4,Кузьминки,True,304054
+realtor,2,9,2,45.1,Беляево,True,297118
+real_estate_agent,14,14,2,47.6,Бабушкинская,True,286765
+real_estate_agent,3,5,2,44.5,Красный Балтиец,True,307865
+real_estate_agent,9,9,2,42.0,Верхние Лихоборы,True,330952
+real_estate_agent,8,12,2,45.1,Домодедовская,True,310421
+real_estate_agent,14,16,2,55.5,Зеленоград — Крюково,True,251351
+real_estate_agent,5,9,2,45.1,Юго-Западная,True,310421
+realtor,8,9,2,42.0,Рязанский проспект,True,333333
+real_estate_agent,7,12,2,52.3,Лебедянская,True,271511
+realtor,6,9,2,44.9,Беляево,True,316258
+realtor,6,12,2,43.0,Окская,True,332558
+real_estate_agent,9,9,2,40.2,Новые Черёмушки,True,360697
+real_estate_agent,9,12,2,59.6,Новоподрезково,True,242450
+realtor,6,9,2,40.0,Кожуховская,True,362500
+real_estate_agent,11,17,2,50.4,Медведково,True,291667
+real_estate_agent,2,14,2,56.3,Яхромская,True,262877
+real_estate_agent,9,12,2,49.6,Зеленоград — Крюково,True,302419
+real_estate_agent,9,9,2,40.0,Новаторская,True,375000
+realtor,4,9,2,47.5,Ясенево,True,315579
+real_estate_agent,14,15,2,56.5,Кантемировская,True,269027
+real_estate_agent,2,22,2,57.8,Братиславская,True,264706
+real_estate_agent,1,12,2,44.2,Улица Академика Янгеля,True,350679
+real_estate_agent,1,5,2,35.4,Курская,True,437853
+real_estate_agent,5,17,2,53.4,Митино,True,290262
+real_estate_agent,11,16,2,60.3,Физтех,True,257048
+real_estate_agent,7,9,2,44.0,Улица Милашенкова,True,356818
+real_estate_agent,3,23,2,49.5,Стахановская,True,319192
+real_estate_agent,5,27,2,65.7,Некрасовка,True,242009
+real_estate_agent,8,9,2,45.0,Матвеевская,True,353333
+real_estate_agent,15,19,2,54.7,Ховрино,True,292505
+real_estate_agent,15,19,2,54.8,Ховрино,True,291971
+real_estate_agent,7,24,2,52.9,Солнцево,True,302457
+homeowner,9,12,2,45.3,Свиблово,True,350993
+real_estate_agent,4,6,2,41.9,Рабочий посёлок,True,389021
+real_estate_agent,18,22,2,61.1,Пятницкое шоссе,True,270049
+real_estate_agent,4,20,2,44.6,Трикотажная,True,369955
+real_estate_agent,4,17,2,51.1,Медведково,True,322896
+real_estate_agent,5,5,2,53.0,Бутырская,True,309434
+real_estate_agent,11,12,2,58.3,Жулебино,True,284734
+real_estate_agent,3,17,2,53.4,Крылатское,True,310861
+real_estate_agent,12,12,2,52.0,Народное Ополчение,True,326923
+realtor,4,9,2,49.5,Отрадное,True,341414
+homeowner,11,12,2,45.0,Вешняки,True,233333
+realtor,16,23,2,52.8,Волгоградский проспект,True,283902
+homeowner,4,9,2,38.0,Народное Ополчение,True,407895
+real_estate_agent,8,9,2,44.0,Дубровка,True,390909
+real_estate_agent,6,20,2,44.6,Трикотажная,True,387892
+real_estate_agent,10,12,2,52.0,Рижская,True,336538
+real_estate_agent,10,12,2,52.0,Рабочий посёлок,True,336538
+real_estate_agent,8,21,2,56.8,Перово,True,308099
+real_estate_agent,7,14,2,53.0,Новаторская,True,329604
+real_estate_agent,3,12,2,51.0,Сетунь,True,342941
+real_estate_agent,13,19,2,40.2,Озёрная,True,435323
+real_estate_agent,8,22,2,56.6,Ясенево,True,312721
+realtor,15,18,2,57.0,Кузьминки,True,308772
+realtor,8,18,2,51.0,Ботанический сад,True,349020
+real_estate_agent,2,19,2,58.0,Молодёжная,True,318966
+real_estate_agent,8,9,2,48.2,Новаторская,True,383817
+real_estate_agent,10,10,2,55.5,Коптево,True,333333
+real_estate_agent,1,9,2,46.0,ВДНХ,True,402174
+real_estate_agent,6,12,2,51.0,Электрозаводская,True,366667
+real_estate_agent,14,21,2,56.0,Аннино,True,339286
+real_estate_agent,8,22,2,59.8,Озёрная,True,322742
+real_estate_agent,10,17,2,54.0,Дегунино,True,357407
+real_estate_agent,13,16,2,61.4,Преображенская площадь,True,314332
+real_estate_agent,7,7,2,58.3,Октябрьское поле,True,334477
+real_estate_agent,7,24,2,56.0,ЗИЛ,True,387500
+real_estate_agent,20,27,2,52.4,Лефортово,True,419847
+real_estate_agent,7,8,2,63.1,ВДНХ,True,356418
+real_estate_agent,2,12,2,56.3,Сокол,True,401421
+developer,2,16,2,55.54,Тульская,True,406600
+realtor,3,20,2,55.0,Багратионовская,True,430909
+real_estate_agent,6,27,2,65.2,Нагорная,True,368098
+real_estate_agent,11,15,2,79.0,Сортировочная,True,310127
+real_estate_agent,19,19,2,71.1,Пионерская,True,351617
+real_estate_agent,2,17,2,65.0,Раменки,True,384462
+real_estate_agent,16,21,2,66.9,Аминьевская,True,372197
+real_estate_agent,2,16,2,75.2,Генерала Тюленева,True,349734
+real_estate_agent,6,14,2,74.9,Войковская,True,353805
+realtor,7,25,2,71.6,Спартак,True,384078
+real_estate_agent,2,17,2,67.8,Сходненская,True,412979
+official_representative,5,8,2,68.5,Петровский Парк,True,440000
+real_estate_agent,19,23,2,71.7,Бауманская,True,432218
+official_representative,5,8,2,74.2,Петровский Парк,True,418000
+real_estate_agent,17,24,2,73.3,Технопарк,True,443383
+real_estate_agent,21,26,2,87.0,ЦСКА,True,436782
+real_estate_agent,3,10,2,90.0,Бауманская,True,421111
+real_estate_agent,3,6,2,27.0,Южная,True,255556
+developer,1,3,2,47.3,not available,False,159000
+developer,1,3,2,51.3,not available,False,149000
+developer,3,3,2,52.0,not available,False,150000
+developer,1,3,2,47.2,not available,False,168000
+real_estate_agent,1,5,2,41.8,Курьяново,True,198565
+real_estate_agent,6,12,2,44.8,Марьина Роща,True,435045
+real_estate_agent,2,19,2,60.7,Москва-Товарная,True,329489
+real_estate_agent,8,8,2,49.2,Чкаловская,True,436992
+realtor,6,7,2,43.0,Бунинская аллея,True,197674
+developer,7,7,2,44.5,Нахабино,True,202950
+developer,3,3,2,53.5,not available,False,170000
+developer,2,3,2,58.5,not available,False,154000
+realtor,9,9,2,33.7,Бульвар Рокоссовского,True,281899
+real_estate_agent,8,9,2,44.0,Новогиреево,True,218182
+developer,3,20,2,34.8,Новодачная,True,275000
+developer,3,7,2,51.3,Нахабино,True,188100
+developer,2,7,2,51.7,Нахабино,True,185900
+developer,1,3,2,63.0,not available,False,153000
+developer,3,3,2,63.1,not available,False,153000
+developer,3,3,2,63.1,not available,False,153000
+developer,3,3,2,63.1,not available,False,153000
+real_estate_agent,9,9,2,45.0,Выхино,True,216667
+real_estate_agent,5,9,2,38.1,Щёлковская,True,259843
+unknown,8,9,2,44.8,Щёлковская,True,220982
+developer,2,3,2,63.6,not available,False,155000
+real_estate_agent,4,12,2,50.0,Юго-Восточная,True,199000
+real_estate_agent,12,12,2,44.6,Моссельмаш,True,223991
+developer,1,7,2,57.68,Новоподрезково,True,173507
+realtor,12,12,2,44.6,Моссельмаш,True,223991
+realtor,1,9,2,37.7,Щукинская,True,270557
+developer,12,16,2,32.17,Орехово,True,317506
+developer,1,17,2,51.6,Щербинка,True,202089
+real_estate_agent,10,12,2,38.2,Перово,True,274869
+real_estate_agent,17,17,2,60.0,Щербинка,True,174998
+real_estate_agent,11,14,2,39.6,Медведково,True,265152
+developer,15,17,2,50.6,Щербинка,True,207297
+realtor,1,5,2,38.8,Сходненская,True,253866
+realtor,8,9,2,44.0,Отрадное,True,334091
+unknown,5,12,2,46.0,Пражская,True,228261
+developer,2,8,2,49.7,Алтуфьево,True,211100
+real_estate_agent,11,12,2,52.8,Новогиреево,True,200758
+real_estate_agent,3,9,2,43.6,Выхино,True,245367
+real_estate_agent,1,17,2,54.0,Грачёвская,True,199815
+developer,1,16,2,51.83,Новоподрезково,True,209141
+homeowner,1,9,2,47.2,Братиславская,True,229873
+developer,8,11,2,54.0,Щербинка,True,201810
+realtor,1,9,2,43.1,Пражская,True,250580
+developer,3,17,2,54.5,Щербинка,True,199764
+developer,2,8,2,49.0,Алтуфьево,True,219800
+homeowner,1,9,2,44.1,Бибирево,True,244898
+realtor,5,12,2,39.2,Кантемировская,True,278061
+developer,8,16,2,51.89,Новоподрезково,True,212514
+developer,10,16,2,42.88,Орехово,True,256577
+developer,16,24,2,46.2,Окружная,True,239685
+developer,2,11,2,57.4,Щербинка,True,192696
+developer,14,16,2,53.86,Новоподрезково,True,206726
+developer,2,18,2,39.8,Шоссе Энтузиастов,True,280000
+developer,2,9,2,54.3,Аннино,True,218922
+developer,7,21,2,50.28,Калитники,True,222235
+developer,2,27,2,49.5,Щукинская,True,428451
+developer,3,21,2,48.1,Давыдково,True,326000
+real_estate_agent,2,21,2,60.0,Народное Ополчение,True,416667
+realtor,11,22,2,80.0,Зюзино,True,436238
+real_estate_agent,10,27,2,75.6,Озёрная,True,423280
+developer,18,26,3,78.2,Соколиная гора,True,390507
+developer,2,21,3,66.59,Калитники,True,212310
+real_estate_agent,13,17,3,78.5,Пролетарская,True,331083
+real_estate_agent,9,20,3,64.56,Тульская,True,412639
+developer,7,20,3,56.27,Преображенская площадь,True,350000
+developer,3,13,3,71.3,Аминьевская,True,344565
+developer,2,9,3,66.7,Нижегородская,True,290331
+real_estate_agent,4,17,3,76.2,Народное Ополчение,True,391076
+developer,2,19,3,76.8,ЗИЛ,True,403595
+real_estate_agent,13,24,3,64.8,Верхние котлы,True,353395
+real_estate_agent,20,22,3,80.0,Славянский бульвар,True,361250
+real_estate_agent,5,9,3,80.0,Митино,True,281250
+real_estate_agent,5,5,3,80.3,Марьина Роща,True,367372
+homeowner,4,5,3,72.2,Новогиреево,True,245845
+real_estate_agent,1,12,3,71.5,Преображенская площадь,True,258741
+real_estate_agent,12,14,3,79.5,Люблино,True,244528
+real_estate_agent,5,5,3,72.5,Аэропорт,True,335172
+real_estate_agent,11,17,3,74.8,Беговая,True,327540
+real_estate_agent,6,17,3,73.6,Преображенская площадь,True,332880
+real_estate_agent,1,11,3,87.6,ВДНХ,True,279680
+real_estate_agent,12,12,3,63.9,Марьина Роща,True,446009
+real_estate_agent,1,3,3,90.0,Физтех,True,333333
+real_estate_agent,14,24,3,88.0,Речной вокзал,True,346591
+real_estate_agent,3,3,3,75.4,Трубная,True,411141
+real_estate_agent,12,12,3,64.1,Академическая,True,312012
+real_estate_agent,9,10,3,73.0,Рабочий посёлок,True,291781
+real_estate_agent,4,25,3,81.0,Текстильщики,True,282716
+real_estate_agent,13,17,3,75.4,Крылатское,True,305040
+real_estate_agent,10,16,3,65.7,Площадь Ильича,True,380365
+homeowner,14,27,3,85.0,Грачёвская,True,334118
+real_estate_agent,1,4,3,83.3,Физтех,True,373349
+real_estate_agent,17,17,3,74.0,Люблино,True,283541
+real_estate_agent,6,17,3,79.0,Новые Черёмушки,True,367089
+real_estate_agent,15,25,3,67.8,Пятницкое шоссе,True,361357
+realtor,6,9,3,58.7,Крымская,True,356048
+real_estate_agent,2,18,3,70.0,Динамо,True,427857
+real_estate_agent,8,9,3,55.6,Москва-Сити,True,348741
+real_estate_agent,12,17,3,74.6,Южная,True,272118
+real_estate_agent,1,12,3,76.0,Кленовый бульвар,True,275000
+real_estate_agent,14,14,3,74.0,Медведково,True,297297
+real_estate_agent,4,18,3,77.7,Фонвизинская,True,308237
+real_estate_agent,16,17,3,80.0,Юго-Западная,True,401250
+real_estate_agent,3,16,3,72.5,Аннино,True,234483
+real_estate_agent,12,17,3,74.8,Кантемировская,True,243316
+real_estate_agent,5,22,3,73.4,Верхние Лихоборы,True,279292
+real_estate_agent,3,20,3,70.0,Технопарк,True,428571
+real_estate_agent,2,12,3,64.8,Домодедовская,True,236883
+real_estate_agent,8,12,3,58.0,Улица Академика Янгеля,True,265517
+real_estate_agent,3,21,3,86.1,Каспийская,True,182346
+real_estate_agent,5,16,3,77.5,Войковская,True,350968
+realtor,7,8,3,82.0,ВДНХ,True,425610
+real_estate_agent,8,9,3,56.9,Первомайская,True,196837
+real_estate_agent,9,16,3,64.0,Улица Дмитриевского,True,179688
+real_estate_agent,2,9,3,52.0,Люблино,True,238462
+real_estate_agent,4,9,3,59.0,Медведково,True,211864
+real_estate_agent,4,9,3,59.0,Медведково,True,211864
+real_estate_agent,1,16,3,65.3,Текстильщики,True,191424
+real_estate_agent,9,9,3,56.0,Новогиреево,True,223214
+real_estate_agent,7,9,3,59.0,Первомайская,True,215254
+real_estate_agent,6,12,3,58.2,Улица Академика Янгеля,True,221649
+real_estate_agent,1,9,3,61.9,Отрадное,True,214378
+real_estate_agent,7,9,3,52.0,Беломорская,True,255769
+real_estate_agent,1,9,3,60.9,Новогиреево,True,229885
+real_estate_agent,3,9,3,62.9,Верхние Лихоборы,True,230525
+real_estate_agent,1,9,3,56.4,Коньково,True,262411
+real_estate_agent,3,9,3,55.4,Люблино,True,270758
+real_estate_agent,12,12,3,63.0,Люблино,True,238095
+real_estate_agent,19,25,3,49.9,Депо,True,306613
+real_estate_agent,2,12,3,64.0,Медведково,True,246875
+real_estate_agent,1,16,3,54.7,Первомайская,True,292505
+real_estate_agent,5,9,3,59.3,Коньково,True,268128
+real_estate_agent,8,9,3,60.5,Нижегородская,True,262810
+real_estate_agent,8,9,3,58.2,Петровско-Разумовская,True,292079
+homeowner,14,18,3,80.0,Царицыно,True,212375
+real_estate_agent,4,5,3,59.2,Кузьминки,True,291385
+real_estate_agent,9,9,3,66.1,Коптево,True,260212
+real_estate_agent,2,12,3,63.0,Яхромская,True,277619
+real_estate_agent,6,9,3,65.0,Тёплый Стан,True,269231
+real_estate_agent,1,6,3,69.3,Войковская,True,252525
+real_estate_agent,9,17,3,76.4,Некрасовка,True,231675
+real_estate_agent,5,9,3,60.6,Коньково,True,303630
+real_estate_agent,1,5,3,54.4,Новые Черёмушки,True,340074
+real_estate_agent,3,5,3,73.7,Соколиная гора,True,252374
+real_estate_agent,6,12,3,62.7,Университет Дружбы Народов,True,295056
+real_estate_agent,6,12,3,68.0,Моссельмаш,True,275000
+real_estate_agent,5,14,3,74.2,Люблино,True,254717
+real_estate_agent,1,5,3,75.0,Гражданская,True,253333
+real_estate_agent,2,5,3,69.3,Перово,True,300000
+real_estate_agent,12,12,3,70.5,Перово,True,300709
+real_estate_agent,4,12,3,65.0,Сокольники,True,338462
+real_estate_agent,4,12,3,77.9,Братиславская,True,308087
+real_estate_agent,17,17,3,76.4,Говорово,True,319241
+real_estate_agent,17,17,3,75.0,Новые Черёмушки,True,326667
+realtor,3,14,3,72.0,Новогиреево,True,347222
+homeowner,8,8,3,61.5,Варшавская,True,434146
+homeowner,10,14,3,73.4,Лефортово,True,367847
+real_estate_agent,3,6,3,68.0,Савёловская,True,441176
+real_estate_agent,6,16,3,73.4,Генерала Тюленева,True,265668
+real_estate_agent,5,9,3,54.2,Гольяново,True,205720
+real_estate_agent,6,9,3,56.9,Вешняки,True,212654
+real_estate_agent,3,5,3,68.0,not available,False,180147
+real_estate_agent,9,9,3,60.0,Перерва,True,206667
+real_estate_agent,2,9,3,58.3,Отрадное,True,217839
+real_estate_agent,8,9,3,50.7,Говорово,True,266272
+real_estate_agent,5,5,3,42.2,Молодёжная,True,327014
+real_estate_agent,5,9,3,56.5,Медведково,True,247788
+real_estate_agent,9,12,3,61.0,Юго-Восточная,True,244098
+real_estate_agent,4,9,3,60.0,Бескудниково,True,250000
+real_estate_agent,4,9,3,55.6,Беляево,True,269604
+real_estate_agent,3,20,3,82.6,Царицыно,True,181477
+real_estate_agent,2,9,3,60.0,Южная,True,250000
+real_estate_agent,4,24,3,85.0,Каспийская,True,182353
+real_estate_agent,9,9,3,59.8,Сетунь,True,259197
+real_estate_agent,3,9,3,57.9,Коньково,True,267703
+real_estate_agent,1,5,3,55.4,Сокольники,True,279783
+real_estate_agent,12,14,3,64.9,Зюзино,True,241757
+real_estate_agent,4,9,3,56.0,Рабочий посёлок,True,279464
+real_estate_agent,5,16,3,65.0,Калитники,True,240000
+real_estate_agent,3,9,3,59.2,Медведково,True,266892
+real_estate_agent,2,18,3,67.4,Зеленоград — Крюково,True,237389
+real_estate_agent,14,17,3,71.7,Зеленоград — Крюково,True,221757
+real_estate_agent,2,18,3,67.4,Зеленоград — Крюково,True,237389
+real_estate_agent,3,9,3,60.5,Улица Академика Янгеля,True,267769
+real_estate_agent,2,9,3,60.0,Коньково,True,275000
+real_estate_agent,11,12,3,64.2,Зюзино,True,255452
+realtor,2,9,3,58.7,Беляево,True,281090
+real_estate_agent,7,22,3,58.0,Стахановская,True,297155
+real_estate_agent,6,12,3,65.3,Сетунь,True,263400
+real_estate_agent,5,5,3,73.0,Сетунь,True,235616
+real_estate_agent,2,16,3,74.4,Строгино,True,237903
+real_estate_agent,12,25,3,58.0,Аннино,True,306897
+real_estate_agent,12,12,3,62.2,Строгино,True,289389
+real_estate_agent,1,8,3,59.0,Савёловская,True,308475
+real_estate_agent,3,4,3,67.4,Народное Ополчение,True,274481
+real_estate_agent,1,5,3,72.2,Красный Балтиец,True,259003
+realtor,6,9,3,58.7,Беляево,True,319421
+real_estate_agent,3,10,3,83.0,Дмитровская,True,283133
+real_estate_agent,2,25,3,66.2,Аннино,True,354985
+real_estate_agent,15,17,3,75.6,Верхние Лихоборы,True,317460
+real_estate_agent,5,9,3,59.0,Раменки,True,405932
+real_estate_agent,16,18,3,77.0,Новые Черёмушки,True,311558
+real_estate_agent,5,24,3,69.0,Верхние котлы,True,360870
+real_estate_agent,2,6,3,71.0,Крестьянская застава,True,366056
+real_estate_agent,5,22,3,70.0,Тропарёво,True,371000
+unknown,8,24,3,68.6,Москворечье,True,393586
+real_estate_agent,10,17,3,77.0,Улица Милашенкова,True,353896
+realtor,16,18,3,81.0,Молодёжная,True,339506
+real_estate_agent,8,20,3,74.0,Лесопарковая,True,375676
+real_estate_agent,6,8,3,79.0,Улица Академика Королёва,True,353797
+real_estate_agent,7,17,3,78.7,Тропарёво,True,362135
+real_estate_agent,10,21,3,76.97,Зорге,True,370274
+real_estate_agent,9,10,3,78.0,Коптево,True,369231
+real_estate_agent,5,5,3,65.0,Ленинский проспект,True,443077
+real_estate_agent,2,9,3,82.0,ЗИЛ,True,353659
+real_estate_agent,2,19,3,71.5,Пионерская,True,433566
+real_estate_agent,4,8,3,75.8,Курская,True,415567
+real_estate_agent,9,10,3,76.0,Стрешнево,True,414474
+real_estate_agent,15,27,3,74.7,Полежаевская,True,428380
+real_estate_agent,5,6,3,85.7,Автозаводская,True,396733
+real_estate_agent,8,16,3,83.0,Петровский Парк,True,421687
+real_estate_agent,5,20,3,85.6,Аминьевская,True,410047
+real_estate_agent,8,24,3,72.0,ЗИЛ,True,416667
+real_estate_agent,20,21,3,46.5,Медведково,True,309677
+developer,2,20,3,62.3,Коптево,True,335153
+real_estate_agent,12,17,3,75.0,Крылатское,True,345333
+developer,2,25,3,87.5,Гражданская,True,428974
+developer,12,25,3,75.7,Сокол,True,396440
+realtor,12,17,3,75.4,Беляево,True,331565
+developer,15,27,3,79.4,Щукинская,True,399900
+real_estate_agent,6,7,3,82.0,Автозаводская,True,390244
+real_estate_agent,4,9,3,60.0,Генерала Тюленева,True,291667
+real_estate_agent,17,22,3,83.0,Бутырская,True,349398
+developer,6,15,3,69.74,Тульская,True,416700
+developer,2,16,3,62.45,Преображенская площадь,True,442124
+real_estate_agent,4,7,1,33.56,Рассказовка,True,166865
+realtor,2,5,1,30.0,Филатов Луг,True,246667
+real_estate_agent,3,15,1,33.0,Потапово,True,283333
+developer,7,9,1,34.1,Толстопальцево,True,196644
+realtor,9,11,1,46.1,Крёкшино,True,190889
+developer,2,24,1,34.0,Новомосковская,True,262610
+real_estate_agent,3,8,1,31.7,Ольховая,True,249211
+homeowner,10,12,1,35.3,Профсоюзная,True,439093
+developer,2,18,1,32.5,Тёплый Стан,True,308800
+real_estate_agent,3,14,1,44.0,Говорово,True,336364
+real_estate_agent,10,14,1,35.0,Вешняки,True,254286
+real_estate_agent,4,4,1,42.1,Курская,True,427553
+real_estate_agent,3,12,1,35.0,Свиблово,True,311143
+real_estate_agent,2,17,1,37.6,Ховрино,True,295213
+developer,2,13,1,33.0,Прокшино,True,305699
+real_estate_agent,13,17,1,37.6,Бачуринская,True,292553
+real_estate_agent,2,12,1,37.0,Филатов Луг,True,218919
+developer,4,17,1,33.4,Мичуринец,True,285762
+developer,4,19,1,34.5,Улица Горчакова,True,224334
+real_estate_agent,5,5,1,28.1,Щербинка,True,224199
+real_estate_agent,12,18,1,33.0,Некрасовка,True,268636
+developer,2,7,1,39.0,Филатов Луг,True,296700
+real_estate_agent,3,14,1,37.0,Медведково,True,333784
+developer,11,13,1,33.4,Бунинская аллея,True,266664
+real_estate_agent,4,17,1,38.3,Зеленоград — Крюково,True,221671
+realtor,9,9,1,32.0,Бескудниково,True,365312
+developer,13,15,1,33.3,Ольховая,True,269596
+real_estate_agent,14,17,1,30.5,Ватутинки,True,229508
+developer,6,22,1,26.3,Прокшино,True,302000
+real_estate_agent,18,22,1,30.0,Рассказовка,True,390000
+developer,2,19,1,39.8,not available,False,232100
+real_estate_agent,9,9,1,31.0,Петровский Парк,True,435484
+developer,12,20,1,32.9,Филатов Луг,True,268462
+real_estate_agent,1,10,1,40.0,Жулебино,True,249750
+developer,4,21,1,45.1,Павелецкая,True,419680
+real_estate_agent,8,10,1,60.0,Химки,True,315000
+real_estate_agent,2,12,1,31.05,Улица Академика Янгеля,True,320451
+developer,12,23,1,22.7,Владыкино,True,363008
+real_estate_agent,4,12,1,34.6,Октябрьское поле,True,433526
+developer,2,23,1,40.0,Владыкино,True,243540
+real_estate_agent,5,14,1,33.7,Ольховая,True,290801
+real_estate_agent,17,19,1,44.4,Подрезково,True,192568
+real_estate_agent,17,17,1,38.0,Зеленоград — Крюково,True,215789
+homeowner,5,17,1,42.0,Потапово,True,250000
+real_estate_agent,6,9,1,31.6,Окская,True,278481
+real_estate_agent,8,13,1,41.5,Пыхтино,True,253012
+real_estate_agent,12,17,1,39.2,Крылатское,True,306122
+developer,13,17,1,33.1,Корниловская,True,339159
+real_estate_agent,13,14,1,38.5,Верхние Лихоборы,True,306494
+realtor,1,5,1,30.5,Филёвский парк,True,445902
+developer,2,17,1,25.7,Корниловская,True,294361
+real_estate_agent,13,16,1,34.2,Тёплый Стан,True,271930
+developer,2,17,1,38.8,Корниловская,True,292762
+real_estate_agent,18,18,1,41.1,Потапово,True,262774
+real_estate_agent,3,16,1,34.5,Савёловская,True,405797
+developer,15,27,1,36.4,Аминьевская,True,414105
+real_estate_agent,6,24,1,63.0,Крылатское,True,346032
+real_estate_agent,10,12,1,34.9,Измайловская,True,340974
+real_estate_agent,3,3,1,44.7,Крёкшино,True,190157
+real_estate_agent,6,9,1,42.5,Крёкшино,True,152941
+real_estate_agent,6,7,1,43.14,Крёкшино,True,150672
+developer,13,14,1,34.61,Щербинка,True,187926
+developer,2,3,1,35.8,Апрелевка,True,182000
+developer,4,12,1,34.0,Рассказовка,True,193175
+developer,12,14,1,32.87,Рассказовка,True,202221
+developer,4,9,1,32.5,Толстопальцево,True,207512
+developer,12,23,1,32.11,Летово,True,209074
+developer,1,9,1,36.23,Силикатная,True,186242
+developer,6,9,1,34.98,Силикатная,True,192140
+developer,9,9,1,35.64,Силикатная,True,187479
+developer,12,17,1,36.71,Филатов Луг,True,182006
+developer,16,17,1,36.34,Филатов Луг,True,185759
+developer,15,17,1,33.77,Филатов Луг,True,200993
+developer,15,17,1,33.46,Филатов Луг,True,203179
+developer,11,16,1,32.7,Филатов Луг,True,207678
+developer,11,17,1,32.26,Филатов Луг,True,210314
+developer,8,16,1,23.27,Орехово,True,295211
+developer,1,3,1,39.2,Апрелевка,True,175000
+developer,9,9,1,36.46,Силикатная,True,186605
+developer,9,14,1,34.6,Рассказовка,True,196897
+developer,10,14,1,37.22,Щербинка,True,185646
+developer,1,5,1,34.63,Рассказовка,True,199838
+developer,10,12,1,34.67,Летово,True,199955
+developer,6,7,1,40.79,Силикатная,True,170210
+developer,14,14,1,32.25,Рассказовка,True,214282
+developer,13,16,1,34.2,Летово,True,203154
+developer,1,3,1,39.6,Апрелевка,True,175000
+developer,12,17,1,35.43,Филатов Луг,True,196767
+developer,12,14,1,38.37,Щербинка,True,184624
+developer,2,16,1,34.62,Новоподрезково,True,204442
+developer,16,17,1,35.83,Филатов Луг,True,195957
+developer,1,3,1,39.2,Апрелевка,True,179000
+developer,4,9,1,38.27,Силикатная,True,185392
+developer,7,12,1,33.73,Силикатная,True,208886
+developer,6,9,1,34.74,Силикатная,True,203503
+developer,2,10,1,31.03,Летово,True,227533
+developer,6,14,1,35.81,Щербинка,True,199538
+developer,1,9,1,40.79,Силикатная,True,174507
+developer,1,14,1,34.88,Рассказовка,True,203654
+developer,2,11,1,30.9,Щербинка,True,232872
+developer,8,14,1,39.01,Щербинка,True,185125
+developer,2,12,1,34.64,Щербинка,True,209241
+developer,10,10,1,38.79,Рассказовка,True,186468
+developer,9,9,1,34.27,Рассказовка,True,211069
+developer,14,14,1,35.83,Новоподрезково,True,201960
+developer,16,16,1,35.83,Новоподрезково,True,202736
+developer,1,3,1,40.8,Апрелевка,True,178000
+developer,2,9,1,38.38,Силикатная,True,189084
+developer,14,17,1,34.1,Филатов Луг,True,212685
+developer,2,14,1,36.51,Щербинка,True,200177
+developer,12,23,1,32.74,Летово,True,224310
+developer,12,16,1,32.37,Новоподрезково,True,226493
+developer,2,11,1,34.2,Щербинка,True,213807
+developer,2,12,1,39.97,Силикатная,True,183536
+developer,5,17,1,34.6,Филатов Луг,True,211584
+developer,3,14,1,35.4,Филатов Луг,True,207531
+developer,3,9,1,32.4,Толстопальцево,True,227361
+developer,2,12,1,35.81,Щербинка,True,206000
+developer,3,12,1,32.42,Щербинка,True,227067
+developer,12,14,1,35.3,Филатов Луг,True,210011
+developer,7,14,1,35.4,Филатов Луг,True,209439
+developer,2,9,1,36.8,Толстопальцево,True,201472
+developer,2,9,1,34.3,Филатов Луг,True,216790
+developer,3,9,1,33.1,Филатов Луг,True,224390
+developer,8,9,1,37.12,Силикатная,True,199385
+developer,2,14,1,37.11,Рассказовка,True,199951
+developer,1,3,1,45.9,Апрелевка,True,162000
+developer,1,9,1,38.27,Рассказовка,True,195534
+developer,1,13,1,32.56,Новоподрезково,True,230140
+developer,9,12,1,35.77,Рассказовка,True,209481
+developer,2,10,1,37.0,Толстопальцево,True,202076
+developer,2,9,1,32.4,Филатов Луг,True,230470
+developer,3,17,1,32.89,Филатов Луг,True,227533
+developer,3,17,1,32.31,Филатов Луг,True,231576
+developer,5,17,1,35.63,Филатов Луг,True,210158
+developer,18,22,1,38.17,Летово,True,195215
+developer,5,9,1,36.1,Толстопальцево,True,210217
+developer,2,11,1,36.5,Щербинка,True,206925
+developer,4,15,1,34.57,Румянцево,True,219640
+realtor,2,12,1,38.7,Минская,True,387339
+real_estate_agent,5,7,1,47.5,Санино,True,212632
+real_estate_agent,3,15,1,54.0,Говорово,True,274074
+developer,3,15,1,34.35,Щербинка,True,221241
+developer,5,13,1,33.89,Щербинка,True,223748
+developer,1,14,1,39.79,Рассказовка,True,189912
+developer,13,14,1,32.7,Филатов Луг,True,230573
+developer,13,17,1,42.84,Филатов Луг,True,177296
+developer,8,14,1,34.61,Летово,True,219174
+developer,10,10,1,34.06,Рассказовка,True,221455
+developer,2,9,1,34.6,Рассказовка,True,219454
+developer,9,9,1,38.22,Рассказовка,True,198358
+developer,9,9,1,38.27,Рассказовка,True,198098
+developer,3,14,1,34.23,Филатов Луг,True,221622
+developer,14,14,1,32.58,Филатов Луг,True,230428
+developer,5,14,1,34.22,Филатов Луг,True,221166
+developer,7,9,1,36.46,Силикатная,True,207806
+developer,2,11,1,32.6,Зеленоград — Крюково,True,234360
+developer,5,15,1,32.57,Щербинка,True,234043
+developer,5,10,1,34.57,Щербинка,True,220917
+developer,5,10,1,33.89,Щербинка,True,225718
+developer,10,10,1,35.56,Рассказовка,True,214662
+developer,5,17,1,32.89,Филатов Луг,True,231355
+developer,2,10,1,35.6,Толстопальцево,True,213978
+developer,8,14,1,36.36,Рассказовка,True,209167
+developer,7,17,1,36.41,Филатов Луг,True,209411
+developer,12,16,1,35.67,Летово,True,213210
+developer,16,16,1,39.56,Летово,True,192472
+developer,9,9,1,32.27,Филатов Луг,True,237595
+developer,2,10,1,32.81,Щербинка,True,234632
+developer,4,14,1,37.86,Щербинка,True,204238
+developer,9,15,1,35.19,Солнцево,True,219826
+developer,3,13,1,32.54,Щербинка,True,237875
+developer,3,15,1,32.68,Щербинка,True,234097
+developer,10,16,1,22.17,Орехово,True,346389
+developer,1,14,1,40.92,Рассказовка,True,189059
+developer,1,9,1,38.26,Рассказовка,True,200984
+developer,9,9,1,35.29,Рассказовка,True,219453
+developer,1,16,1,34.54,Новоподрезково,True,221898
+developer,12,13,1,32.71,Новоподрезково,True,234692
+developer,2,9,1,36.2,Филатов Луг,True,212990
+developer,14,17,1,36.2,Щербинка,True,214086
+developer,2,12,1,32.0,Кедровая,True,240812
+developer,1,9,1,44.48,Силикатная,True,173741
+developer,10,22,1,36.28,Летово,True,212968
+developer,4,17,1,33.0,Улица Горчакова,True,235246
+developer,11,15,1,35.57,Румянцево,True,220286
+developer,3,13,1,36.02,Щербинка,True,215624
+developer,3,12,1,32.42,Щербинка,True,239747
+developer,2,23,1,41.3,Филатов Луг,True,188100
+developer,15,16,1,33.9,Филатов Луг,True,229251
+developer,10,18,1,36.07,Филатов Луг,True,217451
+developer,6,9,1,36.15,Рассказовка,True,216635
+developer,12,17,1,32.9,Улица Горчакова,True,238157
+developer,11,16,1,38.2,Филатов Луг,True,204275
+developer,3,17,1,34.4,Щербинка,True,227943
+developer,2,9,1,38.2,Филатов Луг,True,204630
+developer,14,14,1,33.7,Филатов Луг,True,232180
+developer,1,12,1,43.31,Силикатная,True,179140
+developer,1,14,1,39.2,Рассказовка,True,197900
+developer,7,7,1,35.84,Новоподрезково,True,216983
+developer,6,9,1,34.24,Филатов Луг,True,227335
+developer,9,17,1,36.7,Улица Горчакова,True,214330
+developer,13,17,1,40.78,Новоподрезково,True,193493
+developer,4,15,1,36.73,Солнцево,True,214561
+developer,5,15,1,34.19,Щербинка,True,229683
+developer,8,9,1,37.04,Рассказовка,True,212922
+developer,6,9,1,34.74,Рассказовка,True,227065
+developer,6,9,1,37.04,Рассказовка,True,213126
+developer,2,13,1,40.76,Новоподрезково,True,193370
+developer,2,13,1,33.04,Новоподрезково,True,238168
+developer,7,9,1,38.27,Силикатная,True,205968
+developer,4,9,1,34.5,Филатов Луг,True,228855
+developer,2,3,1,36.2,Апрелевка,True,218000
+developer,3,9,1,33.9,Толстопальцево,True,233128
+developer,9,14,1,33.31,Щербинка,True,238145
+developer,3,13,1,34.77,Щербинка,True,228664
+developer,5,15,1,35.56,Щербинка,True,222880
+developer,12,14,1,41.45,Рассказовка,True,191321
+developer,9,16,1,40.2,Филатов Луг,True,198863
+developer,1,5,1,40.79,Рассказовка,True,194510
+developer,8,22,1,26.3,Прокшино,True,304000
+developer,8,10,1,35.0,Толстопальцево,True,227593
+developer,2,11,1,33.8,Зеленоград — Крюково,True,235290
+developer,9,9,1,35.99,Филатов Луг,True,221730
+developer,2,11,1,33.2,Кедровая,True,240813
+developer,2,12,1,35.46,Рассказовка,True,225305
+developer,1,9,1,34.51,Силикатная,True,230058
+developer,9,9,1,43.65,Силикатная,True,182273
+developer,1,5,1,42.29,Новоподрезково,True,189023
+developer,8,17,1,38.62,Филатов Луг,True,204699
+developer,14,17,1,38.27,Филатов Луг,True,208892
+developer,9,9,1,32.26,Филатов Луг,True,245575
+developer,1,13,1,40.31,Новоподрезково,True,198880
+developer,5,15,1,35.17,Щербинка,True,228054
+developer,1,13,1,40.3,Новоподрезково,True,199713
+developer,8,10,1,33.79,Филатов Луг,True,237971
+developer,2,22,1,40.28,Летово,True,199002
+developer,2,17,1,32.6,Щербинка,True,245985
+developer,6,11,1,36.1,Зеленоград — Крюково,True,224502
+developer,11,14,1,45.06,Щербинка,True,180014
+developer,18,23,1,34.64,Румянцево,True,232423
+developer,14,23,1,36.45,Румянцево,True,223060
+developer,6,14,1,37.82,Филатов Луг,True,215136
+developer,8,16,1,40.3,Филатов Луг,True,201922
+developer,1,15,1,41.8,Летово,True,193437
+developer,6,9,1,44.47,Рассказовка,True,181060
+developer,1,5,1,44.25,Рассказовка,True,183549
+developer,8,9,1,40.9,Рассказовка,True,198635
+developer,1,8,1,33.93,Рассказовка,True,239610
+developer,2,9,1,40.79,Рассказовка,True,198720
+developer,8,15,1,34.61,Новоподрезково,True,234771
+developer,9,17,1,36.7,Улица Горчакова,True,220976
+developer,17,17,1,36.3,Щербинка,True,224037
+developer,2,14,1,35.7,Филатов Луг,True,227240
+developer,3,9,1,34.6,Бунинская аллея,True,233377
+developer,11,16,1,42.2,Филатов Луг,True,192190
+developer,1,14,1,42.83,Рассказовка,True,189862
+developer,5,9,1,34.4,Бунинская аллея,True,236133
+developer,7,21,1,27.6,Коммунарка,True,295000
+developer,8,22,1,26.7,Прокшино,True,304000
+developer,2,17,1,36.6,Щербинка,True,222363
+real_estate_agent,10,16,1,35.4,Медведково,True,231638
+developer,3,17,1,35.98,Щербинка,True,227199
+developer,6,17,1,31.99,Щербинка,True,255285
+developer,4,9,1,36.1,Улица Горчакова,True,227699
+developer,2,14,1,47.47,Щербинка,True,172451
+developer,8,23,1,37.74,Румянцево,True,216961
+developer,13,13,1,40.79,Новоподрезково,True,200302
+developer,5,10,1,36.2,Щербинка,True,226781
+developer,5,12,1,33.3,Щербинка,True,247093
+developer,2,9,1,42.02,Рассказовка,True,194740
+developer,10,10,1,36.34,Филатов Луг,True,225881
+developer,14,17,1,31.9,Щербинка,True,257238
+developer,2,11,1,36.7,Зеленоград — Крюково,True,224688
+developer,1,12,1,48.67,Силикатная,True,169039
+developer,11,17,1,38.14,Филатов Луг,True,215821
+developer,7,17,1,44.98,Филатов Луг,True,181569
+developer,1,5,1,42.29,Новоподрезково,True,195065
+developer,3,3,1,48.9,Апрелевка,True,168000
+developer,3,23,1,41.5,Филатов Луг,True,199120
+developer,21,23,1,34.39,Румянцево,True,240691
+developer,2,16,1,38.6,Филатов Луг,True,214381
+developer,2,19,1,39.9,Улица Горчакова,True,207548
+developer,5,9,1,35.9,Толстопальцево,True,230704
+developer,9,14,1,42.14,Рассказовка,True,196186
+developer,1,15,1,49.29,Новоподрезково,True,168299
+developer,10,14,1,42.06,Рассказовка,True,196532
+developer,2,18,1,37.4,Бунинская аллея,True,220645
+developer,2,9,1,35.97,Филатов Луг,True,230090
+developer,1,11,1,34.8,Зеленоград — Крюково,True,239754
+developer,8,19,1,38.7,Бунинская аллея,True,214521
+developer,2,14,1,44.42,Щербинка,True,187249
+developer,13,14,1,36.48,Щербинка,True,227684
+developer,2,14,1,44.42,Щербинка,True,187764
+developer,11,23,1,37.7,Филатов Луг,True,221540
+developer,4,16,1,38.3,Филатов Луг,True,218575
+developer,11,16,1,39.1,Филатов Луг,True,214600
+developer,6,16,1,38.3,Филатов Луг,True,216843
+developer,2,8,1,35.4,Рассказовка,True,236254
+developer,8,8,1,38.27,Рассказовка,True,218728
+developer,11,13,1,34.08,Новоподрезково,True,243872
+developer,2,16,1,42.09,Летово,True,199411
+developer,11,11,1,32.1,Зеленоград — Крюково,True,260865
+developer,16,16,1,38.2,Филатов Луг,True,218118
+developer,2,14,1,40.6,Филатов Луг,True,206353
+developer,3,12,1,34.7,Кедровая,True,240807
+developer,3,17,1,39.96,Филатов Луг,True,207708
+developer,5,8,1,44.7,Филатов Луг,True,186871
+developer,2,13,1,34.08,Новоподрезково,True,244447
+developer,1,13,1,42.27,Новоподрезково,True,197690
+developer,6,8,1,39.34,Рассказовка,True,211605
+unknown,9,17,1,28.0,Щербинка,True,296429
+developer,2,3,1,49.3,Апрелевка,True,170000
+developer,4,14,1,48.11,Щербинка,True,175341
+developer,2,14,1,49.54,Щербинка,True,170026
+developer,2,14,1,32.67,Щербинка,True,257876
+developer,2,15,1,36.62,Румянцево,True,231025
+developer,5,12,1,37.25,Щербинка,True,227782
+developer,1,7,1,47.39,Рассказовка,True,177973
+developer,15,20,1,36.05,Филатов Луг,True,234749
+developer,9,10,1,37.99,Филатов Луг,True,221820
+developer,8,14,1,40.2,Филатов Луг,True,211339
+developer,3,10,1,36.65,Рассказовка,True,231427
+developer,3,9,1,34.87,Рассказовка,True,241694
+developer,6,9,1,38.93,Рассказовка,True,216503
+developer,7,17,1,40.0,Филатов Луг,True,211356
+developer,19,24,1,32.7,Окружная,True,259445
+developer,17,17,1,34.24,Щербинка,True,245613
+developer,2,23,1,29.5,Химки,True,284825
+developer,1,9,1,40.79,Силикатная,True,207137
+developer,1,16,1,44.16,Летово,True,191818
+developer,6,13,1,43.63,Новоподрезково,True,194503
+developer,7,23,1,37.4,Филатов Луг,True,224770
+developer,1,3,1,40.7,Апрелевка,True,207000
+real_estate_agent,13,15,1,39.7,Ольховая,True,214106
+developer,2,17,1,35.6,Улица Горчакова,True,240065
+developer,4,7,1,41.47,Рассказовка,True,205406
+developer,5,9,1,34.7,Улица Горчакова,True,246156
+developer,1,7,1,44.29,Рассказовка,True,193029
+developer,1,10,1,31.9,Летово,True,267620
+developer,2,3,1,49.5,Апрелевка,True,172000
+realtor,11,24,1,24.7,Измайлово,True,348178
+developer,7,19,1,39.9,Улица Горчакова,True,215232
+developer,3,14,1,35.03,Щербинка,True,245754
+developer,5,10,1,40.4,Щербинка,True,212673
+developer,6,11,1,37.0,Щербинка,True,233671
+developer,9,16,1,26.27,Орехово,True,328939
+developer,8,16,1,40.3,Филатов Луг,True,212925
+developer,6,20,1,33.4,Летово,True,257649
+developer,6,20,1,33.9,Летово,True,254141
+developer,6,9,1,44.9,Филатов Луг,True,192478
+developer,5,15,1,32.58,Румянцево,True,262472
+developer,9,9,1,41.5,Филатов Луг,True,208430
+developer,13,14,1,34.8,Окружная,True,248140
+developer,3,24,1,34.1,Окружная,True,252035
+developer,8,9,1,37.12,Силикатная,True,231426
+developer,10,14,1,48.1,Рассказовка,True,178261
+developer,3,17,1,38.83,Филатов Луг,True,220367
+developer,1,16,1,33.6,Ольховая,True,255404
+developer,7,17,1,38.14,Филатов Луг,True,226425
+developer,11,17,1,36.0,Щербинка,True,239754
+developer,2,9,1,39.6,Филатов Луг,True,216505
+developer,2,23,1,42.6,Филатов Луг,True,203300
+developer,2,14,1,38.74,Щербинка,True,224606
+developer,2,14,1,45.19,Щербинка,True,193591
+developer,3,10,1,41.28,Щербинка,True,211379
+developer,3,15,1,38.84,Щербинка,True,223645
+developer,11,16,1,40.3,Филатов Луг,True,214764
+developer,4,16,1,43.2,Филатов Луг,True,201248
+developer,4,9,1,48.31,Рассказовка,True,179827
+real_estate_agent,4,6,1,30.0,Филатов Луг,True,249667
+real_estate_agent,5,9,1,34.1,Пражская,True,322287
+real_estate_agent,15,15,1,40.6,Прокшино,True,292857
+real_estate_agent,14,17,1,43.3,Выхино,True,265589
+realtor,9,9,1,32.0,Локомотив,True,343438
+developer,9,9,1,33.13,Рассказовка,True,263376
+developer,2,9,1,35.29,Рассказовка,True,247645
+developer,15,16,1,35.9,Бунинская аллея,True,243635
+developer,7,9,1,34.7,Бунинская аллея,True,251823
+developer,1,11,1,35.7,Кедровая,True,243810
+developer,9,9,1,40.26,Филатов Луг,True,214985
+developer,8,20,1,34.8,Летово,True,250328
+developer,14,16,1,42.91,Летово,True,203415
+developer,5,12,1,41.5,Филатов Луг,True,210611
+developer,2,20,1,34.1,Улица Горчакова,True,257508
+developer,12,14,1,34.77,Щербинка,True,252837
+developer,5,9,1,38.66,Рассказовка,True,226498
+developer,10,12,1,44.36,Рассказовка,True,198371
+developer,10,17,1,48.04,Филатов Луг,True,182960
+developer,1,3,1,42.3,Апрелевка,True,207000
+realtor,4,9,1,33.0,Щёлковская,True,266667
+developer,4,9,1,36.3,Толстопальцево,True,243045
+developer,5,15,1,41.21,Щербинка,True,214941
+developer,9,13,1,37.6,Щербинка,True,234587
+developer,13,15,1,46.92,Щербинка,True,187927
+developer,10,10,1,33.22,Рассказовка,True,265788
+developer,5,12,1,41.49,Филатов Луг,True,212254
+developer,5,9,1,36.9,Толстопальцево,True,240377
+developer,8,9,1,34.2,Толстопальцево,True,259912
+developer,4,10,1,37.9,Толстопальцево,True,234458
+developer,6,9,1,34.8,Толстопальцево,True,253612
+developer,2,9,1,36.7,Толстопальцево,True,240589
+developer,8,9,1,32.7,Толстопальцево,True,270813
+developer,9,10,1,39.06,Филатов Луг,True,227568
+developer,2,9,1,42.5,Филатов Луг,True,207955
+developer,2,9,1,36.2,Бунинская аллея,True,245526
+developer,3,23,1,36.4,Филатов Луг,True,243191
+developer,13,16,1,33.1,Ольховая,True,268696
+developer,2,23,1,37.16,Румянцево,True,237775
+developer,9,10,1,31.2,Летово,True,282218
+developer,8,16,1,32.36,Новоподрезково,True,272694
+developer,8,25,1,32.3,Зеленоград — Крюково,True,274350
+real_estate_agent,6,16,1,34.7,Первомайская,True,256484
+developer,7,23,1,45.4,Филатов Луг,True,197931
+developer,12,23,1,34.7,Новомосковская,True,259082
+developer,14,18,1,34.5,Новомосковская,True,260192
+developer,14,14,1,37.6,Щербинка,True,237483
+developer,9,10,1,36.48,Щербинка,True,245940
+developer,5,20,1,36.7,Филатов Луг,True,244726
+developer,2,9,1,40.58,Щербинка,True,221483
+developer,4,9,1,43.27,Щербинка,True,207146
+developer,1,13,1,34.49,Новоподрезково,True,259210
+developer,1,10,1,43.85,Рассказовка,True,203943
+developer,4,9,1,46.51,Рассказовка,True,191724
+developer,4,8,1,40.79,Рассказовка,True,218972
+developer,8,8,1,37.12,Рассказовка,True,240879
+developer,15,15,1,38.35,Новоподрезково,True,233836
+developer,1,16,1,44.19,Новоподрезково,True,201696
+developer,5,7,1,36.2,Ольховая,True,248316
+developer,9,10,1,35.0,Толстопальцево,True,256259
+developer,2,17,1,41.0,Щербинка,True,219201
+developer,9,11,1,40.2,Щербинка,True,222921
+developer,9,9,1,41.39,Филатов Луг,True,216695
+developer,1,12,1,36.8,Кедровая,True,243804
+developer,10,23,1,40.7,Румянцево,True,219922
+developer,13,16,1,33.5,Ольховая,True,267420
+developer,2,14,1,37.42,Летово,True,239101
+developer,3,9,1,41.57,Филатов Луг,True,215745
+developer,1,9,1,40.6,Филатов Луг,True,220875
+developer,2,9,1,43.6,Филатов Луг,True,205390
+developer,12,19,1,33.8,Бунинская аллея,True,266963
+developer,5,20,1,40.2,Филатов Луг,True,224645
+developer,7,14,1,38.29,Щербинка,True,236288
+developer,7,14,1,36.38,Щербинка,True,249110
+developer,5,10,1,41.65,Щербинка,True,216184
+developer,3,23,1,44.3,Филатов Луг,True,203870
+developer,3,9,1,36.9,Улица Горчакова,True,245779
+developer,7,24,1,34.9,Окружная,True,259445
+developer,3,12,1,41.48,Филатов Луг,True,217546
+developer,8,8,1,46.97,Рассказовка,True,192508
+developer,12,22,1,32.8,Прокшино,True,276000
+developer,2,9,1,38.18,Филатов Луг,True,236170
+real_estate_agent,1,5,1,35.0,Окружная,True,260000
+real_estate_agent,5,5,1,29.8,Первомайская,True,307047
+developer,2,14,1,47.47,Щербинка,True,191928
+developer,6,14,1,36.55,Щербинка,True,251290
+developer,1,15,1,43.72,Солнцево,True,209760
+developer,4,19,1,39.4,not available,False,233291
+developer,3,10,1,42.88,Щербинка,True,213400
+developer,6,20,1,35.2,Филатов Луг,True,260022
+developer,11,23,1,41.87,Румянцево,True,217891
+developer,7,11,1,32.0,Новоподрезково,True,285414
+developer,10,10,1,34.96,Рассказовка,True,260607
+developer,9,9,1,37.97,Рассказовка,True,240482
+developer,10,10,1,36.08,Рассказовка,True,253771
+developer,15,16,1,44.43,Новоподрезково,True,205574
+developer,10,12,1,34.4,Ольховая,True,266355
+developer,11,15,1,37.0,Бунинская аллея,True,246956
+developer,6,9,1,43.65,Силикатная,True,209726
+developer,2,5,1,39.3,Рассказовка,True,233192
+developer,2,9,1,32.7,Новомосковская,True,280876
+developer,6,22,1,31.8,Прокшино,True,287000
+developer,3,9,1,43.87,Филатов Луг,True,209285
+developer,5,9,1,39.52,Филатов Луг,True,231135
+developer,12,18,1,38.7,Бунинская аллея,True,238694
+developer,13,14,1,34.72,Щербинка,True,265876
+developer,4,10,1,37.12,Щербинка,True,248387
+developer,3,10,1,42.88,Щербинка,True,215020
+developer,4,16,1,27.54,Орехово,True,334994
+developer,3,7,1,32.86,Рассказовка,True,281346
+real_estate_agent,7,9,1,32.9,Юго-Восточная,True,282675
+developer,2,19,1,39.0,Филатов Луг,True,239283
+developer,4,14,1,45.59,Щербинка,True,203522
+developer,10,10,1,37.88,Рассказовка,True,246235
+developer,2,9,1,48.15,Рассказовка,True,193982
+developer,4,16,1,33.66,Орехово,True,277029
+developer,2,10,1,37.0,Толстопальцево,True,250487
+developer,5,23,1,32.0,Речной вокзал,True,292020
+developer,14,14,1,41.0,Филатов Луг,True,225815
+developer,15,15,1,38.3,Ольховая,True,244112
+developer,3,11,1,37.7,Новомосковская,True,246701
+developer,3,17,1,36.9,Корниловская,True,252250
+developer,1,14,1,49.37,Рассказовка,True,187410
+developer,5,7,1,34.63,Рассказовка,True,267220
+developer,6,16,1,35.5,Ольховая,True,261578
+developer,10,16,1,33.1,Ольховая,True,280099
+developer,21,22,1,33.4,Бунинская аллея,True,279301
+developer,2,22,1,43.5,Бунинская аллея,True,214184
+developer,2,9,1,34.0,Новомосковская,True,273296
+developer,6,9,1,41.86,Филатов Луг,True,222015
+real_estate_agent,1,10,1,39.5,Новомосковская,True,237975
+developer,3,19,1,40.5,not available,False,232100
+developer,12,20,1,41.4,Филатов Луг,True,227827
+developer,4,14,1,45.06,Щербинка,True,208536
+developer,1,15,1,43.6,Румянцево,True,216513
+developer,1,19,1,42.2,Филатов Луг,True,223335
+developer,5,15,1,41.21,Щербинка,True,227974
+developer,2,15,1,44.95,Щербинка,True,208518
+developer,16,20,1,40.0,Летово,True,235884
+developer,10,10,1,40.45,Рассказовка,True,231387
+developer,7,9,1,37.04,Рассказовка,True,254299
+developer,3,7,1,36.46,Рассказовка,True,257003
+developer,14,15,1,36.7,Ольховая,True,257235
+developer,7,9,1,41.44,Филатов Луг,True,226765
+developer,2,14,1,37.5,Кедровая,True,250800
+developer,3,6,1,31.94,Рассказовка,True,295556
+developer,8,12,1,44.51,Летово,True,211457
+developer,9,17,1,37.8,Бунинская аллея,True,248662
+developer,4,9,1,38.3,Бунинская аллея,True,245020
+developer,2,9,1,44.7,Филатов Луг,True,210140
+real_estate_agent,2,9,1,32.8,Планерная,True,289634
+realtor,1,16,1,37.7,Пражская,True,250663
+real_estate_agent,11,14,1,37.0,Ольховая,True,256757
+developer,6,18,1,39.7,Новомосковская,True,240286
+developer,10,14,1,49.29,Щербинка,True,192840
+realtor,16,24,1,36.6,Пятницкое шоссе,True,259563
+developer,5,5,1,35.4,Рассказовка,True,267670
+developer,16,17,1,45.6,Летово,True,207746
+developer,4,19,1,38.7,Бунинская аллея,True,246557
+developer,10,19,1,37.6,not available,False,251769
+developer,6,20,1,33.6,Новопеределкино,True,282982
+developer,1,19,1,39.9,Филатов Луг,True,236884
+real_estate_agent,2,12,1,38.7,Алтуфьево,True,248062
+real_estate_agent,3,7,1,46.8,Крёкшино,True,205128
+real_estate_agent,6,22,1,39.9,Филатов Луг,True,239348
+real_estate_agent,11,14,1,35.9,Бунинская аллея,True,266017
+developer,19,22,1,37.88,Летово,True,254504
+developer,2,9,1,38.92,Рассказовка,True,245383
+developer,7,17,1,33.7,Корниловская,True,285473
+developer,3,12,1,44.18,Филатов Луг,True,216770
+developer,4,9,1,35.4,Улица Горчакова,True,271378
+developer,9,9,1,43.99,Филатов Луг,True,217930
+developer,10,11,1,33.5,Бунинская аллея,True,289512
+developer,8,18,1,33.8,Бунинская аллея,True,286631
+developer,2,20,1,42.7,Филатов Луг,True,227845
+developer,7,16,1,34.8,Новоподрезково,True,278086
+developer,6,9,1,40.79,Рассказовка,True,237070
+realtor,8,16,1,35.2,Генерала Тюленева,True,275568
+developer,14,19,1,37.6,not available,False,259124
+developer,2,19,1,42.0,not available,False,232100
+developer,2,16,1,31.6,Ольховая,True,305955
+developer,14,17,1,33.4,Бунинская аллея,True,291445
+developer,2,9,1,36.4,Новомосковская,True,266108
+developer,7,13,1,33.5,Бунинская аллея,True,290210
+developer,15,20,1,32.05,Речной вокзал,True,304110
+developer,1,15,1,44.63,Румянцево,True,216513
+developer,9,19,1,36.3,Филатов Луг,True,267771
+developer,14,20,1,30.6,Новопеределкино,True,315760
+real_estate_agent,1,9,1,32.5,Строгино,True,301538
+realtor,8,12,1,37.8,Улица Горчакова,True,259259
+developer,2,24,1,32.6,Стахановская,True,299578
+developer,2,24,1,32.4,Стахановская,True,301928
+developer,2,19,1,42.9,Филатов Луг,True,228716
+developer,1,14,1,49.5,Щербинка,True,198564
+developer,9,14,1,43.86,Щербинка,True,223260
+developer,14,15,1,46.92,Щербинка,True,209244
+developer,13,16,1,37.89,Орехово,True,259064
+developer,12,16,1,32.8,Новоподрезково,True,298050
+developer,6,22,1,41.4,Летово,True,236074
+realtor,9,24,1,32.0,Румянцево,True,306250
+developer,2,25,1,42.4,Зеленоград — Крюково,True,231756
+developer,4,24,1,33.7,Речной вокзал,True,291555
+developer,2,25,1,44.2,Зеленоград — Крюково,True,220689
+developer,14,17,1,34.2,Орехово,True,287623
+developer,20,22,1,36.28,Летово,True,269927
+developer,2,22,1,49.9,Бунинская аллея,True,196538
+unknown,2,5,1,40.0,Филатов Луг,True,238875
+real_estate_agent,10,18,1,34.7,Новоподрезково,True,230288
+real_estate_agent,11,15,1,37.1,Новомосковская,True,256065
+real_estate_agent,7,16,1,45.0,Апрелевка,True,160000
+homeowner,15,17,1,37.8,Рассказовка,True,238095
+developer,11,14,1,33.4,Бунинская аллея,True,294832
+developer,3,12,1,37.3,Бунинская аллея,True,263003
+real_estate_agent,8,14,1,38.6,Алма-Атинская,True,255181
+developer,14,14,1,41.52,Щербинка,True,239564
+developer,5,15,1,35.56,Щербинка,True,279608
+developer,2,10,1,40.53,Рассказовка,True,243710
+developer,17,17,1,32.7,Братиславская,True,303150
+unknown,5,12,1,41.0,Отрадное,True,241463
+developer,4,19,1,42.5,not available,False,234100
+developer,4,23,1,48.39,Румянцево,True,203628
+developer,5,16,1,35.2,Ольховая,True,280670
+developer,15,17,1,38.97,Новоподрезково,True,254159
+developer,5,5,1,35.83,Рассказовка,True,276302
+developer,6,8,1,36.3,Бунинская аллея,True,273109
+developer,7,8,1,35.5,Новомосковская,True,280089
+developer,2,9,1,32.5,Бунинская аллея,True,304092
+developer,1,17,1,34.3,Улица Горчакова,True,291732
+homeowner,12,16,1,36.2,Потапово,True,276243
+developer,5,20,1,44.5,Филатов Луг,True,225745
+developer,5,7,1,38.27,Рассказовка,True,260251
+developer,13,16,1,34.3,Румянцево,True,292234
+developer,4,16,1,35.5,Ольховая,True,281135
+developer,2,19,1,48.0,Бунинская аллея,True,208877
+developer,4,11,1,37.7,Новомосковская,True,265445
+developer,2,16,1,38.9,Новомосковская,True,257713
+developer,7,14,1,38.5,Бунинская аллея,True,259242
+developer,13,20,1,36.9,Новопеределкино,True,272160
+real_estate_agent,19,25,1,36.3,Некрасовка,True,278473
+developer,11,16,1,33.3,Новомосковская,True,304623
+developer,5,17,1,38.2,Мичуринец,True,263566
+developer,8,9,1,48.81,Рассказовка,True,206131
+developer,2,24,1,33.4,Речной вокзал,True,302529
+developer,2,7,1,48.36,Рассказовка,True,207986
+developer,2,5,1,43.9,Рассказовка,True,231010
+developer,7,7,1,38.92,Рассказовка,True,259010
+developer,2,9,1,33.8,Бунинская аллея,True,297408
+developer,4,17,1,34.3,Мичуринец,True,295883
+developer,2,25,1,35.5,Строгино,True,288580
+developer,6,14,1,48.11,Щербинка,True,211093
+developer,4,24,1,34.7,Солнцево,True,293260
+developer,3,17,1,35.9,Мичуринец,True,284562
+developer,8,9,1,37.4,Новомосковская,True,273487
+developer,2,20,1,35.43,Речной вокзал,True,287835
+developer,15,24,1,36.4,Речной вокзал,True,279279
+developer,13,24,1,36.6,Речной вокзал,True,279279
+developer,6,24,1,35.2,Речной вокзал,True,288672
+developer,2,7,1,40.8,Рассказовка,True,249781
+developer,10,16,1,28.86,Орехово,True,354011
+developer,2,13,1,35.4,Прокшино,True,287321
+developer,3,9,1,32.3,Бунинская аллея,True,314397
+developer,12,14,1,38.4,Бунинская аллея,True,265878
+developer,9,13,1,38.4,Бунинская аллея,True,264576
+developer,11,19,1,48.1,not available,False,212888
+developer,14,14,1,37.3,Кедровая,True,273400
+developer,3,19,1,34.6,Филатов Луг,True,295230
+real_estate_agent,3,16,1,38.5,Медведково,True,267532
+developer,6,13,1,37.2,Бунинская аллея,True,276698
+developer,9,17,1,38.5,Мичуринец,True,268515
+developer,1,16,1,38.0,Новоподрезково,True,271339
+developer,9,9,1,44.43,Рассказовка,True,231431
+homeowner,5,9,1,33.0,Кузьминки,True,312121
+developer,14,14,1,40.1,Кедровая,True,256808
+developer,12,22,1,40.9,Рассказовка,True,252725
+developer,1,15,1,40.77,Солнцево,True,252176
+developer,2,17,1,38.8,Корниловская,True,266475
+developer,1,5,1,44.43,Рассказовка,True,231004
+developer,2,13,1,36.5,Бунинская аллея,True,283022
+developer,9,22,1,36.2,Филатов Луг,True,284166
+developer,19,22,1,37.4,Филатов Луг,True,275289
+developer,10,19,1,43.1,not available,False,239017
+developer,3,20,1,41.6,Филатов Луг,True,248239
+developer,19,22,1,36.3,Рассказовка,True,285000
+real_estate_agent,9,17,1,37.7,Пыхтино,True,275862
+real_estate_agent,18,25,1,34.1,Депо,True,304985
+developer,10,21,1,33.5,Новомосковская,True,311072
+developer,15,17,1,33.4,Бунинская аллея,True,311825
+developer,2,16,1,35.9,Тёплый Стан,True,290000
+developer,12,16,1,33.6,Филатов Луг,True,310060
+developer,14,19,1,48.1,not available,False,215958
+developer,4,21,1,37.8,Орехово,True,276234
+developer,12,21,1,37.13,Орехово,True,279212
+developer,16,20,1,43.0,Летово,True,242955
+developer,4,17,1,33.8,Бунинская аллея,True,308953
+developer,3,7,1,35.6,Улица Горчакова,True,292002
+developer,10,10,1,33.2,Новомосковская,True,312868
+developer,10,17,1,34.1,Прокшино,True,306274
+developer,19,22,1,37.9,Филатов Луг,True,273455
+developer,2,23,1,45.2,Владыкино,True,230593
+developer,15,19,1,35.5,Филатов Луг,True,292182
+developer,4,24,1,33.8,Солнцево,True,307346
+real_estate_agent,21,23,1,24.9,Новохохловская,True,421687
+realtor,6,18,1,42.0,Царицыно,True,249762
+real_estate_agent,12,16,1,38.7,Румянцево,True,271318
+real_estate_agent,3,5,1,30.0,Люблино,True,350000
+real_estate_agent,15,23,1,38.0,Говорово,True,275000
+real_estate_agent,13,14,1,37.7,Красный Строитель,True,278515
+developer,18,19,1,31.33,Марьино,True,333683
+developer,2,8,1,44.43,Рассказовка,True,236054
+developer,10,16,1,37.7,Бунинская аллея,True,279657
+developer,11,24,1,37.6,Речной вокзал,True,279465
+unknown,9,24,1,39.0,Царицыно,True,269231
+developer,2,5,1,45.09,Рассказовка,True,233843
+developer,4,16,1,35.2,Ольховая,True,299680
+developer,9,12,1,35.9,Новомосковская,True,291664
+developer,10,13,1,36.9,Прокшино,True,284237
+developer,3,24,1,33.1,Солнцево,True,316258
+developer,2,14,1,29.3,Саларьево,True,360000
+developer,17,20,1,37.8,Новопеределкино,True,278229
+developer,20,22,1,36.5,Рассказовка,True,287000
+developer,13,20,1,43.2,Новопеределкино,True,242574
+real_estate_agent,1,16,1,36.2,Улица Горчакова,True,291436
+developer,2,23,1,41.3,Речной вокзал,True,256587
+developer,2,16,1,37.65,Румянцево,True,281640
+developer,1,10,1,53.86,Рассказовка,True,196596
+developer,11,17,1,34.4,Братиславская,True,309354
+developer,14,20,1,36.0,Речной вокзал,True,294903
+developer,2,16,1,33.8,Тёплый Стан,True,312800
+developer,2,17,1,35.9,Братиславская,True,295066
+developer,13,17,1,34.14,Новоподрезково,True,310652
+developer,13,20,1,40.2,Новопеределкино,True,263458
+developer,8,16,1,38.4,Румянцево,True,277188
+developer,4,21,1,35.53,Калитники,True,297856
+developer,13,16,1,30.4,Летово,True,347551
+developer,6,8,1,36.2,Бунинская аллея,True,292374
+developer,9,10,1,33.2,Новомосковская,True,320328
+developer,13,16,1,35.1,Прокшино,True,303386
+developer,20,20,1,39.0,Филатов Луг,True,272374
+developer,9,24,1,35.9,Солнцево,True,296371
+developer,15,20,1,43.6,Новопеределкино,True,244118
+developer,6,23,1,45.9,Филатов Луг,True,230305
+real_estate_agent,20,25,1,46.6,Рассказовка,True,228541
+real_estate_agent,5,9,1,30.8,Тульская,True,347403
+real_estate_agent,4,9,1,33.2,Ростокино,True,322289
+developer,10,23,1,47.1,Филатов Луг,True,226565
+developer,4,15,1,38.7,Мякинино,True,276736
+homeowner,17,25,1,40.7,Перерва,True,262899
+developer,7,14,1,44.96,Щербинка,True,237708
+realtor,17,25,1,40.7,Перерва,True,262899
+developer,13,17,1,36.1,Боровское шоссе,True,297782
+developer,2,21,1,34.88,Калитники,True,306859
+developer,2,15,1,54.65,Новоподрезково,True,195266
+developer,9,16,1,38.1,Перерва,True,281789
+developer,2,18,1,34.6,Тёплый Стан,True,308800
+developer,4,24,1,35.9,Стахановская,True,297980
+developer,11,22,1,37.5,Рассказовка,True,285000
+developer,1,16,1,36.6,Летово,True,292420
+developer,2,20,1,44.4,Улица Горчакова,True,240989
+developer,2,20,1,41.0,Улица Горчакова,True,261791
+developer,9,11,1,31.8,Бунинская аллея,True,335279
+developer,1,20,1,51.2,Филатов Луг,True,209412
+developer,16,20,1,34.12,Красный Строитель,True,314364
+developer,21,24,1,43.0,Окружная,True,249375
+developer,13,19,1,45.8,Филатов Луг,True,234548
+developer,3,24,1,37.9,Солнцево,True,283514
+real_estate_agent,7,9,1,33.0,Медведково,True,327273
+real_estate_agent,17,25,1,41.3,Некрасовка,True,263829
+realtor,10,17,1,39.0,Кузьминки,True,275641
+real_estate_agent,9,25,1,40.0,Борисово,True,270000
+developer,10,17,1,31.9,Улица Горчакова,True,339204
+homeowner,9,15,1,38.1,Бутово,True,283465
+developer,8,17,1,33.1,Прокшино,True,329300
+developer,2,17,1,34.1,Бунинская аллея,True,315827
+developer,13,16,1,36.3,Прокшино,True,297278
+developer,2,20,1,38.67,Речной вокзал,True,281697
+developer,1,9,1,38.0,Улица Горчакова,True,284004
+developer,6,14,1,29.9,Бунинская аллея,True,363754
+developer,1,15,1,49.6,Румянцево,True,218943
+developer,8,16,1,29.61,Орехово,True,363356
+developer,12,16,1,32.92,Орехово,True,329990
+developer,2,5,1,46.9,Рассказовка,True,229282
+developer,5,5,1,44.43,Рассказовка,True,244306
+developer,2,23,1,49.09,Румянцево,True,220086
+real_estate_agent,10,17,1,41.0,Бачуринская,True,236585
+realtor,6,17,1,38.0,Пыхтино,True,246053
+developer,15,27,1,38.2,Щукинская,True,445842
+real_estate_agent,9,12,1,39.0,Тропарёво,True,338462
+developer,8,16,1,34.03,Румянцево,True,320079
+developer,1,15,1,54.42,Новоподрезково,True,199554
+developer,2,17,1,39.8,Прокшино,True,272727
+developer,7,15,1,38.5,Ольховая,True,282648
+developer,15,16,1,33.2,Бунинская аллея,True,324075
+developer,9,14,1,32.9,Медведково,True,330410
+developer,16,17,1,35.8,Братиславская,True,300706
+developer,2,23,1,44.3,Владыкино,True,243140
+developer,13,24,1,30.7,Саларьево,True,354000
+developer,14,19,1,34.4,Новопеределкино,True,316612
+real_estate_agent,1,9,1,31.7,Москва-Товарная,True,345426
+developer,6,17,1,40.4,Мичуринец,True,271534
+developer,5,25,1,35.4,Строгино,True,309700
+developer,19,24,1,34.5,Стахановская,True,318378
+developer,18,20,1,48.6,Филатов Луг,True,225821
+developer,13,20,1,45.6,Новопеределкино,True,240235
+developer,10,17,1,39.4,Прокшино,True,278354
+developer,8,13,1,36.4,Бунинская аллея,True,299755
+developer,3,13,1,33.5,Прокшино,True,326244
+developer,16,16,1,36.1,Бунинская аллея,True,302773
+developer,16,16,1,33.3,Бунинская аллея,True,328663
+developer,2,19,1,39.7,Пятницкое шоссе,True,275466
+developer,3,20,1,48.5,Новопеределкино,True,224785
+homeowner,3,12,1,35.0,Свиблово,True,314000
+developer,4,24,1,38.9,Солнцево,True,281196
+developer,4,20,1,28.25,Гражданская,True,387611
+homeowner,8,12,1,35.6,Зюзино,True,306180
+real_estate_agent,8,23,1,42.9,Волгоградский проспект,True,256410
+developer,9,9,1,34.0,Бунинская аллея,True,323529
+developer,3,9,1,36.8,Новомосковская,True,299080
+developer,6,11,1,32.2,Бунинская аллея,True,344280
+developer,4,17,1,41.0,Мичуринец,True,269911
+developer,2,24,1,34.6,Солнцево,True,318252
+developer,2,9,1,39.59,Реутов,True,279995
+developer,6,9,1,48.81,Рассказовка,True,227171
+developer,2,24,1,32.4,Текстильщики,True,340092
+developer,15,24,1,39.9,Речной вокзал,True,275745
+developer,19,21,1,42.48,Орехово,True,259728
+developer,1,17,1,32.69,Новоподрезково,True,336762
+developer,15,19,1,37.2,Бунинская аллея,True,297428
+developer,12,12,1,36.8,Прокшино,True,299090
+developer,15,16,1,36.1,Бунинская аллея,True,304919
+developer,2,24,1,38.5,Пятницкое шоссе,True,286600
+developer,3,9,1,34.2,Бунинская аллея,True,321816
+developer,16,17,1,36.9,Боровское шоссе,True,299095
+developer,15,19,1,34.8,Новопеределкино,True,317684
+real_estate_agent,9,14,1,38.7,Люблино,True,288114
+real_estate_agent,12,17,1,38.8,Новокосино,True,286082
+developer,2,16,1,40.3,Прокшино,True,277535
+developer,2,12,1,31.4,Каширская,True,353780
+developer,1,15,1,51.07,Румянцево,True,218943
+developer,2,23,1,49.2,Владыкино,True,226378
+developer,6,12,1,37.8,Новомосковская,True,295577
+developer,19,24,1,32.5,Текстильщики,True,343288
+developer,2,20,1,35.64,Красный Строитель,True,314180
+developer,13,17,1,38.3,Бунинская аллея,True,292218
+developer,7,18,1,33.5,not available,False,333000
+developer,9,23,1,38.88,Орехово,True,285764
+developer,3,21,1,37.74,Калитники,True,294799
+developer,7,16,1,33.6,Новомосковская,True,331336
+developer,6,11,1,33.3,Бунинская аллея,True,333483
+developer,2,15,1,42.6,Бунинская аллея,True,262198
+developer,7,23,1,45.5,Владыкино,True,245912
+developer,3,17,1,43.7,Мичуринец,True,255647
+real_estate_agent,4,9,1,32.4,Сокольники,True,345679
+developer,2,12,1,31.7,Каширская,True,353495
+developer,14,14,1,32.29,Щербинка,True,349597
+developer,3,8,1,51.5,Щербинка,True,218055
+developer,7,16,1,40.5,Новоподрезково,True,278670
+developer,4,17,1,38.5,Прокшино,True,291397
+developer,15,17,1,38.3,Бунинская аллея,True,294939
+developer,12,18,1,33.8,Бунинская аллея,True,333464
+developer,3,17,1,42.4,Корниловская,True,266475
+developer,18,18,1,36.1,Новомосковская,True,310935
+developer,8,9,1,37.4,Новомосковская,True,300059
+developer,11,16,1,33.3,Новомосковская,True,338488
+developer,2,15,1,51.1,Ольховая,True,219347
+developer,11,14,1,41.2,Аэропорт Внуково,True,272172
+developer,3,23,1,27.1,Филатов Луг,True,236489
+real_estate_agent,14,17,1,37.9,Молодёжная,True,393140
+real_estate_agent,16,22,1,38.6,Солнцево,True,246114
+real_estate_agent,6,19,1,37.5,Бунинская аллея,True,226667
+real_estate_agent,3,5,1,53.0,Рабочий посёлок,True,241509
+real_estate_agent,6,9,1,34.5,Орехово,True,272464
+real_estate_agent,14,14,1,34.0,Сокол,True,269118
+real_estate_agent,14,18,1,40.7,Грачёвская,True,262899
+unknown,2,10,1,36.0,Филатов Луг,True,274167
+real_estate_agent,11,17,1,38.0,Борисово,True,263158
+developer,3,13,1,37.3,Ватутинки,True,302362
+real_estate_agent,3,17,1,37.6,Свиблово,True,345745
+real_estate_agent,10,14,1,40.7,Озёрная,True,312039
+real_estate_agent,11,17,1,37.9,Медведково,True,263852
+realtor,12,17,2,71.0,Рассказовка,True,252113
+developer,4,22,2,67.1,Фили,True,427530
+real_estate_agent,5,5,2,60.0,Бабушкинская,True,200000
+realtor,7,12,2,55.0,Липецкая,True,243636
+unknown,3,9,2,44.5,Медведково,True,224719
+realtor,5,9,2,45.0,Щёлковская,True,293333
+realtor,5,5,2,44.5,Царицыно,True,285393
+developer,11,13,2,47.0,Ватутинки,True,315255
+realtor,9,9,2,45.0,Университет Дружбы Народов,True,277778
+real_estate_agent,11,16,2,68.0,Матвеевская,True,279412
+developer,4,25,2,44.3,Саларьево,True,313200
+developer,2,24,2,49.8,Сокольники,True,410100
+real_estate_agent,1,16,2,54.0,Ясенево,True,237037
+realtor,4,16,2,53.7,Яхромская,True,279330
+developer,2,16,2,39.3,Тёплый Стан,True,316700
+developer,16,24,2,70.91,Улица Милашенкова,True,426738
+developer,2,12,2,44.7,Щёлковская,True,361677
+homeowner,6,17,2,60.0,Крылатское,True,415833
+real_estate_agent,8,10,2,53.3,Люблино,True,238274
+developer,4,16,2,34.4,Прокшино,True,314454
+developer,2,17,2,53.5,Мичуринец,True,247525
+developer,11,18,2,36.8,Новомосковская,True,257456
+developer,9,19,2,37.0,Улица Горчакова,True,230554
+realtor,19,22,2,56.1,Рязанский проспект,True,356506
+homeowner,5,9,2,63.4,Автозаводская,True,354890
+real_estate_agent,3,16,2,50.9,Юго-Восточная,True,221807
+developer,2,7,2,58.9,Филатов Луг,True,265400
+developer,6,14,2,52.73,Зеленоград — Крюково,True,224975
+developer,4,14,2,36.2,Бунинская аллея,True,269497
+real_estate_agent,3,7,2,83.0,Давыдково,True,385542
+developer,11,15,2,35.9,Ольховая,True,258023
+developer,15,22,2,47.7,Прокшино,True,272000
+real_estate_agent,5,22,2,58.0,Полежаевская,True,405155
+developer,2,17,2,55.6,not available,False,217200
+developer,6,9,2,37.4,Толстопальцево,True,191948
+developer,2,20,2,52.8,Филатов Луг,True,212955
+real_estate_agent,16,25,2,47.0,Трикотажная,True,350000
+real_estate_agent,10,12,2,38.3,Перово,True,288512
+real_estate_agent,4,9,2,43.2,Новогиреево,True,280093
+real_estate_agent,12,14,2,52.5,Марьино,True,250800
+real_estate_agent,7,9,2,46.0,Юго-Восточная,True,308696
+real_estate_agent,15,17,2,54.0,Переделкино,True,265741
+real_estate_agent,11,12,2,45.2,Зюзино,True,338496
+real_estate_agent,4,9,2,38.5,Профсоюзная,True,402597
+real_estate_agent,14,17,2,64.0,Мичуринец,True,246094
+real_estate_agent,14,14,2,55.1,Ватутинки,True,290381
+real_estate_agent,6,16,2,53.8,Юго-Западная,True,334572
+realtor,2,9,2,50.0,Крестьянская застава,True,384000
+real_estate_agent,2,11,2,49.8,Панфиловская,True,407631
+real_estate_agent,7,14,2,50.0,Ботанический сад,True,408000
+real_estate_agent,10,15,2,58.1,ЦСКА,True,428571
+real_estate_agent,6,11,2,79.7,Москва-Товарная,True,395232
+real_estate_agent,6,9,2,40.4,Рязанский проспект,True,258663
+real_estate_agent,3,5,2,40.5,Люблино,True,264198
+real_estate_agent,6,16,2,51.4,Сетунь,True,213813
+real_estate_agent,7,12,2,51.8,Новогиреево,True,212355
+real_estate_agent,14,17,2,57.4,Кедровая,True,195122
+real_estate_agent,8,15,2,55.3,Ольховая,True,207957
+real_estate_agent,5,9,2,30.3,Молодёжная,True,382838
+real_estate_agent,17,17,2,53.8,Новомосковская,True,217472
+real_estate_agent,8,8,2,48.9,Новомосковская,True,245194
+real_estate_agent,3,17,2,53.8,Кедровая,True,222862
+real_estate_agent,3,12,2,44.5,Серебряный Бор,True,269663
+real_estate_agent,9,9,2,55.0,Лухмановская,True,223636
+real_estate_agent,15,15,2,58.1,not available,False,211704
+homeowner,2,11,2,42.4,Ольховая,True,305425
+realtor,12,12,2,43.9,Динамо,True,425945
+realtor,3,9,2,45.0,Сходненская,True,338889
+real_estate_agent,4,4,2,60.0,Красносельская,True,250000
+developer,3,23,2,41.5,Филатов Луг,True,201020
+real_estate_agent,6,8,2,41.0,Измайловская,True,304878
+real_estate_agent,3,9,2,44.5,Ясенево,True,280899
+real_estate_agent,5,5,2,43.0,Бабушкинская,True,295349
+real_estate_agent,5,5,2,44.0,Коптево,True,290909
+real_estate_agent,6,9,2,44.7,Нагатинская,True,291946
+real_estate_agent,4,16,2,59.8,Новомосковская,True,219064
+real_estate_agent,7,19,2,64.5,Новомосковская,True,201550
+real_estate_agent,5,17,2,58.0,Рассказовка,True,232759
+real_estate_agent,4,8,2,42.0,Прокшино,True,325952
+real_estate_agent,6,17,2,61.0,Рассказовка,True,226213
+real_estate_agent,5,9,2,45.1,Юго-Западная,True,308204
+real_estate_agent,4,14,2,52.7,Гольяново,True,261860
+real_estate_agent,4,20,2,71.0,Щербинка,True,195775
+real_estate_agent,7,12,2,52.3,Лебедянская,True,267686
+real_estate_agent,14,16,2,53.7,Ясенево,True,260708
+developer,7,7,2,58.4,Филатов Луг,True,283300
+real_estate_agent,4,17,2,72.6,Новомосковская,True,234160
+developer,6,7,2,61.0,Филатов Луг,True,281200
+real_estate_agent,5,5,2,61.8,Молодёжная,True,283172
+real_estate_agent,16,19,2,42.0,Новаторская,True,415238
+real_estate_agent,4,14,2,69.2,Потапово,True,252890
+real_estate_agent,10,16,2,65.0,Потапово,True,269231
+real_estate_agent,2,11,2,42.5,Ботанический сад,True,409412
+realtor,8,18,2,51.0,Ботанический сад,True,347059
+real_estate_agent,16,17,2,53.1,Отрадное,True,337100
+real_estate_agent,7,25,2,73.0,Рассказовка,True,250548
+real_estate_agent,19,20,2,60.4,Саларьево,True,301325
+real_estate_agent,2,19,2,58.0,Молодёжная,True,315517
+real_estate_agent,2,14,2,60.7,Потапово,True,304778
+realtor,11,20,2,59.1,Нижегородская,True,326565
+real_estate_agent,3,24,2,64.7,Верхние Лихоборы,True,298068
+real_estate_agent,9,13,2,50.5,Автозаводская,True,396040
+real_estate_agent,10,12,2,46.8,Проспект Мира,True,438034
+real_estate_agent,9,17,2,58.0,Домодедовская,True,353448
+real_estate_agent,14,14,2,58.7,Серп и Молот,True,349233
+real_estate_agent,5,17,2,53.8,Беляево,True,381041
+real_estate_agent,9,9,2,52.2,Сокол,True,396552
+developer,1,14,2,84.1,Тёплый Стан,True,246521
+real_estate_agent,10,24,2,58.5,Стахановская,True,358120
+real_estate_agent,14,24,2,55.0,Варшавская,True,381636
+unknown,6,14,2,53.0,Университет,True,396226
+developer,13,14,2,68.0,Тёплый Стан,True,310250
+real_estate_agent,9,25,2,64.9,Угрешская,True,328197
+real_estate_agent,4,4,2,54.0,Беговая,True,396296
+real_estate_agent,4,4,2,54.0,Беговая,True,396296
+real_estate_agent,2,8,2,54.6,Стрешнево,True,393590
+real_estate_agent,9,10,2,57.2,Коптево,True,381119
+real_estate_agent,2,5,2,60.7,Волгоградский проспект,True,370675
+real_estate_agent,14,26,2,61.1,Лесопарковая,True,366612
+real_estate_agent,1,22,2,60.9,Саларьево,True,376026
+real_estate_agent,6,17,2,66.3,Беговая,True,346908
+realtor,18,25,2,58.0,Трикотажная,True,396552
+real_estate_agent,5,22,2,59.4,Озёрная,True,392256
+real_estate_agent,6,17,2,59.4,Крымская,True,409091
+real_estate_agent,11,15,2,79.0,Сортировочная,True,308861
+realtor,6,7,2,59.0,Бутырская,True,415085
+real_estate_agent,6,7,2,57.0,Красносельская,True,438596
+real_estate_agent,6,14,2,74.9,Войковская,True,345794
+real_estate_agent,2,16,2,75.2,Генерала Тюленева,True,345745
+real_estate_agent,9,17,2,70.0,Фили,True,398429
+real_estate_agent,9,20,2,73.7,Аминьевская,True,439620
+real_estate_agent,1,9,2,39.0,Преображенская площадь,True,245897
+homeowner,7,8,2,51.9,Силикатная,True,187861
+real_estate_agent,17,17,2,52.9,Новогиреево,True,275992
+real_estate_agent,12,13,2,53.9,Зеленоград — Крюково,True,324675
+developer,2,13,2,63.64,Профсоюзная,True,419815
+real_estate_agent,16,17,2,54.7,Пыхтино,True,232176
+unknown,6,6,2,30.0,Перерва,True,216667
+real_estate_agent,5,5,2,43.2,Апрелевка,True,159722
+real_estate_agent,3,9,2,43.5,Апрелевка,True,165517
+real_estate_agent,1,5,2,45.3,Потапово,True,158940
+developer,9,9,2,36.6,Толстопальцево,True,196058
+developer,12,15,2,36.46,Румянцево,True,198445
+developer,8,9,2,38.5,Толстопальцево,True,191894
+developer,9,15,2,37.33,Румянцево,True,199680
+developer,1,3,2,47.1,Апрелевка,True,159000
+developer,2,9,2,41.0,Толстопальцево,True,184309
+developer,3,15,2,37.96,Солнцево,True,199800
+developer,1,3,2,47.5,Апрелевка,True,159000
+developer,5,15,2,38.77,Румянцево,True,199559
+developer,3,10,2,35.2,Толстопальцево,True,219290
+developer,2,10,2,37.0,Толстопальцево,True,209353
+developer,2,9,2,37.9,Толстопальцево,True,202836
+developer,2,9,2,47.6,Толстопальцево,True,165895
+developer,16,17,2,41.19,Филатов Луг,True,193065
+developer,2,10,2,41.1,Толстопальцево,True,193559
+developer,13,15,2,40.13,Румянцево,True,199764
+developer,5,15,2,40.83,Румянцево,True,197984
+developer,10,10,2,36.4,Толстопальцево,True,223601
+real_estate_agent,5,9,2,59.3,Крёкшино,True,138280
+developer,4,9,2,42.6,Толстопальцево,True,193440
+developer,8,15,2,36.3,Солнцево,True,224541
+developer,2,15,2,38.67,Солнцево,True,216125
+real_estate_agent,5,9,2,59.7,Крёкшино,True,141000
+real_estate_agent,3,6,2,51.4,Филатов Луг,True,164280
+developer,4,10,2,43.4,Толстопальцево,True,195157
+developer,2,10,2,43.8,Толстопальцево,True,193538
+developer,5,10,2,40.4,Толстопальцево,True,208870
+developer,4,12,2,35.9,Кедровая,True,236267
+developer,12,17,2,52.09,Филатов Луг,True,162179
+realtor,2,5,2,50.0,Щербинка,True,170000
+real_estate_agent,8,9,2,62.3,Крёкшино,True,136437
+developer,4,9,2,47.1,Толстопальцево,True,181281
+developer,2,12,2,36.6,Кедровая,True,232459
+developer,1,3,2,53.8,Апрелевка,True,158000
+developer,2,21,2,54.97,Филатов Луг,True,156841
+developer,3,10,2,45.7,Толстопальцево,True,187541
+developer,5,11,2,38.1,Кедровая,True,226745
+developer,1,3,2,53.6,Апрелевка,True,160000
+developer,8,9,2,43.4,Улица Горчакова,True,198936
+developer,9,17,2,52.79,Филатов Луг,True,163842
+developer,6,9,2,38.4,Толстопальцево,True,227135
+developer,7,19,2,41.5,Улица Горчакова,True,210103
+homeowner,6,12,2,50.0,Филатов Луг,True,174000
+developer,11,23,2,37.1,Филатов Луг,True,234840
+real_estate_agent,4,7,2,67.38,Рассказовка,True,130000
+developer,11,23,2,37.7,Филатов Луг,True,232940
+developer,4,9,2,41.0,Улица Горчакова,True,218587
+developer,3,12,2,39.0,Кедровая,True,229308
+developer,11,14,2,52.92,Рассказовка,True,169010
+developer,14,19,2,37.5,Бунинская аллея,True,238670
+developer,4,9,2,55.8,Толстопальцево,True,162801
+developer,5,9,2,43.2,Бунинская аллея,True,209557
+developer,8,10,2,48.0,Толстопальцево,True,189534
+developer,6,9,2,43.0,Толстопальцево,True,210429
+developer,2,9,2,43.6,Улица Горчакова,True,208605
+developer,10,17,2,41.1,Бунинская аллея,True,218984
+developer,15,19,2,37.0,Улица Горчакова,True,247196
+developer,11,14,2,54.97,Щербинка,True,166955
+developer,3,15,2,37.81,Румянцево,True,243254
+developer,11,23,2,39.2,Филатов Луг,True,233890
+developer,1,14,2,58.8,Рассказовка,True,156306
+developer,5,19,2,36.3,Бунинская аллея,True,252913
+developer,19,19,2,37.1,Бунинская аллея,True,246570
+developer,2,20,2,36.6,Улица Горчакова,True,249242
+developer,6,9,2,42.7,Толстопальцево,True,215638
+developer,3,9,2,38.7,Бунинская аллея,True,238192
+developer,14,14,2,53.95,Щербинка,True,171182
+developer,6,9,2,45.4,Толстопальцево,True,203619
+developer,2,9,2,53.88,Силикатная,True,171652
+real_estate_agent,1,12,2,44.7,Щёлковская,True,208054
+developer,8,20,2,36.3,Улица Горчакова,True,255884
+developer,2,9,2,40.4,Толстопальцево,True,229210
+developer,13,14,2,52.32,Рассказовка,True,178330
+developer,2,9,2,38.0,Улица Горчакова,True,245940
+developer,3,9,2,39.0,Улица Горчакова,True,239495
+developer,2,9,2,40.2,Улица Горчакова,True,232528
+developer,12,15,2,35.9,Ольховая,True,259313
+developer,7,9,2,38.7,Толстопальцево,True,240405
+developer,8,9,2,37.6,Толстопальцево,True,248366
+developer,1,11,2,40.7,Кедровая,True,227445
+developer,2,9,2,40.2,Кедровая,True,232438
+developer,1,14,2,34.3,Кедровая,True,269913
+homeowner,4,17,2,58.4,Щербинка,True,159247
+developer,2,20,2,39.4,Улица Горчакова,True,238673
+developer,12,14,2,57.4,Щербинка,True,164263
+developer,15,21,2,52.93,Филатов Луг,True,177406
+developer,2,9,2,43.5,Толстопальцево,True,216314
+developer,1,8,2,50.35,Рассказовка,True,187206
+developer,20,23,2,51.1,Летово,True,184501
+developer,1,14,2,54.43,Рассказовка,True,173409
+developer,16,16,2,39.0,Бунинская аллея,True,242292
+developer,1,14,2,52.72,Рассказовка,True,180654
+developer,2,10,2,41.1,Толстопальцево,True,231913
+developer,2,9,2,42.3,Кедровая,True,224444
+developer,10,17,2,59.64,Филатов Луг,True,159464
+developer,12,12,2,45.22,Летово,True,211041
+developer,16,17,2,55.47,Филатов Луг,True,170613
+developer,2,9,2,43.6,Улица Горчакова,True,218398
+developer,8,9,2,39.0,Улица Горчакова,True,244031
+developer,3,9,2,38.0,Улица Горчакова,True,250535
+developer,3,9,2,37.6,Новомосковская,True,253021
+developer,3,20,2,34.8,Новодачная,True,277000
+developer,13,15,2,37.41,Солнцево,True,257498
+developer,4,19,2,49.6,Улица Горчакова,True,193052
+developer,8,9,2,37.7,Бунинская аллея,True,255733
+developer,16,23,2,36.8,Новомосковская,True,261816
+developer,5,22,2,47.0,Бунинская аллея,True,204999
+real_estate_agent,17,22,2,41.4,Новомосковская,True,231884
+real_estate_agent,5,9,2,38.1,Щёлковская,True,253281
+developer,3,13,2,38.8,Новомосковская,True,250569
+developer,8,23,2,40.6,Филатов Луг,True,239715
+developer,3,19,2,53.1,Улица Горчакова,True,183318
+developer,7,19,2,48.7,Бунинская аллея,True,198798
+developer,9,12,2,57.4,Щербинка,True,169814
+developer,1,15,2,50.25,Солнцево,True,192825
+developer,8,12,2,39.9,Ольховая,True,243177
+developer,5,10,2,56.7,Толстопальцево,True,170920
+developer,3,3,2,63.7,Апрелевка,True,153000
+developer,5,9,2,51.91,Силикатная,True,187652
+developer,9,9,2,52.92,Силикатная,True,183665
+developer,14,14,2,52.45,Рассказовка,True,184846
+developer,6,9,2,41.0,Улица Горчакова,True,236741
+developer,2,18,2,53.3,Бунинская аллея,True,182615
+developer,13,17,2,37.4,Бунинская аллея,True,258839
+developer,3,3,2,58.6,Апрелевка,True,165000
+developer,5,19,2,53.1,Улица Горчакова,True,185294
+developer,12,14,2,53.95,Щербинка,True,182354
+developer,10,15,2,44.32,Солнцево,True,221361
+developer,10,23,2,42.6,Филатов Луг,True,230090
+developer,18,18,2,43.94,Филатов Луг,True,222622
+developer,3,9,2,42.8,Кедровая,True,230070
+developer,12,12,2,35.0,Кедровая,True,279143
+developer,3,17,2,51.71,Филатов Луг,True,190110
+developer,4,12,2,55.31,Рассказовка,True,176959
+developer,6,8,2,52.71,Рассказовка,True,185721
+developer,3,17,2,60.52,Филатов Луг,True,161687
+real_estate_agent,8,9,2,38.3,Лианозово,True,258486
+developer,3,22,2,52.1,Бунинская аллея,True,190706
+developer,11,17,2,53.7,Улица Горчакова,True,184124
+developer,4,12,2,41.3,Новомосковская,True,239859
+developer,4,18,2,36.3,Бунинская аллея,True,273586
+developer,2,9,2,57.2,Толстопальцево,True,173870
+developer,2,10,2,41.3,Толстопальцево,True,239578
+developer,9,12,2,39.7,Новомосковская,True,250319
+developer,4,9,2,40.4,Улица Горчакова,True,245990
+developer,1,15,2,46.18,Румянцево,True,213932
+developer,1,9,2,59.94,Силикатная,True,165545
+developer,6,8,2,40.2,Бунинская аллея,True,246916
+developer,9,24,2,36.1,Новомосковская,True,273915
+developer,2,3,2,63.7,Апрелевка,True,155000
+developer,7,13,2,36.1,Бунинская аллея,True,277934
+developer,12,18,2,40.5,Бунинская аллея,True,245982
+developer,4,23,2,50.5,Филатов Луг,True,198489
+developer,4,23,2,47.6,Филатов Луг,True,211090
+developer,1,7,2,59.16,Рассказовка,True,168622
+developer,9,17,2,52.0,Улица Горчакова,True,192770
+developer,7,17,2,54.0,Улица Горчакова,True,184910
+real_estate_agent,6,9,2,61.1,Нижегородская,True,359738
+developer,5,21,2,63.4,Площадь Ильича,True,386200
+real_estate_agent,21,22,2,39.9,Филатов Луг,True,283208
+developer,3,10,2,45.7,Толстопальцево,True,218800
+homeowner,9,9,2,44.0,Люблино,True,227273
+developer,2,3,2,63.6,Апрелевка,True,157000
+developer,18,19,2,53.75,Летово,True,185378
+developer,9,9,2,40.2,Бунинская аллея,True,247991
+developer,9,18,2,42.9,Новомосковская,True,236381
+developer,9,24,2,38.4,Новомосковская,True,263289
+developer,2,12,2,38.6,Бунинская аллея,True,260984
+developer,4,14,2,40.4,Бунинская аллея,True,249344
+developer,1,9,2,59.94,Силикатная,True,168190
+developer,1,14,2,59.18,Рассказовка,True,170138
+developer,2,13,2,38.6,Бунинская аллея,True,260984
+developer,12,12,2,39.1,Ольховая,True,257159
+developer,2,14,2,40.9,Бунинская аллея,True,247519
+developer,6,9,2,54.7,Толстопальцево,True,185647
+developer,1,12,2,52.8,Щербинка,True,193500
+developer,12,23,2,45.4,Филатов Луг,True,224903
+developer,2,10,2,54.4,Рассказовка,True,187770
+developer,9,14,2,54.59,Рассказовка,True,187171
+developer,8,9,2,40.0,Бунинская аллея,True,256086
+developer,6,10,2,40.4,Толстопальцево,True,251258
+developer,6,9,2,43.9,Кедровая,True,233098
+developer,2,9,2,46.3,Улица Горчакова,True,219930
+developer,12,16,2,32.17,Орехово,True,317506
+developer,10,16,2,51.94,Летово,True,197341
+developer,2,19,2,49.3,Улица Горчакова,True,207327
+developer,2,8,2,40.8,Новомосковская,True,250801
+developer,6,19,2,40.6,Бунинская аллея,True,251434
+realtor,12,12,2,44.8,not available,False,227679
+developer,2,3,2,63.5,Апрелевка,True,160000
+real_estate_agent,4,9,2,37.8,Окская,True,271164
+real_estate_agent,4,9,2,44.9,Тютчевская,True,229399
+developer,4,13,2,44.9,Новомосковская,True,229946
+developer,19,23,2,49.8,Филатов Луг,True,206658
+developer,2,14,2,57.4,Щербинка,True,179160
+developer,14,14,2,56.7,Филатов Луг,True,182041
+developer,14,14,2,55.9,Филатов Луг,True,184636
+developer,8,9,2,54.59,Рассказовка,True,187999
+developer,7,9,2,45.5,Толстопальцево,True,227149
+developer,14,16,2,55.9,Филатов Луг,True,184751
+developer,3,9,2,50.8,Филатов Луг,True,203395
+developer,4,11,2,47.9,Щербинка,True,216039
+developer,18,23,2,43.6,Филатов Луг,True,235733
+developer,4,9,2,59.64,Силикатная,True,173011
+developer,11,17,2,58.29,Филатов Луг,True,177381
+developer,2,17,2,54.5,Улица Горчакова,True,189675
+developer,4,8,2,38.8,Новомосковская,True,264207
+developer,12,15,2,44.7,Ольховая,True,230749
+real_estate_agent,4,7,2,43.2,Санино,True,241667
+developer,3,9,2,55.7,Толстопальцево,True,185868
+developer,2,9,2,40.4,Бунинская аллея,True,257158
+developer,9,9,2,57.4,Рассказовка,True,181434
+developer,7,17,2,47.4,Улица Горчакова,True,220111
+developer,9,10,2,53.5,Толстопальцево,True,193853
+developer,13,13,2,51.79,Филатов Луг,True,200952
+developer,1,17,2,51.6,Щербинка,True,202368
+developer,10,10,2,49.96,Летово,True,207750
+developer,14,17,2,36.0,Бунинская аллея,True,288954
+developer,6,6,2,41.2,Новомосковская,True,251460
+developer,8,9,2,53.0,Филатов Луг,True,196650
+realtor,7,9,2,45.0,Грачёвская,True,233333
+real_estate_agent,3,9,2,47.6,Царицыно,True,219538
+real_estate_agent,7,17,2,51.2,Некрасовка,True,205078
+developer,8,9,2,53.9,Толстопальцево,True,194109
+developer,13,14,2,59.65,Щербинка,True,175267
+developer,4,23,2,52.2,Филатов Луг,True,201438
+developer,4,12,2,41.5,Новомосковская,True,251861
+developer,10,16,2,57.3,Филатов Луг,True,183683
+developer,6,6,2,57.54,Рассказовка,True,182150
+developer,9,9,2,57.46,Рассказовка,True,181868
+developer,8,9,2,54.6,Толстопальцево,True,192025
+developer,4,9,2,47.1,Толстопальцево,True,223023
+developer,14,17,2,50.6,Щербинка,True,207297
+developer,3,11,2,46.6,Кедровая,True,225193
+developer,9,16,2,59.0,Филатов Луг,True,177455
+developer,4,23,2,41.8,Новомосковская,True,251690
+developer,3,8,2,38.0,Новомосковская,True,275184
+developer,6,13,2,40.5,Бунинская аллея,True,260127
+real_estate_agent,12,12,2,52.1,Бибирево,True,203455
+developer,1,11,2,47.5,Зеленоград — Крюково,True,223479
+developer,2,14,2,53.31,Щербинка,True,199291
+developer,7,12,2,41.4,Новомосковская,True,255907
+developer,3,17,2,51.0,Щербинка,True,208599
+developer,3,9,2,54.5,Филатов Луг,True,194845
+developer,3,17,2,39.8,Бунинская аллея,True,266541
+developer,5,17,2,52.0,Улица Горчакова,True,203646
+developer,17,19,2,41.3,Бунинская аллея,True,257097
+developer,12,12,2,35.9,Новомосковская,True,295773
+developer,8,13,2,40.4,Бунинская аллея,True,262892
+real_estate_agent,9,14,2,61.0,Потапово,True,175410
+developer,3,23,2,58.0,Филатов Луг,True,185155
+developer,14,15,2,48.5,Ольховая,True,220643
+developer,12,19,2,36.2,Бунинская аллея,True,296037
+developer,2,15,2,41.4,Бунинская аллея,True,258109
+developer,2,17,2,48.2,Щербинка,True,221991
+developer,2,9,2,57.4,Филатов Луг,True,187150
+developer,6,14,2,60.02,Рассказовка,True,177902
+developer,2,19,2,70.2,Бунинская аллея,True,152889
+developer,13,19,2,49.6,Улица Горчакова,True,216564
+developer,5,8,2,43.2,Новомосковская,True,247209
+real_estate_agent,4,12,2,50.0,Юго-Восточная,True,219000
+developer,14,14,2,59.65,Щербинка,True,183948
+developer,4,20,2,51.78,Филатов Луг,True,211049
+developer,4,9,2,60.61,Рассказовка,True,180817
+developer,1,8,2,59.6,Рассказовка,True,184266
+developer,2,20,2,47.3,Улица Горчакова,True,232528
+developer,15,15,2,51.9,Ольховая,True,210903
+developer,2,9,2,59.5,Филатов Луг,True,184205
+developer,12,23,2,55.61,Румянцево,True,197498
+developer,3,17,2,51.71,Филатов Луг,True,211279
+developer,6,6,2,58.03,Рассказовка,True,189301
+developer,8,16,2,37.5,Бунинская аллея,True,291675
+developer,4,23,2,58.6,Филатов Луг,True,189016
+developer,10,11,2,50.4,Новомосковская,True,219087
+developer,10,16,2,42.88,Орехово,True,256577
+developer,2,9,2,57.5,Филатов Луг,True,192850
+developer,1,11,2,48.7,Кедровая,True,227454
+developer,6,16,2,42.9,Ольховая,True,257860
+developer,6,14,2,56.34,Летово,True,195727
+developer,8,16,2,51.89,Новоподрезково,True,212514
+developer,10,10,2,38.6,Новомосковская,True,286695
+developer,2,9,2,38.0,Бунинская аллея,True,292103
+developer,3,3,2,54.5,Апрелевка,True,203000
+developer,4,18,2,39.66,Шоссе Энтузиастов,True,280700
+developer,4,8,2,50.3,Улица Горчакова,True,222033
+developer,12,16,2,37.3,Бунинская аллея,True,297943
+developer,1,8,2,52.3,Алтуфьево,True,213600
+developer,5,13,2,53.42,Щербинка,True,209547
+developer,9,13,2,52.75,Филатов Луг,True,211051
+developer,16,16,2,56.7,Филатов Луг,True,196423
+developer,17,23,2,57.27,Румянцево,True,193971
+developer,6,9,2,62.02,Рассказовка,True,179979
+developer,1,8,2,53.89,Рассказовка,True,207054
+developer,1,7,2,57.59,Новоподрезково,True,193409
+developer,1,16,2,57.48,Новоподрезково,True,193248
+developer,8,24,2,48.9,Новомосковская,True,227397
+developer,10,15,2,38.1,Ольховая,True,292992
+developer,11,18,2,51.9,Филатов Луг,True,214676
+developer,3,11,2,49.7,Кедровая,True,225191
+developer,11,16,2,39.4,Новомосковская,True,282511
+developer,5,17,2,54.2,Филатов Луг,True,205910
+developer,6,14,2,67.18,Летово,True,166011
+developer,3,8,2,50.5,Улица Горчакова,True,220575
+developer,17,18,2,38.5,Новомосковская,True,290385
+developer,16,17,2,36.4,Прокшино,True,305782
+developer,2,20,2,49.1,Улица Горчакова,True,230001
+developer,15,16,2,56.7,Филатов Луг,True,198487
+developer,8,9,2,60.3,Рассказовка,True,187049
+developer,3,17,2,53.74,Филатов Луг,True,209685
+developer,1,13,2,57.46,Новоподрезково,True,195387
+developer,13,18,2,49.5,Новомосковская,True,226310
+developer,7,12,2,54.0,Ольховая,True,208251
+developer,9,9,2,62.9,Филатов Луг,True,178980
+developer,2,16,2,42.9,Ольховая,True,262747
+developer,11,11,2,44.4,Новомосковская,True,252412
+developer,10,16,2,38.9,Бунинская аллея,True,289668
+developer,5,9,2,40.2,Бунинская аллея,True,281068
+developer,1,20,2,54.3,Филатов Луг,True,207732
+developer,2,9,2,56.45,Филатов Луг,True,199025
+developer,9,9,2,53.64,Филатов Луг,True,210045
+developer,9,9,2,58.01,Филатов Луг,True,193515
+real_estate_agent,5,14,2,37.8,Сетунь,True,300265
+realtor,6,9,2,44.0,Пражская,True,259091
+real_estate_agent,4,12,2,48.4,Филатов Луг,True,235537
+developer,2,8,2,51.3,Алтуфьево,True,221700
+developer,3,15,2,54.49,Щербинка,True,208201
+developer,12,12,2,38.4,Прокшино,True,297819
+homeowner,2,9,2,44.6,Яхромская,True,255605
+developer,4,11,2,49.7,Зеленоград — Крюково,True,229803
+developer,16,16,2,56.9,Филатов Луг,True,200188
+developer,16,16,2,57.7,Филатов Луг,True,197794
+developer,16,17,2,50.8,Щербинка,True,225339
+developer,21,24,2,44.1,Окружная,True,257640
+developer,3,11,2,52.1,Зеленоград — Крюково,True,218829
+developer,6,17,2,38.0,Бунинская аллея,True,299959
+developer,5,20,2,54.85,Филатов Луг,True,207906
+developer,17,19,2,37.4,Бунинская аллея,True,304942
+developer,16,18,2,38.6,Новомосковская,True,293889
+developer,18,18,2,38.4,Новомосковская,True,295866
+developer,10,16,2,39.6,Бунинская аллея,True,287997
+developer,5,9,2,56.0,Филатов Луг,True,202920
+homeowner,5,5,2,45.3,Кузьминки,True,249448
+developer,16,23,2,45.5,Филатов Луг,True,251087
+real_estate_agent,13,19,2,54.9,Новоподрезково,True,209472
+real_estate_agent,2,15,2,41.6,Потапово,True,276442
+real_estate_agent,8,9,2,44.5,Планерная,True,258427
+realtor,4,16,2,53.6,Новоясеневская,True,213619
+real_estate_agent,4,17,2,42.1,Водный стадион,True,273159
+developer,9,18,2,51.0,Бунинская аллея,True,224513
+developer,3,12,2,54.3,Щербинка,True,212509
+developer,3,9,2,57.2,Толстопальцево,True,201386
+developer,21,25,2,51.7,Зеленоград — Крюково,True,222549
+developer,14,14,2,59.1,Филатов Луг,True,194051
+developer,3,9,2,64.1,Филатов Луг,True,179170
+developer,1,12,2,50.6,Кедровая,True,227451
+developer,3,14,2,55.1,Кедровая,True,208022
+developer,9,14,2,52.2,Кедровая,True,220517
+developer,4,20,2,52.2,Улица Горчакова,True,220794
+developer,3,16,2,41.2,Ольховая,True,278948
+developer,13,17,2,58.9,Бунинская аллея,True,194879
+developer,2,19,2,63.9,Бунинская аллея,True,179358
+developer,5,20,2,47.5,Улица Горчакова,True,241948
+developer,17,23,2,49.4,Новомосковская,True,233734
+homeowner,5,5,2,56.0,Перово,True,205357
+developer,2,9,2,59.45,Филатов Луг,True,193610
+real_estate_agent,8,9,2,43.0,Щёлковская,True,268605
+developer,2,12,2,54.0,Зеленоград — Крюково,True,214923
+developer,15,18,2,53.0,Новомосковская,True,218078
+developer,3,13,2,54.3,Щербинка,True,214281
+developer,12,12,2,51.71,Щербинка,True,223822
+developer,3,12,2,52.91,Щербинка,True,219673
+developer,1,15,2,53.72,Солнцево,True,215437
+developer,9,16,2,61.7,Филатов Луг,True,187688
+developer,10,12,2,39.3,Прокшино,True,296301
+developer,2,9,2,56.5,Толстопальцево,True,205312
+developer,3,9,2,56.98,Филатов Луг,True,203300
+developer,6,14,2,55.5,Кедровая,True,209532
+developer,8,17,2,39.9,Бунинская аллея,True,290061
+developer,3,9,2,60.96,Силикатная,True,190567
+developer,1,15,2,53.0,Новоподрезково,True,218461
+developer,17,17,2,49.7,Бунинская аллея,True,233855
+developer,2,9,2,48.4,Бунинская аллея,True,238729
+developer,3,8,2,45.7,Новомосковская,True,253773
+developer,2,7,2,43.6,Новомосковская,True,265915
+developer,2,17,2,37.1,Прокшино,True,313679
+developer,1,19,2,52.7,Филатов Луг,True,220062
+developer,12,20,2,44.5,Новодачная,True,265000
+developer,17,20,2,44.3,Новодачная,True,265000
+developer,3,11,2,62.5,Щербинка,True,187674
+homeowner,4,9,2,43.0,Новогиреево,True,297674
+developer,7,9,2,55.6,Бунинская аллея,True,209682
+developer,14,23,2,65.98,Румянцево,True,178302
+developer,2,15,2,51.83,Щербинка,True,225992
+developer,14,15,2,54.58,Щербинка,True,215335
+developer,1,16,2,57.48,Новоподрезково,True,203374
+developer,7,24,2,48.8,Окружная,True,241110
+developer,17,24,2,46.8,Окружная,True,251750
+developer,2,14,2,52.5,Кедровая,True,224667
+developer,1,7,2,57.44,Рассказовка,True,204044
+developer,6,14,2,60.15,Рассказовка,True,194685
+developer,11,15,2,50.9,Летово,True,231676
+developer,11,15,2,48.0,Летово,True,244703
+developer,1,13,2,56.38,Новоподрезково,True,207995
+developer,3,17,2,57.16,Филатов Луг,True,204793
+developer,7,14,2,56.98,Филатов Луг,True,206973
+developer,9,11,2,46.6,Новомосковская,True,252475
+developer,9,10,2,40.1,Новомосковская,True,291432
+developer,7,16,2,36.1,Новомосковская,True,324069
+developer,8,13,2,41.5,Прокшино,True,282107
+developer,13,13,2,40.7,Прокшино,True,289497
+developer,2,24,2,56.3,Новомосковская,True,208444
+homeowner,11,14,2,43.7,Юго-Восточная,True,266590
+developer,2,12,2,47.9,Прокшино,True,249803
+developer,8,17,2,36.1,Бунинская аллея,True,332326
+developer,5,13,2,57.59,Щербинка,True,206963
+developer,16,16,2,57.7,Филатов Луг,True,206553
+developer,2,12,2,45.3,Кедровая,True,263907
+developer,1,9,2,59.63,Силикатная,True,200514
+developer,1,5,2,53.92,Рассказовка,True,221022
+developer,1,21,2,36.14,Калитники,True,330730
+developer,17,17,2,60.38,Новоподрезково,True,198403
+developer,14,23,2,53.2,Новомосковская,True,224951
+developer,11,17,2,42.1,Прокшино,True,283514
+developer,2,12,2,42.1,Филатов Луг,True,283084
+developer,2,11,2,51.6,Новомосковская,True,232239
+developer,8,16,2,35.8,Новомосковская,True,332640
+developer,15,25,2,48.6,Зеленоград — Крюково,True,246822
+developer,3,23,2,65.8,Филатов Луг,True,181798
+real_estate_agent,16,16,2,50.5,Румянцево,True,237624
+realtor,4,9,2,37.9,Рабочий посёлок,True,316623
+real_estate_agent,3,12,2,47.0,Люблино,True,255319
+real_estate_agent,6,12,2,48.4,Люблино,True,247934
+developer,12,12,2,52.9,Зеленоград — Крюково,True,228780
+developer,4,12,2,55.2,Зеленоград — Крюково,True,219945
+developer,4,18,2,43.25,Шоссе Энтузиастов,True,280400
+developer,14,15,2,49.9,Строгино,True,243460
+developer,15,18,2,50.1,Бунинская аллея,True,239845
+developer,5,16,2,39.6,Новомосковская,True,304717
+developer,15,15,2,40.6,Филатов Луг,True,296936
+developer,9,18,2,48.9,Бунинская аллея,True,247045
+developer,14,14,2,51.94,Щербинка,True,231543
+developer,2,15,2,60.12,Щербинка,True,200620
+developer,2,17,2,49.5,Корниловская,True,243000
+developer,5,14,2,58.59,Филатов Луг,True,206358
+developer,1,7,2,59.18,Рассказовка,True,202892
+developer,1,13,2,57.77,Новоподрезково,True,208744
+developer,1,14,2,58.06,Новоподрезково,True,207138
+developer,15,15,2,39.6,Филатов Луг,True,305120
+developer,2,9,2,64.8,Филатов Луг,True,187340
+developer,6,11,2,50.5,Новомосковская,True,238459
+developer,15,22,2,54.5,Рассказовка,True,220856
+developer,15,23,2,54.25,Румянцево,True,222802
+developer,10,19,2,61.95,Летово,True,195693
+developer,1,5,2,53.1,Рассказовка,True,228733
+developer,5,9,2,45.2,Новомосковская,True,267144
+developer,2,13,2,43.7,Прокшино,True,275397
+developer,9,16,2,42.6,Прокшино,True,284505
+developer,20,24,2,52.2,Новомосковская,True,230221
+developer,13,16,2,34.1,Прокшино,True,354213
+developer,4,14,2,48.8,Бунинская аллея,True,248249
+realtor,7,17,2,60.3,Некрасовка,True,215589
+unknown,3,9,2,45.1,Текстильщики,True,254080
+developer,2,16,2,55.54,Тульская,True,418800
+real_estate_agent,12,17,2,52.0,Крылатское,True,344231
+realtor,3,9,2,45.0,Пражская,True,331111
+real_estate_agent,5,24,2,49.1,Ольховая,True,287169
+developer,3,16,2,59.9,Тушинская,True,314977
+real_estate_agent,12,17,2,53.6,Коломенская,True,408582
+homeowner,6,9,3,60.0,Бибирево,True,308333
+real_estate_agent,4,9,3,52.0,Измайловская,True,326923
+real_estate_agent,11,20,3,87.02,Тульская,True,378200
+realtor,7,9,3,58.0,Улица Академика Янгеля,True,272414
+real_estate_agent,6,12,3,65.6,Филатов Луг,True,193598
+realtor,6,9,3,58.7,Крымская,True,366269
+real_estate_agent,8,12,3,65.7,Раменки,True,405023
+developer,7,13,3,50.8,Ватутинки,True,312937
+realtor,12,17,3,75.4,Беляево,True,311671
+developer,2,19,3,76.8,ЗИЛ,True,407631
+developer,7,25,3,64.8,Саларьево,True,272750
+developer,14,18,3,61.9,not available,False,261250
+developer,7,27,3,85.57,Улица Милашенкова,True,410074
+developer,2,13,3,61.5,Прокшино,True,240415
+developer,14,15,3,52.8,Ольховая,True,226194
+developer,5,19,3,66.2,not available,False,217200
+developer,2,20,3,75.1,Филатов Луг,True,191326
+developer,2,17,3,65.6,Корниловская,True,249317
+real_estate_agent,5,24,3,90.0,Шелепиха,True,398889
+real_estate_agent,4,9,3,61.6,Щёлковская,True,308279
+real_estate_agent,6,14,3,70.5,Коломенская,True,340426
+realtor,4,9,3,74.0,Потапово,True,262162
+realtor,16,17,3,74.8,Бунинская аллея,True,274064
+real_estate_agent,2,25,3,66.2,Аннино,True,348489
+real_estate_agent,5,9,3,50.9,Боровское шоссе,True,215128
+real_estate_agent,9,9,3,50.0,Пражская,True,232000
+real_estate_agent,7,13,3,61.5,Прокшино,True,219512
+real_estate_agent,9,12,3,61.0,Юго-Восточная,True,241656
+real_estate_agent,4,9,3,60.0,Генерала Тюленева,True,261650
+real_estate_agent,8,25,3,80.0,Технопарк,True,387500
+real_estate_agent,9,12,3,64.0,Новогиреево,True,193750
+real_estate_agent,9,9,3,55.8,Южная,True,285842
+real_estate_agent,14,16,3,65.1,Генерала Тюленева,True,263825
+real_estate_agent,9,17,3,74.7,Некрасовка,True,235609
+real_estate_agent,11,12,3,64.6,Нагорная,True,277090
+real_estate_agent,2,4,3,61.8,Марьина Роща,True,354369
+real_estate_agent,7,21,3,78.7,Полежаевская,True,336976
+real_estate_agent,7,21,3,67.4,Славянский бульвар,True,445104
+real_estate_agent,6,11,3,79.7,Москва-Товарная,True,395232
+real_estate_agent,17,25,3,90.1,Технопарк,True,410655
+real_estate_agent,9,16,3,64.0,Улица Дмитриевского,True,179688
+real_estate_agent,8,9,3,58.3,Дегунино,True,222813
+real_estate_agent,7,17,3,72.0,Щербинка,True,191667
+real_estate_agent,4,9,3,59.1,Грачёвская,True,253807
+real_estate_agent,5,5,3,55.6,Красный Балтиец,True,269784
+real_estate_agent,3,15,3,64.8,ЦСКА,True,370934
+homeowner,10,14,3,73.4,Лефортово,True,347411
+homeowner,2,25,3,85.0,Аннино,True,317647
+realtor,3,8,3,75.6,Савёловская,True,376984
+realtor,2,9,3,60.0,Пражская,True,253333
+real_estate_agent,3,5,3,56.5,Бульвар Рокоссовского,True,274336
+real_estate_agent,1,9,3,64.8,Дегунино,True,254630
+real_estate_agent,14,14,3,84.5,Ольховая,True,203550
+real_estate_agent,3,8,3,81.6,Нагорная,True,214449
+developer,2,19,3,83.2,Филатов Луг,True,209324
+real_estate_agent,5,12,3,80.1,Люблино,True,220974
+real_estate_agent,16,19,3,86.4,Рассказовка,True,218750
+realtor,3,12,3,81.0,Бульвар Дмитрия Донского,True,234568
+real_estate_agent,1,4,3,65.0,Измайловская,True,290769
+real_estate_agent,1,17,3,85.0,Ольховая,True,223529
+real_estate_agent,8,18,3,76.1,Ботанический сад,True,249671
+developer,2,7,3,83.5,Филатов Луг,True,237000
+real_estate_agent,7,17,3,78.3,Жулебино,True,254151
+real_estate_agent,10,12,3,64.0,Строгино,True,309375
+real_estate_agent,5,5,3,60.5,Профсоюзная,True,328926
+real_estate_agent,10,22,3,81.4,Саларьево,True,244472
+real_estate_agent,4,26,3,65.7,Водный стадион,True,304414
+developer,5,8,3,85.4,Филатов Луг,True,242700
+real_estate_agent,14,14,3,75.0,Пенягино,True,280000
+real_estate_agent,18,22,3,81.2,Митино,True,261084
+real_estate_agent,14,14,3,74.6,Рабочий посёлок,True,281501
+real_estate_agent,8,25,3,73.1,Бульвар Рокоссовского,True,287278
+real_estate_agent,12,12,3,70.0,Нагорная,True,304286
+real_estate_agent,12,17,3,87.1,Новомосковская,True,249139
+real_estate_agent,5,12,3,64.9,Шелепиха,True,337442
+real_estate_agent,2,9,3,56.8,Новые Черёмушки,True,389085
+real_estate_agent,3,9,3,62.0,Петровско-Разумовская,True,362742
+real_estate_agent,7,20,3,76.4,Рабочий посёлок,True,294372
+real_estate_agent,11,24,3,85.0,Марьино,True,264706
+real_estate_agent,4,6,3,68.5,Бауманская,True,328467
+real_estate_agent,2,5,3,62.0,Измайловская,True,364516
+realtor,7,9,3,68.0,Войковская,True,335294
+real_estate_agent,1,12,3,62.8,Планерная,True,374204
+real_estate_agent,20,20,3,72.7,Саларьево,True,327992
+real_estate_agent,2,22,3,76.5,Коньково,True,316340
+real_estate_agent,1,17,3,73.0,Новые Черёмушки,True,335616
+real_estate_agent,6,6,3,77.0,Полежаевская,True,318182
+real_estate_agent,7,21,3,79.1,Полежаевская,True,327434
+real_estate_agent,2,24,3,60.1,Народное Ополчение,True,427621
+real_estate_agent,17,21,3,60.3,Фили,True,431177
+real_estate_agent,2,17,3,68.4,Говорово,True,387427
+real_estate_agent,7,17,3,78.7,Тропарёво,True,349428
+real_estate_agent,7,12,3,79.6,ЗИЛ,True,351759
+real_estate_agent,15,23,3,81.0,ЗИЛ,True,345679
+real_estate_agent,17,23,3,77.2,Беломорская,True,370000
+real_estate_agent,11,21,3,65.7,Народное Ополчение,True,441400
+real_estate_agent,7,23,3,83.0,ЗИЛ,True,360241
+real_estate_agent,4,4,3,75.6,Серпуховская,True,425265
+real_estate_agent,6,14,3,89.7,Спартак,True,399108
+developer,5,21,3,78.6,Площадь Ильича,True,419800
+real_estate_agent,4,5,3,54.8,Тёплый Стан,True,160584
+developer,4,9,3,59.6,Толстопальцево,True,160194
+developer,6,9,3,59.3,Толстопальцево,True,161189
+developer,9,10,3,59.8,Толстопальцево,True,164120
+developer,4,9,3,62.1,Толстопальцево,True,158746
+developer,10,10,3,60.7,Толстопальцево,True,163381
+real_estate_agent,1,3,3,74.7,Апрелевка,True,133735
+developer,9,10,3,59.4,Толстопальцево,True,170859
+developer,7,10,3,57.0,Толстопальцево,True,181012
+developer,3,3,3,71.3,not available,False,144000
+developer,2,9,3,62.8,Толстопальцево,True,166227
+developer,3,10,3,62.3,Толстопальцево,True,167372
+developer,6,15,3,59.64,Румянцево,True,176556
+developer,2,9,3,60.1,Толстопальцево,True,178531
+developer,2,15,3,54.35,Солнцево,True,199100
+developer,2,9,3,60.6,Толстопальцево,True,178169
+developer,2,9,3,70.6,Толстопальцево,True,153281
+developer,3,9,3,56.8,Толстопальцево,True,189671
+developer,14,19,3,58.0,Улица Горчакова,True,188630
+developer,2,18,3,58.4,Бунинская аллея,True,187230
+developer,9,9,3,60.2,Улица Горчакова,True,182713
+unknown,4,9,3,52.5,Люблино,True,209333
+developer,1,15,3,54.78,Солнцево,True,202600
+developer,3,9,3,60.1,Улица Горчакова,True,183171
+developer,14,14,3,78.33,Щербинка,True,140896
+developer,5,10,3,60.2,Толстопальцево,True,184039
+developer,12,19,3,59.3,Улица Горчакова,True,187219
+developer,11,16,3,64.1,Филатов Луг,True,181164
+developer,2,9,3,56.8,Кедровая,True,204067
+real_estate_agent,2,9,3,58.3,Улица Академика Янгеля,True,200686
+developer,2,17,3,80.96,Филатов Луг,True,144136
+developer,9,16,3,64.9,Филатов Луг,True,181125
+developer,8,9,3,66.57,Рассказовка,True,176907
+realtor,6,9,3,60.3,Зябликово,True,194030
+developer,2,10,3,76.0,Толстопальцево,True,154544
+developer,2,9,3,58.7,Кедровая,True,199199
+developer,4,9,3,57.8,Кедровая,True,202699
+developer,1,14,3,78.08,Рассказовка,True,149488
+developer,7,10,3,59.9,Толстопальцево,True,198620
+developer,3,14,3,61.1,Кедровая,True,193208
+developer,12,17,3,87.61,Филатов Луг,True,135621
+real_estate_agent,8,9,3,49.5,Медведково,True,240404
+developer,4,15,3,58.39,Солнцево,True,204785
+developer,2,15,3,50.26,Солнцево,True,237306
+developer,16,16,3,78.44,Новоподрезково,True,152715
+developer,4,14,3,61.6,Кедровая,True,193961
+developer,2,17,3,61.5,Улица Горчакова,True,194678
+real_estate_agent,8,9,3,52.0,Дегунино,True,232692
+real_estate_agent,14,17,3,78.3,Троицк,True,153257
+developer,2,15,3,59.31,Румянцево,True,204509
+developer,17,18,3,57.4,Бунинская аллея,True,210124
+developer,6,10,3,79.1,Толстопальцево,True,152064
+developer,2,12,3,78.33,Щербинка,True,155090
+developer,3,10,3,75.7,Толстопальцево,True,160078
+developer,2,12,3,81.44,Рассказовка,True,148004
+developer,2,14,3,78.33,Щербинка,True,155729
+developer,2,12,3,78.33,Щербинка,True,156318
+developer,6,10,3,75.0,Толстопальцево,True,162623
+developer,2,10,3,74.9,Толстопальцево,True,162648
+developer,8,23,3,66.0,Филатов Луг,True,184316
+real_estate_agent,3,9,3,68.4,Новогиреево,True,180556
+developer,16,18,3,63.9,Бунинская аллея,True,192884
+developer,2,10,3,79.5,Толстопальцево,True,155940
+developer,2,6,3,76.47,Рассказовка,True,161681
+developer,14,23,3,64.09,Румянцево,True,191573
+developer,12,16,3,78.83,Летово,True,156945
+developer,15,15,3,58.0,Ольховая,True,212390
+developer,9,16,3,64.8,Филатов Луг,True,192541
+developer,7,10,3,60.0,Толстопальцево,True,206752
+developer,2,9,3,57.0,Улица Горчакова,True,218266
+developer,4,6,3,76.54,Рассказовка,True,162982
+developer,7,9,3,53.5,Бунинская аллея,True,232734
+developer,11,19,3,68.0,Улица Горчакова,True,182713
+real_estate_agent,4,9,3,59.3,Щёлковская,True,210793
+developer,2,9,3,62.9,Толстопальцево,True,199375
+developer,2,15,3,52.42,Солнцево,True,238832
+developer,2,9,3,80.96,Рассказовка,True,154900
+developer,2,9,3,78.55,Рассказовка,True,160335
+developer,6,9,3,70.3,Бунинская аллея,True,179648
+developer,8,12,3,79.83,Силикатная,True,157908
+developer,3,9,3,63.5,Улица Горчакова,True,197866
+developer,10,10,3,61.7,Толстопальцево,True,206274
+developer,6,9,3,59.8,Бунинская аллея,True,212668
+developer,3,23,3,72.4,Филатов Луг,True,175097
+real_estate_agent,5,5,3,53.0,Коптево,True,241509
+developer,3,15,3,67.75,Солнцево,True,190100
+developer,8,16,3,64.1,Филатов Луг,True,200575
+developer,2,9,3,70.7,Улица Горчакова,True,181206
+developer,12,12,3,55.2,Кедровая,True,233207
+developer,14,16,3,61.0,Ольховая,True,209094
+developer,6,14,3,54.3,Кедровая,True,238969
+developer,7,9,3,70.5,Улица Горчакова,True,184146
+developer,3,18,3,64.6,Бунинская аллея,True,200207
+developer,12,19,3,73.3,Улица Горчакова,True,178091
+developer,15,16,3,81.28,Новоподрезково,True,161070
+developer,2,15,3,56.55,Солнцево,True,231027
+developer,14,15,3,63.7,Ольховая,True,205834
+developer,3,9,3,54.9,Новомосковская,True,237270
+developer,4,12,3,67.5,Кедровая,True,193956
+developer,2,12,3,67.4,Кедровая,True,193205
+developer,17,17,3,76.46,Филатов Луг,True,170664
+developer,6,9,3,63.6,Улица Горчакова,True,204845
+developer,9,9,3,56.4,Улица Горчакова,True,231744
+developer,2,15,3,70.9,Ольховая,True,184421
+developer,12,15,3,67.9,Ольховая,True,193583
+developer,4,11,3,67.0,Щербинка,True,195672
+developer,4,23,3,74.6,Филатов Луг,True,175569
+developer,7,11,3,56.7,Новомосковская,True,234385
+developer,10,13,3,57.1,Новомосковская,True,231954
+developer,5,15,3,59.66,Солнцево,True,222821
+developer,5,23,3,73.8,Филатов Луг,True,183309
+developer,2,15,3,61.98,Румянцево,True,219900
+developer,3,15,3,50.9,Румянцево,True,268562
+developer,5,9,3,70.4,Толстопальцево,True,194444
+developer,11,11,3,72.1,Кедровая,True,189806
+developer,3,11,3,74.1,Кедровая,True,184548
+developer,1,12,3,59.6,Кедровая,True,229211
+developer,7,17,3,78.8,Филатов Луг,True,172123
+developer,1,23,3,83.69,Летово,True,163318
+developer,13,16,3,78.55,Новоподрезково,True,173459
+developer,17,17,3,78.11,Филатов Луг,True,174125
+developer,8,9,3,63.2,Бунинская аллея,True,214585
+developer,9,23,3,69.6,Филатов Луг,True,197409
+developer,1,15,3,52.28,Румянцево,True,262836
+developer,2,11,3,75.0,Кедровая,True,183800
+developer,15,18,3,55.2,Бунинская аллея,True,248971
+developer,1,15,3,66.82,Солнцево,True,206300
+developer,12,12,3,56.6,Новомосковская,True,242917
+real_estate_agent,5,12,3,64.7,Бульвар Рокоссовского,True,213292
+real_estate_agent,3,9,3,56.2,Домодедовская,True,247331
+developer,2,9,3,73.3,Бунинская аллея,True,190196
+developer,10,14,3,87.33,Щербинка,True,158986
+developer,3,15,3,56.52,Румянцево,True,245700
+real_estate_agent,3,9,3,57.9,Коломенская,True,400518
+real_estate_agent,6,16,3,73.4,Генерала Тюленева,True,261580
+developer,3,24,3,73.2,Технопарк,True,405144
+developer,5,12,3,78.69,Щербинка,True,176278
+developer,8,14,3,75.8,Филатов Луг,True,182259
+developer,11,12,3,73.1,Кедровая,True,189808
+developer,7,12,3,80.86,Силикатная,True,171117
+developer,3,17,3,76.43,Филатов Луг,True,181811
+developer,6,15,3,75.0,Бунинская аллея,True,184795
+developer,3,9,3,75.6,Улица Горчакова,True,183319
+realtor,4,9,3,60.1,Коньково,True,231248
+developer,2,7,3,65.3,Нахабино,True,213400
+real_estate_agent,6,16,3,52.5,Университет Дружбы Народов,True,266667
+real_estate_agent,8,9,3,58.2,Тёплый Стан,True,240550
+developer,1,11,3,65.0,Зеленоград — Крюково,True,215760
+developer,3,8,3,62.8,Новомосковская,True,222652
+developer,12,15,3,56.36,Румянцево,True,249200
+developer,5,14,3,77.68,Филатов Луг,True,181337
+developer,2,13,3,76.45,Новоподрезково,True,183517
+developer,13,13,3,76.45,Новоподрезково,True,183003
+developer,3,18,3,59.2,Бунинская аллея,True,236680
+developer,3,9,3,62.1,Бунинская аллея,True,225659
+developer,2,16,3,60.3,Ольховая,True,232405
+developer,13,14,3,77.91,Щербинка,True,182570
+developer,3,12,3,78.69,Щербинка,True,180502
+developer,16,23,3,56.1,Филатов Луг,True,253111
+developer,8,16,3,75.1,Филатов Луг,True,187829
+developer,2,16,3,80.62,Новоподрезково,True,175831
+developer,2,9,3,78.8,Толстопальцево,True,179048
+developer,10,13,3,68.21,Филатов Луг,True,208881
+developer,8,9,3,78.95,Силикатная,True,179607
+developer,3,9,3,79.1,Улица Горчакова,True,179712
+developer,15,15,3,59.3,Ольховая,True,238955
+developer,2,17,3,71.7,Щербинка,True,198090
+developer,2,23,3,79.1,Филатов Луг,True,178820
+developer,1,20,3,76.4,Филатов Луг,True,184606
+developer,4,9,3,69.8,Толстопальцево,True,204306
+developer,4,23,3,80.8,Филатов Луг,True,178170
+developer,5,9,3,79.2,Улица Горчакова,True,181088
+developer,7,11,3,63.1,Новомосковская,True,228132
+developer,5,23,3,60.1,Филатов Луг,True,237487
+developer,5,9,3,78.1,Улица Горчакова,True,183216
+developer,15,15,3,75.4,Ольховая,True,190961
+developer,16,16,3,74.0,Ольховая,True,193082
+developer,3,23,3,80.4,Филатов Луг,True,177682
+real_estate_agent,3,9,3,51.1,Медведково,True,283757
+real_estate_agent,7,9,3,58.5,Грачёвская,True,246154
+developer,3,23,3,83.5,Филатов Луг,True,172806
+developer,11,14,3,75.07,Щербинка,True,193308
+developer,5,9,3,78.2,Толстопальцево,True,185790
+developer,4,10,3,71.2,Толстопальцево,True,203219
+developer,10,13,3,76.49,Новоподрезково,True,189259
+developer,9,19,3,78.5,Бунинская аллея,True,185231
+developer,4,9,3,75.6,Улица Горчакова,True,192012
+developer,2,23,3,83.4,Филатов Луг,True,175569
+developer,5,9,3,64.7,Новомосковская,True,225454
+developer,1,15,3,71.1,Солнцево,True,206300
+developer,9,9,3,66.1,Бунинская аллея,True,221266
+developer,2,17,3,78.3,Щербинка,True,186558
+developer,2,9,3,64.0,Бунинская аллея,True,228285
+developer,4,18,3,63.0,Бунинская аллея,True,233068
+developer,9,14,3,61.8,Новомосковская,True,235843
+developer,2,12,3,90.1,Ольховая,True,162097
+developer,4,12,3,59.0,Бунинская аллея,True,249961
+developer,14,15,3,63.3,Ольховая,True,233124
+real_estate_agent,1,16,3,64.3,Южная,True,230171
+developer,14,23,3,60.7,Филатов Луг,True,246012
+developer,15,16,3,75.5,Ольховая,True,197594
+developer,1,9,3,63.6,Кедровая,True,234072
+developer,1,12,3,65.2,Кедровая,True,229202
+developer,7,17,3,78.86,Филатов Луг,True,188607
+developer,3,13,3,61.1,Прокшино,True,244110
+developer,2,16,3,81.4,Бунинская аллея,True,183058
+developer,2,9,3,69.7,Улица Горчакова,True,213494
+developer,2,8,3,67.6,Улица Горчакова,True,219607
+developer,16,16,3,56.3,Прокшино,True,265437
+realtor,13,18,3,74.5,Бунинская аллея,True,201342
+real_estate_agent,6,9,3,59.6,Новогиреево,True,250839
+realtor,3,3,3,65.0,Вешняки,True,230000
+realtor,7,8,3,70.0,Стахановская,True,214271
+real_estate_agent,10,12,3,64.0,Домодедовская,True,234375
+developer,3,19,3,69.9,not available,False,215200
+developer,7,10,3,76.08,Щербинка,True,197796
+developer,7,7,3,78.48,Рассказовка,True,191808
+developer,8,8,3,59.7,Бунинская аллея,True,252619
+developer,4,12,3,66.7,Новомосковская,True,225234
+developer,13,13,3,56.4,Прокшино,True,265626
+developer,4,17,3,78.8,Щербинка,True,190185
+developer,4,23,3,85.5,Филатов Луг,True,174919
+developer,9,23,3,70.7,Филатов Луг,True,215137
+developer,4,15,3,59.0,Бунинская аллея,True,258433
+developer,7,27,3,79.4,Щукинская,True,401946
+developer,6,15,3,69.74,Тульская,True,429200
+real_estate_agent,3,6,3,72.0,Савёловская,True,416667
+developer,15,17,4,66.5,Прокшино,True,255113
+developer,16,23,4,66.7,Новомосковская,True,209909
+developer,8,23,4,85.9,Филатов Луг,True,178495
+developer,5,16,4,86.7,Октябрьское поле,True,425944
+developer,10,14,4,65.5,Бунинская аллея,True,225788
+developer,2,22,4,83.7,Бунинская аллея,True,222200
+developer,9,15,4,62.1,Ольховая,True,200397
+developer,2,19,4,78.4,not available,False,213200
+developer,4,9,4,78.5,Толстопальцево,True,162738
+developer,20,23,4,85.2,Филатов Луг,True,237949
+real_estate_agent,2,9,4,62.8,Зеленоград — Крюково,True,171975
+real_estate_agent,1,9,4,64.0,Домодедовская,True,195156
+real_estate_agent,2,9,4,62.2,Пражская,True,241158
+real_estate_agent,2,14,4,86.1,Бульвар Дмитрия Донского,True,185830
+real_estate_agent,4,16,4,85.4,Потапово,True,298595
+real_estate_agent,3,13,4,82.6,Чкаловская,True,363196
+real_estate_agent,1,5,4,81.6,Спортивная,True,428922
+real_estate_agent,14,26,4,84.3,Шелепиха,True,438909
+developer,5,19,4,66.6,Улица Горчакова,True,178620
+developer,11,19,4,66.5,Улица Горчакова,True,180333
+developer,3,19,4,67.3,Бунинская аллея,True,179305
+developer,8,15,4,65.6,Ольховая,True,195931
+developer,12,22,4,65.9,Бунинская аллея,True,197235
+developer,4,12,4,64.4,Ольховая,True,203212
+developer,4,9,4,77.5,Толстопальцево,True,169890
+developer,15,15,4,65.2,Ольховая,True,202041
+developer,2,19,4,78.0,Улица Горчакова,True,173323
+developer,2,22,4,81.2,Бунинская аллея,True,165355
+developer,2,10,4,67.2,Толстопальцево,True,202816
+developer,2,19,4,77.9,Улица Горчакова,True,176162
+developer,7,9,4,75.2,Толстопальцево,True,186070
+developer,2,20,4,67.7,Улица Горчакова,True,208397
+developer,7,9,4,78.4,Толстопальцево,True,186448
+developer,7,18,4,66.4,Новомосковская,True,219450
+developer,3,20,4,67.3,Улица Горчакова,True,217848
+developer,7,9,4,64.6,Новомосковская,True,228954
+developer,9,20,4,78.9,Улица Горчакова,True,187672
+developer,13,24,4,65.9,Новомосковская,True,225850
+developer,12,19,4,78.5,Бунинская аллея,True,190339
+developer,2,18,4,66.5,Бунинская аллея,True,222810
+developer,14,19,4,78.4,Бунинская аллея,True,192280
+developer,4,13,4,66.0,Бунинская аллея,True,227046
+developer,15,17,4,71.9,Бунинская аллея,True,209242
+developer,3,18,4,66.1,Бунинская аллея,True,230201
+developer,10,10,4,64.1,Новомосковская,True,237988
+developer,3,9,4,66.2,Бунинская аллея,True,232395
+developer,7,19,4,66.2,Бунинская аллея,True,234807
+developer,6,9,4,79.0,Толстопальцево,True,199274
+realtor,3,9,4,63.0,Южная,True,253968
+developer,4,23,4,85.3,Филатов Луг,True,187111
+developer,5,10,4,89.3,Толстопальцево,True,178886
+developer,10,17,4,65.6,Бунинская аллея,True,244416
+developer,12,18,4,66.1,Бунинская аллея,True,243353
+developer,15,16,4,65.5,Новомосковская,True,246448
+real_estate_agent,8,9,4,62.0,Южная,True,261290
+developer,12,23,4,77.7,Новомосковская,True,209175
+developer,12,16,4,65.5,Новомосковская,True,248808
+developer,2,14,4,77.3,Бунинская аллея,True,211515
+developer,16,23,4,77.4,Новомосковская,True,213462
+developer,11,18,4,66.3,Бунинская аллея,True,250442
+developer,7,9,4,75.4,Бунинская аллея,True,219836
+developer,15,15,4,77.7,Ольховая,True,214871
+developer,15,18,4,77.5,Новомосковская,True,216074
+developer,13,24,4,78.8,Новомосковская,True,212237
+developer,6,15,4,85.0,Ольховая,True,196714
+developer,2,15,4,85.8,Ольховая,True,196421
+developer,15,19,4,72.5,Бунинская аллея,True,230913
+developer,9,18,4,78.5,Бунинская аллея,True,216801
+developer,9,13,4,78.3,Бунинская аллея,True,216924
+developer,16,17,4,66.5,Прокшино,True,256378
+developer,17,18,4,69.3,Новомосковская,True,245213
+developer,2,15,4,80.2,Ольховая,True,211301
+developer,3,19,4,80.8,not available,False,213200
+developer,4,19,4,78.5,Бунинская аллея,True,219596
+developer,5,14,4,78.5,Бунинская аллея,True,220667
+developer,6,17,4,65.4,Бунинская аллея,True,267917
+developer,14,15,4,61.7,Филатов Луг,True,284335
+developer,5,17,4,65.2,Бунинская аллея,True,270133
+developer,12,18,4,66.2,Бунинская аллея,True,265732
+developer,10,14,4,78.1,Бунинская аллея,True,226559
+developer,9,19,4,78.4,Бунинская аллея,True,225166
+developer,2,9,4,84.0,Бунинская аллея,True,209076
+developer,12,12,4,78.6,Ольховая,True,226550
+developer,4,9,4,78.6,Бунинская аллея,True,226023
+developer,4,16,4,79.0,Новомосковская,True,228732
+developer,3,17,4,65.6,Бунинская аллея,True,273368
+developer,10,23,4,76.1,Филатов Луг,True,236770
+developer,9,17,4,78.3,Бунинская аллея,True,232472
+developer,3,18,4,78.6,Бунинская аллея,True,232685
+developer,7,17,4,65.1,Бунинская аллея,True,279246
+developer,2,14,4,71.9,Бунинская аллея,True,253500
+developer,17,17,4,77.4,Прокшино,True,238359
+developer,4,14,4,69.7,Бунинская аллея,True,267399
+developer,4,17,4,78.5,Прокшино,True,237326
+developer,8,9,4,86.6,Аэропорт Внуково,True,213100
+developer,6,17,4,78.4,Прокшино,True,239776
+developer,14,16,4,78.4,Новомосковская,True,240152
+developer,13,16,4,78.5,Новомосковская,True,238962
+developer,3,22,4,82.8,Бунинская аллея,True,229000
+developer,6,14,4,71.1,Бунинская аллея,True,265664
+developer,3,11,4,79.7,Бунинская аллея,True,236600
+developer,8,14,4,69.4,Бунинская аллея,True,272825
+developer,2,17,4,88.0,Бунинская аллея,True,214738
+developer,7,16,4,72.3,Бунинская аллея,True,265255
+developer,10,22,4,90.0,Филатов Луг,True,215085
+developer,9,12,4,77.4,Бунинская аллея,True,251485
+developer,4,17,4,78.5,Бунинская аллея,True,248634
+developer,10,15,4,72.2,Филатов Луг,True,271788
+developer,6,17,4,78.4,Бунинская аллея,True,251168
+developer,3,17,4,78.8,Бунинская аллея,True,250104
+developer,3,17,4,78.7,Бунинская аллея,True,253094
+developer,6,17,4,78.4,Бунинская аллея,True,257048
+developer,2,17,4,86.9,Бунинская аллея,True,232398
+developer,2,9,4,83.6,Бунинская аллея,True,241822
+developer,3,9,4,83.3,Бунинская аллея,True,249738
+developer,16,16,4,80.7,Бунинская аллея,True,257895
+developer,11,16,4,80.8,Бунинская аллея,True,261790
+developer,2,18,4,81.7,Бунинская аллея,True,269671
+real_estate_agent,1,15,4,78.6,Марьина Роща,True,290076
+developer,6,18,4,88.1,Бунинская аллея,True,262799
+developer,15,15,4,84.6,Филатов Луг,True,277188
+developer,2,9,4,78.2,Нижегородская,True,308955
+developer,2,11,4,79.6,Нижегородская,True,306504
+developer,2,11,4,79.4,Нижегородская,True,311801
+developer,9,25,4,80.7,Бульвар Рокоссовского,True,316658
+developer,14,25,4,86.0,Бульвар Рокоссовского,True,296650
+developer,11,11,4,85.2,Нижегородская,True,302877
+developer,6,9,4,83.4,Коптево,True,351078
+developer,18,18,4,90.0,Прокшино,True,339434
+real_estate_agent,1,5,4,76.1,Спортивная,True,433640
